@@ -1,0 +1,178 @@
+WARC-Type: response
+WARC-Date: 2012-02-10T22:50:41Z
+WARC-TREC-ID: clueweb12-0000tw-00-00000
+WARC-IP-Address: 100.42.48.208
+WARC-Payload-Digest: sha1:AWFIWQVDEWN5WD5I7WHPUWT6CVHCXHTU
+WARC-Target-URI: http://tsawer.net/2012/02/10/france-image-pool-2012-02-10-162252/
+WARC-Record-ID: 
+Content-Type: application/http; msgtype=response
+Content-Length: 22981
+
+HTTP/1.1 200 OK
+Date: Fri, 10 Feb 2012 22:50:40 GMT
+Server: Apache/2.2.21 (Unix) mod_ssl/2.2.21 OpenSSL/0.9.8e-fips-rhel5 mod_auth_passthrough/2.1 mod_bwlimited/1.4 FrontPage/5.0.2.2635 mod_jk/1.2.32
+Expires: Thu, 19 Nov 1981 08:52:00 GMT
+Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+Pragma: no-cache
+X-Pingback: http://tsawer.net/wpaggregator/xmlrpc.php
+Link: ; rel=shortlink
+Vary: Accept-Encoding,User-Agent
+Connection: close
+Content-Type: text/html; charset=UTF-8
+
+
+
+
+
+
+			  France image Pool 2012-02-10 16:22:52	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+rss §
+atom §
+rdf
+
+
+Photos aggregator
+ dynamic content 
+
+
+Search:
+
+
+
+
+
+
+
+
+Add album/Contact us
+News
+Reviews
+
+
+
+
+
+
+shaggyshoo has added a photo to the pool:
+
+
+annecy. france.
+
+
+ 
+
+France image Pool 2012-02-10 16:22:52
+
+February 10th, 2012
+
+
+
+
+
+ 
+ 
+
+
+ Tags cloud
+2008
+amateur photographer
+baby
+blue
+car
+cat
+con
+ct
+ds
+el
+est
+flickr
+hot
+ice
+image
+la
+lady
+man
+me
+men
+mer
+nb
+ol
+one
+people
+photo
+photos
+photos
+pictures
+amateur photographer
+pictures
+port
+q
+ran
+red
+riot
+Tunis
+Tunisia
+up
+us
+vie
+xtWP Cumulus Flash tag cloud by Roy Tanck and Luke Morton requires Flash Player 9 or better. 
+Twits from 'photobabble'
+No public Twitter messages.
+
+
+
+
+
+
+Based on Ocular Professor § Powered by WordPress
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,760 @@
+	<http://www.wikidata.org/entity/Q16975235>	{'WARC'}
+	<http://www.wikidata.org/entity/Q2536862>	{'WARC'}
+	<http://www.wikidata.org/entity/Q84037847>	{'WARC 1.1'}
+	<http://www.wikidata.org/entity/Q203692>	{'WARC bands'}
+	<http://www.wikidata.org/entity/Q84037677>	{'WARC Format 1.0 specification'}
+	<http://www.wikidata.org/entity/Q84037796>	{'WARC Format 1.1 specification'}
+	<http://www.wikidata.org/entity/Q61931181>	{'Wisconsin Disability Association'}
+	<http://www.wikidata.org/entity/Q7978505>	{'Web ARChive'}
+	<http://www.wikidata.org/entity/Q11638583>	{'Western Region Agricultural Research Center'}
+	<http://www.wikidata.org/entity/Q20026787>	{'chemical component'}
+	<http://www.wikidata.org/entity/Q16975235>	{'WARC'}
+	<http://www.wikidata.org/entity/Q2536862>	{'WARC'}
+	<http://www.wikidata.org/entity/Q84037847>	{'WARC 1.1'}
+	<http://www.wikidata.org/entity/Q203692>	{'WARC bands'}
+	<http://www.wikidata.org/entity/Q84037677>	{'WARC Format 1.0 specification'}
+	<http://www.wikidata.org/entity/Q84037796>	{'WARC Format 1.1 specification'}
+	<http://www.wikidata.org/entity/Q61931181>	{'Wisconsin Disability Association'}
+	<http://www.wikidata.org/entity/Q7978505>	{'Web ARChive'}
+	<http://www.wikidata.org/entity/Q11638583>	{'Western Region Agricultural Research Center'}
+	<http://www.wikidata.org/entity/Q27877369>	{'Chris Has Got a Date, Date, Date, Date, Date'}
+	<http://www.wikidata.org/entity/Q16975235>	{'WARC'}
+	<http://www.wikidata.org/entity/Q2536862>	{'WARC'}
+	<http://www.wikidata.org/entity/Q1144928>	{'filename'}
+	<http://www.wikidata.org/entity/Q84037847>	{'WARC 1.1'}
+	<http://www.wikidata.org/entity/Q203692>	{'WARC bands'}
+	<http://www.wikidata.org/entity/Q14940362>	{'Template:IPA_audio_filename/filename'}
+	<http://www.wikidata.org/entity/Q5448379>	{'Filename mangling'}
+	<http://www.wikidata.org/entity/Q827237>	{'Long filename'}
+	<http://www.wikidata.org/entity/Q56191>	{'8.3 filename'}
+	<http://www.wikidata.org/entity/Q186157>	{'filename extension'}
+	<http://www.wikidata.org/entity/Q16975235>	{'WARC'}
+	<http://www.wikidata.org/entity/Q2536862>	{'WARC'}
+	<http://www.wikidata.org/entity/Q84037847>	{'WARC 1.1'}
+	<http://www.wikidata.org/entity/Q203692>	{'WARC bands'}
+	<http://www.wikidata.org/entity/Q84037677>	{'WARC Format 1.0 specification'}
+	<http://www.wikidata.org/entity/Q84037796>	{'WARC Format 1.1 specification'}
+	<http://www.wikidata.org/entity/Q61931181>	{'Wisconsin Disability Association'}
+	<http://www.wikidata.org/entity/Q7978505>	{'Web ARChive'}
+	<http://www.wikidata.org/entity/Q11638583>	{'Western Region Agricultural Research Center'}
+	<http://www.wikidata.org/entity/Q46333820>	{'Radiographic interpretation of endodontic file length.'}
+	<http://www.wikidata.org/entity/Q16975235>	{'WARC'}
+	<http://www.wikidata.org/entity/Q2536862>	{'WARC'}
+	<http://www.wikidata.org/entity/Q1049908>	{'Wide character'}
+	<http://www.wikidata.org/entity/Q34311710>	{'signed short int'}
+	<http://www.wikidata.org/entity/Q34311702>	{'signed char'}
+	<http://www.wikidata.org/entity/Q591605>	{'mask'}
+	<http://www.wikidata.org/entity/Q34311705>	{'signed long int'}
+	<http://www.wikidata.org/entity/Q4042480>	{'LOB'}
+	<http://www.wikidata.org/entity/Q84037847>	{'WARC 1.1'}
+	<http://www.wikidata.org/entity/Q203692>	{'WARC bands'}
+	<http://www.wikidata.org/entity/Q16975235>	{'WARC'}
+	<http://www.wikidata.org/entity/Q2536862>	{'WARC'}
+	<http://www.wikidata.org/entity/Q84037847>	{'WARC 1.1'}
+	<http://www.wikidata.org/entity/Q203692>	{'WARC bands'}
+	<http://www.wikidata.org/entity/P7868>	{'NPDRIM record ID'}
+	<http://www.wikidata.org/entity/Q84037677>	{'WARC Format 1.0 specification'}
+	<http://www.wikidata.org/entity/Q84037796>	{'WARC Format 1.1 specification'}
+	<http://www.wikidata.org/entity/P7293>	{'NLP ID (PLWABN unique record)'}
+	<http://www.wikidata.org/entity/P3481>	{'Parks & Gardens UK Record ID'}
+	<http://www.wikidata.org/entity/P7304>	{'Highland Historic Environment Record ID'}
+	<http://www.wikidata.org/entity/Q558685>	{'content marketing'}
+	<http://www.wikidata.org/entity/Q66709630>	{'Content hole search in community-type content'}
+	<http://www.wikidata.org/entity/Q47468060>	{'RFC 8255: Multiple Language Content Type'}
+	<http://www.wikidata.org/entity/Q61174186>	{'Ensonsinema'}
+	<http://www.wikidata.org/entity/Q64577202>	{'Watch Dogs: Bad Blood'}
+	<http://www.wikidata.org/entity/Q11919496>	{'Skeleton world championship 1990/91'}
+	<http://www.wikidata.org/entity/Q4353935>	{'content strategy'}
+	<http://www.wikidata.org/entity/Q52585557>	{'Heyfield Memorial United Church and Cemetery'}
+	<http://www.wikidata.org/entity/Q68835393>	{'Uncle Bill Piercey\\u2019s Store (Fisheries Heritage Preservation Program)'}
+	<http://www.wikidata.org/entity/Q27894201>	{'Mathematics/Library'}
+	<http://www.wikidata.org/entity/Q1062767>	{'1 centimetre'}
+	<http://www.wikidata.org/entity/Q2747700>	{'1 decametre'}
+	<http://www.wikidata.org/entity/Q1810373>	{'Lea'}
+	<http://www.wikidata.org/entity/Q737252>	{'1 gigametre'}
+	<http://www.wikidata.org/entity/Q35029798>	{'Consultation Content not Consultation Length Improves Patient Satisfaction'}
+	<http://www.wikidata.org/entity/Q33906370>	{'Assessment of Telomere Length, Phenotype, and DNA Content'}
+	<http://www.wikidata.org/entity/Q53728515>	{'Length and content of family practice residency training.'}
+	<http://www.wikidata.org/entity/Q53746578>	{'Assessment of telomere length, phenotype, and DNA content.'}
+	<http://www.wikidata.org/entity/Q52888256>	{'A relationship between GC content and coding-sequence length.'}
+	<http://www.wikidata.org/entity/Q34988828>	{'Effect of gestational length on albumin content of meconium'}
+	<http://www.wikidata.org/entity/Q84037677>	{'WARC Format 1.0 specification'}
+	<http://www.wikidata.org/entity/Q84037796>	{'WARC Format 1.1 specification'}
+	<http://www.wikidata.org/entity/P2701>	{'file format'}
+	<http://www.wikidata.org/entity/Q235557>	{'file format'}
+	<http://www.wikidata.org/entity/Q16975235>	{'WARC'}
+	<http://www.wikidata.org/entity/Q2536862>	{'WARC'}
+	<http://www.wikidata.org/entity/Q59851506>	{'DROID File Collection File Format'}
+	<http://www.wikidata.org/entity/Q5156830>	{'Compound File Binary File Format'}
+	<http://www.wikidata.org/entity/Q3570443>	{'Xtremsplit file format'}
+	<http://www.wikidata.org/entity/Q1572121>	{'image file format'}
+	<http://www.wikidata.org/entity/Q6732605>	{'Mah-Jongg'}
+	<http://www.wikidata.org/entity/Q48058756>	{"The genome project's conscience."}
+	<http://www.wikidata.org/entity/Q50618502>	{'Acalles lemur lemur'}
+	<http://www.wikidata.org/entity/Q20902853>	{'Eulemur macaco flavifrons'}
+	<http://www.wikidata.org/entity/Q249153>	{'Eulemur rufifrons'}
+	<http://www.wikidata.org/entity/Q81238905>	{"What's your project's ROI?"}
+	<http://www.wikidata.org/entity/Q34408671>	{"Eyeing a project's ethics."}
+	<http://www.wikidata.org/entity/Q81348256>	{"What's your project's ROI?"}
+	<http://www.wikidata.org/entity/Q46753532>	{"What's your project's ROI?"}
+	<http://www.wikidata.org/entity/Q36115766>	{"The Human Connectome Project's neuroimaging approach."}
+	<http://www.wikidata.org/entity/Q16975235>	{'WARC'}
+	<http://www.wikidata.org/entity/Q2536862>	{'WARC'}
+	<http://www.wikidata.org/entity/Q84037847>	{'WARC 1.1'}
+	<http://www.wikidata.org/entity/Q203692>	{'WARC bands'}
+	<http://www.wikidata.org/entity/Q84037677>	{'WARC Format 1.0 specification'}
+	<http://www.wikidata.org/entity/Q84037796>	{'WARC Format 1.1 specification'}
+	<http://www.wikidata.org/entity/Q61931181>	{'Wisconsin Disability Association'}
+	<http://www.wikidata.org/entity/Q7978505>	{'Web ARChive'}
+	<http://www.wikidata.org/entity/Q11638583>	{'Western Region Agricultural Research Center'}
+	<http://www.wikidata.org/entity/Q20026787>	{'chemical component'}
+	<http://www.wikidata.org/entity/Q16975235>	{'WARC'}
+	<http://www.wikidata.org/entity/Q2536862>	{'WARC'}
+	<http://www.wikidata.org/entity/Q84037847>	{'WARC 1.1'}
+	<http://www.wikidata.org/entity/Q203692>	{'WARC bands'}
+	<http://www.wikidata.org/entity/Q84037677>	{'WARC Format 1.0 specification'}
+	<http://www.wikidata.org/entity/Q84037796>	{'WARC Format 1.1 specification'}
+	<http://www.wikidata.org/entity/Q61931181>	{'Wisconsin Disability Association'}
+	<http://www.wikidata.org/entity/Q7978505>	{'Web ARChive'}
+	<http://www.wikidata.org/entity/Q11638583>	{'Western Region Agricultural Research Center'}
+	<http://www.wikidata.org/entity/Q27877369>	{'Chris Has Got a Date, Date, Date, Date, Date'}
+	<http://www.wikidata.org/entity/Q11135>	{'IP address'}
+	<http://www.wikidata.org/entity/Q16975235>	{'WARC'}
+	<http://www.wikidata.org/entity/Q2536862>	{'WARC'}
+	<http://www.wikidata.org/entity/Q20378315>	{'Template:User IP address'}
+	<http://www.wikidata.org/entity/Q3708832>	{'IP address blocking'}
+	<http://www.wikidata.org/entity/Q550893>	{'IP address spoofing'}
+	<http://www.wikidata.org/entity/Q939088>	{'virtual IP address'}
+	<http://www.wikidata.org/entity/Q11186>	{'private IP address'}
+	<http://www.wikidata.org/entity/Q13219707>	{'IP address management'}
+	<http://www.wikidata.org/entity/Q84037847>	{'WARC 1.1'}
+	<http://www.wikidata.org/entity/Q16975235>	{'WARC'}
+	<http://www.wikidata.org/entity/Q2536862>	{'WARC'}
+	<http://www.wikidata.org/entity/Q84037847>	{'WARC 1.1'}
+	<http://www.wikidata.org/entity/Q203692>	{'WARC bands'}
+	<http://www.wikidata.org/entity/Q84037677>	{'WARC Format 1.0 specification'}
+	<http://www.wikidata.org/entity/Q84037796>	{'WARC Format 1.1 specification'}
+	<http://www.wikidata.org/entity/Q75461158>	{'Ronnie Uri Uri'}
+	<http://www.wikidata.org/entity/Q61931181>	{'Wisconsin Disability Association'}
+	<http://www.wikidata.org/entity/Q7978505>	{'Web ARChive'}
+	<http://www.wikidata.org/entity/Q11638583>	{'Western Region Agricultural Research Center'}
+	<http://www.wikidata.org/entity/Q558685>	{'content marketing'}
+	<http://www.wikidata.org/entity/Q66709630>	{'Content hole search in community-type content'}
+	<http://www.wikidata.org/entity/Q47468060>	{'RFC 8255: Multiple Language Content Type'}
+	<http://www.wikidata.org/entity/Q61174186>	{'Ensonsinema'}
+	<http://www.wikidata.org/entity/Q64577202>	{'Watch Dogs: Bad Blood'}
+	<http://www.wikidata.org/entity/Q11919496>	{'Skeleton world championship 1990/91'}
+	<http://www.wikidata.org/entity/Q4353935>	{'content strategy'}
+	<http://www.wikidata.org/entity/Q52585557>	{'Heyfield Memorial United Church and Cemetery'}
+	<http://www.wikidata.org/entity/Q68835393>	{'Uncle Bill Piercey\\u2019s Store (Fisheries Heritage Preservation Program)'}
+	<http://www.wikidata.org/entity/Q27894201>	{'Mathematics/Library'}
+	<http://www.wikidata.org/entity/Q1062767>	{'1 centimetre'}
+	<http://www.wikidata.org/entity/Q2747700>	{'1 decametre'}
+	<http://www.wikidata.org/entity/Q1810373>	{'Lea'}
+	<http://www.wikidata.org/entity/Q737252>	{'1 gigametre'}
+	<http://www.wikidata.org/entity/Q35029798>	{'Consultation Content not Consultation Length Improves Patient Satisfaction'}
+	<http://www.wikidata.org/entity/Q33906370>	{'Assessment of Telomere Length, Phenotype, and DNA Content'}
+	<http://www.wikidata.org/entity/Q53728515>	{'Length and content of family practice residency training.'}
+	<http://www.wikidata.org/entity/Q53746578>	{'Assessment of telomere length, phenotype, and DNA content.'}
+	<http://www.wikidata.org/entity/Q52888256>	{'A relationship between GC content and coding-sequence length.'}
+	<http://www.wikidata.org/entity/Q34988828>	{'Effect of gestational length on albumin content of meconium'}
+	<http://www.wikidata.org/entity/Q67404876>	{'PARAMOUNT NEWS [FEB. 10] (NAID 100200)'}
+	<http://www.wikidata.org/entity/Q67404327>	{'PARAMOUNT NEWS [FEB. 10] (NAID 100040)'}
+	<http://www.wikidata.org/entity/Q68414520>	{'The FIRST Survey Catalog, version 2012 Feb'}
+	<http://www.wikidata.org/entity/Q74769693>	{'Foe v. Vanderhoof.  10 feb 1975'}
+	<http://www.wikidata.org/entity/Q74769276>	{'Baird v. Bellotti.  10 Feb 1977'}
+	<http://www.wikidata.org/entity/Q60059662>	{'Hamilton, Mary Agnes, (died 10 Feb. 1966)'}
+	<http://www.wikidata.org/entity/Q2325>	{'February 10'}
+	<http://www.wikidata.org/entity/Q46093048>	{'Ten health stories that mattered: Feb. 10\\u201314.'}
+	<http://www.wikidata.org/entity/Q80084339>	{'January 10, 2012 (2015.103.42)'}
+	<http://www.wikidata.org/entity/Q21157739>	{'Conseil de quartier, Belfort, 10 feb 2015'}
+	<http://www.wikidata.org/entity/Q382707>	{'Rolex GMT Master II'}
+	<http://www.wikidata.org/entity/Q304940>	{'GMT'}
+	<http://www.wikidata.org/entity/Q5513805>	{'GMT'}
+	<http://www.wikidata.org/entity/Q21888019>	{'GMT Productions'}
+	<http://www.wikidata.org/entity/Q39052936>	{'GMT T1XX'}
+	<http://www.wikidata.org/entity/Q16975148>	{'GMT K2XX'}
+	<http://www.wikidata.org/entity/Q5513806>	{'GMT Records'}
+	<http://www.wikidata.org/entity/Q928726>	{'GMT Games'}
+	<http://www.wikidata.org/entity/Q15143503>	{'Template:GFDL-GMT'}
+	<http://www.wikidata.org/entity/Q602590>	{'Generic Mapping Tools'}
+	<http://www.wikidata.org/entity/Q4579686>	{'1981'}
+	<http://www.wikidata.org/entity/Q2437>	{'1981'}
+	<http://www.wikidata.org/entity/Q12681705>	{'1981'}
+	<http://www.wikidata.org/entity/Q44069858>	{'1981'}
+	<http://www.wikidata.org/entity/Q4029661>	{'1981'}
+	<http://www.wikidata.org/entity/Q2812793>	{'1981'}
+	<http://www.wikidata.org/entity/Q9129842>	{'1981'}
+	<http://www.wikidata.org/entity/Q6938262>	{'Category:1981'}
+	<http://www.wikidata.org/entity/Q58501371>	{'1981 Conference'}
+	<http://www.wikidata.org/entity/Q45056985>	{'[Scabies - 1981]'}
+	<http://www.wikidata.org/entity/Q2932502>	{'Cache-Control'}
+	<http://www.wikidata.org/entity/Q24898796>	{'Cache control instruction'}
+	<http://www.wikidata.org/entity/Q382707>	{'Rolex GMT Master II'}
+	<http://www.wikidata.org/entity/Q304940>	{'GMT'}
+	<http://www.wikidata.org/entity/Q5513805>	{'GMT'}
+	<http://www.wikidata.org/entity/Q28856460>	{'Cache-Cache'}
+	<http://www.wikidata.org/entity/Q63064086>	{'Cache Cache'}
+	<http://www.wikidata.org/entity/Q19956656>	{'Cache-cache'}
+	<http://www.wikidata.org/entity/Q64960827>	{'La cache-cache'}
+	<http://www.wikidata.org/entity/Q47470396>	{'RFC 5861: HTTP Cache-Control Extensions for Stale Content'}
+	<http://www.wikidata.org/entity/Q558685>	{'content marketing'}
+	<http://www.wikidata.org/entity/Q66709630>	{'Content hole search in community-type content'}
+	<http://www.wikidata.org/entity/Q47468060>	{'RFC 8255: Multiple Language Content Type'}
+	<http://www.wikidata.org/entity/Q61174186>	{'Ensonsinema'}
+	<http://www.wikidata.org/entity/Q64577202>	{'Watch Dogs: Bad Blood'}
+	<http://www.wikidata.org/entity/Q11919496>	{'Skeleton world championship 1990/91'}
+	<http://www.wikidata.org/entity/Q4353935>	{'content strategy'}
+	<http://www.wikidata.org/entity/Q52585557>	{'Heyfield Memorial United Church and Cemetery'}
+	<http://www.wikidata.org/entity/Q68835393>	{'Uncle Bill Piercey\\u2019s Store (Fisheries Heritage Preservation Program)'}
+	<http://www.wikidata.org/entity/Q27894201>	{'Mathematics/Library'}
+	<http://www.wikidata.org/entity/Q67687649>	{'FRANCE ; INVASION, FRANCE (NAID 15420)'}
+	<http://www.wikidata.org/entity/Q67725160>	{'\\"FRANCE RETURNS\\", DESSAU, GERMANY ; \\"FRANCE RETURNS\\", PARIS, FRANCE (NAID 18815)'}
+	<http://www.wikidata.org/entity/Q60137452>	{'Black France / France Noire'}
+	<http://www.wikidata.org/entity/Q31679986>	{'James France France'}
+	<http://www.wikidata.org/entity/Q67690547>	{'NATES, FRANCE ; GERMAN AMBULANCE, FRANCE ; FUGITIVES, LIGNIERES LA BOUBLLE, FRANCE ; CIVIL AFFAIRS, LA FERTE MACE, FRANCE ; DINARD, FRANCE (NAID 15913)'}
+	<http://www.wikidata.org/entity/Q58365660>	{'From france to new france'}
+	<http://www.wikidata.org/entity/Q67689509>	{'INVASION OF FRANCE, NORMANDY, FRANCE (NAID 15717)'}
+	<http://www.wikidata.org/entity/Q67687133>	{'ATTACK ON QUINEVILLE, FRANCE ; BICYCLES, NEAR MONTBOURG, FRANCE ; CARENTAN, FRANCE (NAID 15344)'}
+	<http://www.wikidata.org/entity/Q67690820>	{'LONG TOM OBSERVATION POST, CHAMBOIS, FRANCE ; CHARTRES, FALLS, FRANCE ; CITY OF CHARTRES, FRANCE ; AT LUCE, FRANCE (NAID 15962)'}
+	<http://www.wikidata.org/entity/Q67692055>	{'SUBMARINE PENS, RECOUVRANCE (?), FRANCE ; PORT INSTALLATIONS, BREST, FRANCE ; BREST BATTLE, FRANCE (NAID 16155)'}
+	<http://www.wikidata.org/entity/Q58142900>	{'France'}
+	<http://www.wikidata.org/entity/Q65026858>	{'France'}
+	<http://www.wikidata.org/entity/Q64582899>	{'France'}
+	<http://www.wikidata.org/entity/Q52376008>	{'France'}
+	<http://www.wikidata.org/entity/Q80225104>	{'France'}
+	<http://www.wikidata.org/entity/Q58168443>	{'France'}
+	<http://www.wikidata.org/entity/Q73165340>	{'France'}
+	<http://www.wikidata.org/entity/Q60724193>	{'France'}
+	<http://www.wikidata.org/entity/Q79944567>	{'France (1991.213)'}
+	<http://www.wikidata.org/entity/Q58298755>	{'France'}
+	<http://www.wikidata.org/entity/Q55522596>	{'02:10'}
+	<http://www.wikidata.org/entity/Q55811485>	{'10:02'}
+	<http://www.wikidata.org/entity/Q77355358>	{'[IG95] 10-02'}
+	<http://www.wikidata.org/entity/Q1665693>	{'Intelsat 10-02'}
+	<http://www.wikidata.org/entity/Q70625975>	{'Weekly List 10/18/02'}
+	<http://www.wikidata.org/entity/Q65052157>	{'2012 European Pool Championships'}
+	<http://www.wikidata.org/entity/Q19311926>	{'2012 World Pool Masters'}
+	<http://www.wikidata.org/entity/Q27971397>	{'Tangled Pool, No. 10'}
+	<http://www.wikidata.org/entity/Q20739955>	{'Template:Potd/2014-10-02'}
+	<http://www.wikidata.org/entity/Q20725266>	{'Template:Potd/2015-02-10'}
+	<http://www.wikidata.org/entity/Q55456042>	{'K\\u00F6lner Treff (February 10th, 2012)'}
+	<http://www.wikidata.org/entity/Q83387271>	{'Abstracts of the 10th International Kawasaki Disease Symposium. February 7-10, 2012. Kyoto, Japan'}
+	<http://www.wikidata.org/entity/Q816325>	{'February 2012'}
+	<http://www.wikidata.org/entity/Q48079159>	{'Shlomo Stern Z.L.(February 10th, 1928 - October 27th, 2013).'}
+	<http://www.wikidata.org/entity/Q17982447>	{'26 February 2012'}
+	<http://www.wikidata.org/entity/Q7479794>	{'6 February 2012'}
+	<http://www.wikidata.org/entity/Q17616352>	{'22 February 2012'}
+	<http://www.wikidata.org/entity/Q17616307>	{'14 February 2012'}
+	<http://www.wikidata.org/entity/Q17981449>	{'12 February 2012'}
+	<http://www.wikidata.org/entity/Q17982946>	{'4 February 2012'}
+	<http://www.wikidata.org/entity/Q5457514>	{'Flash Flash Flash'}
+	<http://www.wikidata.org/entity/Q5227113>	{'DataFlash'}
+	<http://www.wikidata.org/entity/Q24912110>	{'Wallace West'}
+	<http://www.wikidata.org/entity/Q39070416>	{'Flash'}
+	<http://www.wikidata.org/entity/Q5302479>	{'Ninjai'}
+	<http://www.wikidata.org/entity/Q19367995>	{'Flash Flash'}
+	<http://www.wikidata.org/entity/Q57089194>	{'Flash'}
+	<http://www.wikidata.org/entity/Q60376572>	{'Flash'}
+	<http://www.wikidata.org/entity/Q20423901>	{'Flash'}
+	<http://www.wikidata.org/entity/Q5457478>	{'Flash'}
+	<http://www.wikidata.org/entity/Q5457514>	{'Flash Flash Flash'}
+	<http://www.wikidata.org/entity/Q5227113>	{'DataFlash'}
+	<http://www.wikidata.org/entity/Q24912110>	{'Wallace West'}
+	<http://www.wikidata.org/entity/Q39070416>	{'Flash'}
+	<http://www.wikidata.org/entity/Q5302479>	{'Ninjai'}
+	<http://www.wikidata.org/entity/Q19367995>	{'Flash Flash'}
+	<http://www.wikidata.org/entity/Q57089194>	{'Flash'}
+	<http://www.wikidata.org/entity/Q60376572>	{'Flash'}
+	<http://www.wikidata.org/entity/Q20423901>	{'Flash'}
+	<http://www.wikidata.org/entity/Q5457478>	{'Flash'}
+	<http://www.wikidata.org/entity/Q248092>	{'Tweetbot'}
+	<http://www.wikidata.org/entity/Q61861117>	{'#LGBTQofTwitter'}
+	<http://www.wikidata.org/entity/Q64877513>	{'#TransMenAreNotWomen'}
+	<http://www.wikidata.org/entity/Q64605872>	{'#SeeUsHearUs'}
+	<http://www.wikidata.org/entity/Q59607479>	{'corebird'}
+	<http://www.wikidata.org/entity/Q2582028>	{'Twitterrific'}
+	<http://www.wikidata.org/entity/Q63978443>	{'#RelationshipGoals'}
+	<http://www.wikidata.org/entity/Q63969618>	{'#HereWeAre'}
+	<http://www.wikidata.org/entity/Q37965657>	{'@dril'}
+	<http://www.wikidata.org/entity/Q7177768>	{'Peter Wong'}
+	<http://www.wikidata.org/entity/Q3746882>	{'Flutter'}
+	<http://www.wikidata.org/entity/Q7077132>	{'Ocular'}
+	<http://www.wikidata.org/entity/Q45882346>	{'Geeta Kashyap Vemuganti'}
+	<http://www.wikidata.org/entity/Q991265>	{'keratometry'}
+	<http://www.wikidata.org/entity/Q56071852>	{'small incision cataract surgery'}
+	<http://www.wikidata.org/entity/Q193516>	{'eyepiece'}
+	<http://www.wikidata.org/entity/Q56385551>	{'Ocular Music Group'}
+	<http://www.wikidata.org/entity/Q1818260>	{'cataract surgery'}
+	<http://www.wikidata.org/entity/Q1078066>	{'ocular tonometry'}
+	<http://www.wikidata.org/entity/Q66661662>	{'ocular physiological phenomena'}
+	<http://www.wikidata.org/entity/Q7126362>	{'Paladin Hercules'}
+	<http://www.wikidata.org/entity/Q2121955>	{'Trip hammer'}
+	<http://www.wikidata.org/entity/Q7041447>	{'Nitro engine'}
+	<http://www.wikidata.org/entity/Q966781>	{'iBOT'}
+	<http://www.wikidata.org/entity/Q28529760>	{'manual wheelchair'}
+	<http://www.wikidata.org/entity/Q942549>	{'paramotor'}
+	<http://www.wikidata.org/entity/Q7439792>	{'Sea-Bow International Sea-Bow'}
+	<http://www.wikidata.org/entity/Q7126358>	{'Paladin Golden Eagle'}
+	<http://www.wikidata.org/entity/Q10850833>	{'High Powered'}
+	<http://www.wikidata.org/entity/Q5756231>	{'High Powered'}
+	<http://www.wikidata.org/entity/Q16975235>	{'WARC'}
+	<http://www.wikidata.org/entity/Q2536862>	{'WARC'}
+	<http://www.wikidata.org/entity/Q84037847>	{'WARC 1.1'}
+	<http://www.wikidata.org/entity/Q203692>	{'WARC bands'}
+	<http://www.wikidata.org/entity/Q84037677>	{'WARC Format 1.0 specification'}
+	<http://www.wikidata.org/entity/Q84037796>	{'WARC Format 1.1 specification'}
+	<http://www.wikidata.org/entity/Q61931181>	{'Wisconsin Disability Association'}
+	<http://www.wikidata.org/entity/Q7978505>	{'Web ARChive'}
+	<http://www.wikidata.org/entity/Q11638583>	{'Western Region Agricultural Research Center'}
+	<http://www.wikidata.org/entity/Q20026787>	{'chemical component'}
+	<http://www.wikidata.org/entity/Q16975235>	{'WARC'}
+	<http://www.wikidata.org/entity/Q2536862>	{'WARC'}
+	<http://www.wikidata.org/entity/Q84037847>	{'WARC 1.1'}
+	<http://www.wikidata.org/entity/Q203692>	{'WARC bands'}
+	<http://www.wikidata.org/entity/Q84037677>	{'WARC Format 1.0 specification'}
+	<http://www.wikidata.org/entity/Q84037796>	{'WARC Format 1.1 specification'}
+	<http://www.wikidata.org/entity/Q61931181>	{'Wisconsin Disability Association'}
+	<http://www.wikidata.org/entity/Q7978505>	{'Web ARChive'}
+	<http://www.wikidata.org/entity/Q11638583>	{'Western Region Agricultural Research Center'}
+	<http://www.wikidata.org/entity/Q27877369>	{'Chris Has Got a Date, Date, Date, Date, Date'}
+	<http://www.wikidata.org/entity/Q11135>	{'IP address'}
+	<http://www.wikidata.org/entity/Q16975235>	{'WARC'}
+	<http://www.wikidata.org/entity/Q2536862>	{'WARC'}
+	<http://www.wikidata.org/entity/Q20378315>	{'Template:User IP address'}
+	<http://www.wikidata.org/entity/Q3708832>	{'IP address blocking'}
+	<http://www.wikidata.org/entity/Q550893>	{'IP address spoofing'}
+	<http://www.wikidata.org/entity/Q939088>	{'virtual IP address'}
+	<http://www.wikidata.org/entity/Q11186>	{'private IP address'}
+	<http://www.wikidata.org/entity/Q13219707>	{'IP address management'}
+	<http://www.wikidata.org/entity/Q84037847>	{'WARC 1.1'}
+	<http://www.wikidata.org/entity/Q16975235>	{'WARC'}
+	<http://www.wikidata.org/entity/Q2536862>	{'WARC'}
+	<http://www.wikidata.org/entity/Q84037847>	{'WARC 1.1'}
+	<http://www.wikidata.org/entity/Q203692>	{'WARC bands'}
+	<http://www.wikidata.org/entity/Q84037677>	{'WARC Format 1.0 specification'}
+	<http://www.wikidata.org/entity/Q84037796>	{'WARC Format 1.1 specification'}
+	<http://www.wikidata.org/entity/Q61931181>	{'Wisconsin Disability Association'}
+	<http://www.wikidata.org/entity/Q7978505>	{'Web ARChive'}
+	<http://www.wikidata.org/entity/Q11638583>	{'Western Region Agricultural Research Center'}
+	<http://www.wikidata.org/entity/Q209392>	{'2 degree Celsius climate target'}
+	<http://www.wikidata.org/entity/Q67404876>	{'PARAMOUNT NEWS [FEB. 10] (NAID 100200)'}
+	<http://www.wikidata.org/entity/Q67404327>	{'PARAMOUNT NEWS [FEB. 10] (NAID 100040)'}
+	<http://www.wikidata.org/entity/Q68414520>	{'The FIRST Survey Catalog, version 2012 Feb'}
+	<http://www.wikidata.org/entity/Q74769693>	{'Foe v. Vanderhoof.  10 feb 1975'}
+	<http://www.wikidata.org/entity/Q74769276>	{'Baird v. Bellotti.  10 Feb 1977'}
+	<http://www.wikidata.org/entity/Q60059662>	{'Hamilton, Mary Agnes, (died 10 Feb. 1966)'}
+	<http://www.wikidata.org/entity/Q2325>	{'February 10'}
+	<http://www.wikidata.org/entity/Q46093048>	{'Ten health stories that mattered: Feb. 10\\u201314.'}
+	<http://www.wikidata.org/entity/Q80084339>	{'January 10, 2012 (2015.103.42)'}
+	<http://www.wikidata.org/entity/Q21157739>	{'Conseil de quartier, Belfort, 10 feb 2015'}
+	<http://www.wikidata.org/entity/Q382707>	{'Rolex GMT Master II'}
+	<http://www.wikidata.org/entity/Q304940>	{'GMT'}
+	<http://www.wikidata.org/entity/Q5513805>	{'GMT'}
+	<http://www.wikidata.org/entity/Q21888019>	{'GMT Productions'}
+	<http://www.wikidata.org/entity/Q39052936>	{'GMT T1XX'}
+	<http://www.wikidata.org/entity/Q16975148>	{'GMT K2XX'}
+	<http://www.wikidata.org/entity/Q5513806>	{'GMT Records'}
+	<http://www.wikidata.org/entity/Q928726>	{'GMT Games'}
+	<http://www.wikidata.org/entity/Q15143503>	{'Template:GFDL-GMT'}
+	<http://www.wikidata.org/entity/Q602590>	{'Generic Mapping Tools'}
+	<http://www.wikidata.org/entity/Q4579686>	{'1981'}
+	<http://www.wikidata.org/entity/Q2437>	{'1981'}
+	<http://www.wikidata.org/entity/Q12681705>	{'1981'}
+	<http://www.wikidata.org/entity/Q44069858>	{'1981'}
+	<http://www.wikidata.org/entity/Q4029661>	{'1981'}
+	<http://www.wikidata.org/entity/Q2812793>	{'1981'}
+	<http://www.wikidata.org/entity/Q9129842>	{'1981'}
+	<http://www.wikidata.org/entity/Q6938262>	{'Category:1981'}
+	<http://www.wikidata.org/entity/Q58501371>	{'1981 Conference'}
+	<http://www.wikidata.org/entity/Q45056985>	{'[Scabies - 1981]'}
+	<http://www.wikidata.org/entity/Q558685>	{'content marketing'}
+	<http://www.wikidata.org/entity/Q66709630>	{'Content hole search in community-type content'}
+	<http://www.wikidata.org/entity/Q47468060>	{'RFC 8255: Multiple Language Content Type'}
+	<http://www.wikidata.org/entity/Q61174186>	{'Ensonsinema'}
+	<http://www.wikidata.org/entity/Q64577202>	{'Watch Dogs: Bad Blood'}
+	<http://www.wikidata.org/entity/Q11919496>	{'Skeleton world championship 1990/91'}
+	<http://www.wikidata.org/entity/Q4353935>	{'content strategy'}
+	<http://www.wikidata.org/entity/Q52585557>	{'Heyfield Memorial United Church and Cemetery'}
+	<http://www.wikidata.org/entity/Q68835393>	{'Uncle Bill Piercey\\u2019s Store (Fisheries Heritage Preservation Program)'}
+	<http://www.wikidata.org/entity/Q27894201>	{'Mathematics/Library'}
+	<http://www.wikidata.org/entity/Q77477352>	{'Le Canigou'}
+	<http://www.wikidata.org/entity/Q16653443>	{'Le Canigou'}
+	<http://www.wikidata.org/entity/Q21547907>	{'Le Canigou'}
+	<http://www.wikidata.org/entity/Q74068168>	{'Canigou'}
+	<http://www.wikidata.org/entity/Q6650>	{'Canigou'}
+	<http://www.wikidata.org/entity/Q2936373>	{'Canigou'}
+	<http://www.wikidata.org/entity/Q5032383>	{'Canigou Cambrai'}
+	<http://www.wikidata.org/entity/Q17623538>	{'canton of Canigou'}
+	<http://www.wikidata.org/entity/Q287751>	{'Martin-du-Canigou'}
+	<http://www.wikidata.org/entity/Q9422058>	{'Category:Abbaye Saint-Martin du Canigou'}
+	<http://www.wikidata.org/entity/Q77477352>	{'Le Canigou'}
+	<http://www.wikidata.org/entity/Q16653443>	{'Le Canigou'}
+	<http://www.wikidata.org/entity/Q21547907>	{'Le Canigou'}
+	<http://www.wikidata.org/entity/Q74068168>	{'Canigou'}
+	<http://www.wikidata.org/entity/Q6650>	{'Canigou'}
+	<http://www.wikidata.org/entity/Q2936373>	{'Canigou'}
+	<http://www.wikidata.org/entity/Q5032383>	{'Canigou Cambrai'}
+	<http://www.wikidata.org/entity/Q17623538>	{'canton of Canigou'}
+	<http://www.wikidata.org/entity/Q287751>	{'Martin-du-Canigou'}
+	<http://www.wikidata.org/entity/Q9422058>	{'Category:Abbaye Saint-Martin du Canigou'}
+	<http://www.wikidata.org/entity/Q77477352>	{'Le Canigou'}
+	<http://www.wikidata.org/entity/Q16653443>	{'Le Canigou'}
+	<http://www.wikidata.org/entity/Q21547907>	{'Le Canigou'}
+	<http://www.wikidata.org/entity/Q74068168>	{'Canigou'}
+	<http://www.wikidata.org/entity/Q6650>	{'Canigou'}
+	<http://www.wikidata.org/entity/Q2936373>	{'Canigou'}
+	<http://www.wikidata.org/entity/Q5032383>	{'Canigou Cambrai'}
+	<http://www.wikidata.org/entity/Q17623538>	{'canton of Canigou'}
+	<http://www.wikidata.org/entity/Q287751>	{'Martin-du-Canigou'}
+	<http://www.wikidata.org/entity/Q9422058>	{'Category:Abbaye Saint-Martin du Canigou'}
+	<http://www.wikidata.org/entity/Q55456042>	{'K\\u00F6lner Treff (February 10th, 2012)'}
+	<http://www.wikidata.org/entity/Q83387271>	{'Abstracts of the 10th International Kawasaki Disease Symposium. February 7-10, 2012. Kyoto, Japan'}
+	<http://www.wikidata.org/entity/Q816325>	{'February 2012'}
+	<http://www.wikidata.org/entity/Q48079159>	{'Shlomo Stern Z.L.(February 10th, 1928 - October 27th, 2013).'}
+	<http://www.wikidata.org/entity/Q17982447>	{'26 February 2012'}
+	<http://www.wikidata.org/entity/Q7479794>	{'6 February 2012'}
+	<http://www.wikidata.org/entity/Q17616352>	{'22 February 2012'}
+	<http://www.wikidata.org/entity/Q17616307>	{'14 February 2012'}
+	<http://www.wikidata.org/entity/Q17981449>	{'12 February 2012'}
+	<http://www.wikidata.org/entity/Q17982946>	{'4 February 2012'}
+	<http://www.wikidata.org/entity/Q5457514>	{'Flash Flash Flash'}
+	<http://www.wikidata.org/entity/Q5227113>	{'DataFlash'}
+	<http://www.wikidata.org/entity/Q24912110>	{'Wallace West'}
+	<http://www.wikidata.org/entity/Q39070416>	{'Flash'}
+	<http://www.wikidata.org/entity/Q5302479>	{'Ninjai'}
+	<http://www.wikidata.org/entity/Q19367995>	{'Flash Flash'}
+	<http://www.wikidata.org/entity/Q57089194>	{'Flash'}
+	<http://www.wikidata.org/entity/Q60376572>	{'Flash'}
+	<http://www.wikidata.org/entity/Q20423901>	{'Flash'}
+	<http://www.wikidata.org/entity/Q5457478>	{'Flash'}
+	<http://www.wikidata.org/entity/Q5457514>	{'Flash Flash Flash'}
+	<http://www.wikidata.org/entity/Q5227113>	{'DataFlash'}
+	<http://www.wikidata.org/entity/Q24912110>	{'Wallace West'}
+	<http://www.wikidata.org/entity/Q39070416>	{'Flash'}
+	<http://www.wikidata.org/entity/Q5302479>	{'Ninjai'}
+	<http://www.wikidata.org/entity/Q19367995>	{'Flash Flash'}
+	<http://www.wikidata.org/entity/Q57089194>	{'Flash'}
+	<http://www.wikidata.org/entity/Q60376572>	{'Flash'}
+	<http://www.wikidata.org/entity/Q20423901>	{'Flash'}
+	<http://www.wikidata.org/entity/Q5457478>	{'Flash'}
+	<http://www.wikidata.org/entity/Q248092>	{'Tweetbot'}
+	<http://www.wikidata.org/entity/Q61861117>	{'#LGBTQofTwitter'}
+	<http://www.wikidata.org/entity/Q64877513>	{'#TransMenAreNotWomen'}
+	<http://www.wikidata.org/entity/Q64605872>	{'#SeeUsHearUs'}
+	<http://www.wikidata.org/entity/Q59607479>	{'corebird'}
+	<http://www.wikidata.org/entity/Q2582028>	{'Twitterrific'}
+	<http://www.wikidata.org/entity/Q63978443>	{'#RelationshipGoals'}
+	<http://www.wikidata.org/entity/Q63969618>	{'#HereWeAre'}
+	<http://www.wikidata.org/entity/Q37965657>	{'@dril'}
+	<http://www.wikidata.org/entity/Q7177768>	{'Peter Wong'}
+	<http://www.wikidata.org/entity/Q3746882>	{'Flutter'}
+	<http://www.wikidata.org/entity/Q7077132>	{'Ocular'}
+	<http://www.wikidata.org/entity/Q45882346>	{'Geeta Kashyap Vemuganti'}
+	<http://www.wikidata.org/entity/Q991265>	{'keratometry'}
+	<http://www.wikidata.org/entity/Q56071852>	{'small incision cataract surgery'}
+	<http://www.wikidata.org/entity/Q193516>	{'eyepiece'}
+	<http://www.wikidata.org/entity/Q56385551>	{'Ocular Music Group'}
+	<http://www.wikidata.org/entity/Q1818260>	{'cataract surgery'}
+	<http://www.wikidata.org/entity/Q1078066>	{'ocular tonometry'}
+	<http://www.wikidata.org/entity/Q66661662>	{'ocular physiological phenomena'}
+	<http://www.wikidata.org/entity/Q7126362>	{'Paladin Hercules'}
+	<http://www.wikidata.org/entity/Q2121955>	{'Trip hammer'}
+	<http://www.wikidata.org/entity/Q7041447>	{'Nitro engine'}
+	<http://www.wikidata.org/entity/Q966781>	{'iBOT'}
+	<http://www.wikidata.org/entity/Q28529760>	{'manual wheelchair'}
+	<http://www.wikidata.org/entity/Q942549>	{'paramotor'}
+	<http://www.wikidata.org/entity/Q7439792>	{'Sea-Bow International Sea-Bow'}
+	<http://www.wikidata.org/entity/Q7126358>	{'Paladin Golden Eagle'}
+	<http://www.wikidata.org/entity/Q10850833>	{'High Powered'}
+	<http://www.wikidata.org/entity/Q5756231>	{'High Powered'}
+	<http://www.wikidata.org/entity/Q16975235>	{'WARC'}
+	<http://www.wikidata.org/entity/Q2536862>	{'WARC'}
+	<http://www.wikidata.org/entity/Q84037847>	{'WARC 1.1'}
+	<http://www.wikidata.org/entity/Q203692>	{'WARC bands'}
+	<http://www.wikidata.org/entity/Q84037677>	{'WARC Format 1.0 specification'}
+	<http://www.wikidata.org/entity/Q84037796>	{'WARC Format 1.1 specification'}
+	<http://www.wikidata.org/entity/Q61931181>	{'Wisconsin Disability Association'}
+	<http://www.wikidata.org/entity/Q7978505>	{'Web ARChive'}
+	<http://www.wikidata.org/entity/Q11638583>	{'Western Region Agricultural Research Center'}
+	<http://www.wikidata.org/entity/Q20026787>	{'chemical component'}
+	<http://www.wikidata.org/entity/Q16975235>	{'WARC'}
+	<http://www.wikidata.org/entity/Q2536862>	{'WARC'}
+	<http://www.wikidata.org/entity/Q84037847>	{'WARC 1.1'}
+	<http://www.wikidata.org/entity/Q203692>	{'WARC bands'}
+	<http://www.wikidata.org/entity/Q84037677>	{'WARC Format 1.0 specification'}
+	<http://www.wikidata.org/entity/Q84037796>	{'WARC Format 1.1 specification'}
+	<http://www.wikidata.org/entity/Q75461158>	{'Ronnie Uri Uri'}
+	<http://www.wikidata.org/entity/Q61931181>	{'Wisconsin Disability Association'}
+	<http://www.wikidata.org/entity/Q7978505>	{'Web ARChive'}
+	<http://www.wikidata.org/entity/Q11638583>	{'Western Region Agricultural Research Center'}
+	<http://www.wikidata.org/entity/Q16975235>	{'WARC'}
+	<http://www.wikidata.org/entity/Q2536862>	{'WARC'}
+	<http://www.wikidata.org/entity/Q84037847>	{'WARC 1.1'}
+	<http://www.wikidata.org/entity/Q203692>	{'WARC bands'}
+	<http://www.wikidata.org/entity/P7868>	{'NPDRIM record ID'}
+	<http://www.wikidata.org/entity/Q84037677>	{'WARC Format 1.0 specification'}
+	<http://www.wikidata.org/entity/Q84037796>	{'WARC Format 1.1 specification'}
+	<http://www.wikidata.org/entity/P7293>	{'NLP ID (PLWABN unique record)'}
+	<http://www.wikidata.org/entity/P3481>	{'Parks & Gardens UK Record ID'}
+	<http://www.wikidata.org/entity/P7304>	{'Highland Historic Environment Record ID'}
+	<http://www.wikidata.org/entity/Q1062767>	{'1 centimetre'}
+	<http://www.wikidata.org/entity/Q2747700>	{'1 decametre'}
+	<http://www.wikidata.org/entity/Q1810373>	{'Lea'}
+	<http://www.wikidata.org/entity/Q737252>	{'1 gigametre'}
+	<http://www.wikidata.org/entity/Q35029798>	{'Consultation Content not Consultation Length Improves Patient Satisfaction'}
+	<http://www.wikidata.org/entity/Q33906370>	{'Assessment of Telomere Length, Phenotype, and DNA Content'}
+	<http://www.wikidata.org/entity/Q53728515>	{'Length and content of family practice residency training.'}
+	<http://www.wikidata.org/entity/Q53746578>	{'Assessment of telomere length, phenotype, and DNA content.'}
+	<http://www.wikidata.org/entity/Q52888256>	{'A relationship between GC content and coding-sequence length.'}
+	<http://www.wikidata.org/entity/Q34988828>	{'Effect of gestational length on albumin content of meconium'}
+	<http://www.wikidata.org/entity/Q67404876>	{'PARAMOUNT NEWS [FEB. 10] (NAID 100200)'}
+	<http://www.wikidata.org/entity/Q67404327>	{'PARAMOUNT NEWS [FEB. 10] (NAID 100040)'}
+	<http://www.wikidata.org/entity/Q68414520>	{'The FIRST Survey Catalog, version 2012 Feb'}
+	<http://www.wikidata.org/entity/Q74769693>	{'Foe v. Vanderhoof.  10 feb 1975'}
+	<http://www.wikidata.org/entity/Q74769276>	{'Baird v. Bellotti.  10 Feb 1977'}
+	<http://www.wikidata.org/entity/Q60059662>	{'Hamilton, Mary Agnes, (died 10 Feb. 1966)'}
+	<http://www.wikidata.org/entity/Q2325>	{'February 10'}
+	<http://www.wikidata.org/entity/Q46093048>	{'Ten health stories that mattered: Feb. 10\\u201314.'}
+	<http://www.wikidata.org/entity/Q80084339>	{'January 10, 2012 (2015.103.42)'}
+	<http://www.wikidata.org/entity/Q21157739>	{'Conseil de quartier, Belfort, 10 feb 2015'}
+	<http://www.wikidata.org/entity/Q4579686>	{'1981'}
+	<http://www.wikidata.org/entity/Q2437>	{'1981'}
+	<http://www.wikidata.org/entity/Q12681705>	{'1981'}
+	<http://www.wikidata.org/entity/Q44069858>	{'1981'}
+	<http://www.wikidata.org/entity/Q4029661>	{'1981'}
+	<http://www.wikidata.org/entity/Q2812793>	{'1981'}
+	<http://www.wikidata.org/entity/Q9129842>	{'1981'}
+	<http://www.wikidata.org/entity/Q6938262>	{'Category:1981'}
+	<http://www.wikidata.org/entity/Q58501371>	{'1981 Conference'}
+	<http://www.wikidata.org/entity/Q45056985>	{'[Scabies - 1981]'}
+	<http://www.wikidata.org/entity/Q2932502>	{'Cache-Control'}
+	<http://www.wikidata.org/entity/Q24898796>	{'Cache control instruction'}
+	<http://www.wikidata.org/entity/Q382707>	{'Rolex GMT Master II'}
+	<http://www.wikidata.org/entity/Q304940>	{'GMT'}
+	<http://www.wikidata.org/entity/Q5513805>	{'GMT'}
+	<http://www.wikidata.org/entity/Q28856460>	{'Cache-Cache'}
+	<http://www.wikidata.org/entity/Q63064086>	{'Cache Cache'}
+	<http://www.wikidata.org/entity/Q19956656>	{'Cache-cache'}
+	<http://www.wikidata.org/entity/Q64960827>	{'La cache-cache'}
+	<http://www.wikidata.org/entity/Q47470396>	{'RFC 5861: HTTP Cache-Control Extensions for Stale Content'}
+	<http://www.wikidata.org/entity/Q558685>	{'content marketing'}
+	<http://www.wikidata.org/entity/Q66709630>	{'Content hole search in community-type content'}
+	<http://www.wikidata.org/entity/Q47468060>	{'RFC 8255: Multiple Language Content Type'}
+	<http://www.wikidata.org/entity/Q61174186>	{'Ensonsinema'}
+	<http://www.wikidata.org/entity/Q64577202>	{'Watch Dogs: Bad Blood'}
+	<http://www.wikidata.org/entity/Q11919496>	{'Skeleton world championship 1990/91'}
+	<http://www.wikidata.org/entity/Q4353935>	{'content strategy'}
+	<http://www.wikidata.org/entity/Q52585557>	{'Heyfield Memorial United Church and Cemetery'}
+	<http://www.wikidata.org/entity/Q68835393>	{'Uncle Bill Piercey\\u2019s Store (Fisheries Heritage Preservation Program)'}
+	<http://www.wikidata.org/entity/Q27894201>	{'Mathematics/Library'}
+	<http://www.wikidata.org/entity/Q55456042>	{'K\\u00F6lner Treff (February 10th, 2012)'}
+	<http://www.wikidata.org/entity/Q83387271>	{'Abstracts of the 10th International Kawasaki Disease Symposium. February 7-10, 2012. Kyoto, Japan'}
+	<http://www.wikidata.org/entity/Q816325>	{'February 2012'}
+	<http://www.wikidata.org/entity/Q48079159>	{'Shlomo Stern Z.L.(February 10th, 1928 - October 27th, 2013).'}
+	<http://www.wikidata.org/entity/Q17982447>	{'26 February 2012'}
+	<http://www.wikidata.org/entity/Q7479794>	{'6 February 2012'}
+	<http://www.wikidata.org/entity/Q17616352>	{'22 February 2012'}
+	<http://www.wikidata.org/entity/Q17616307>	{'14 February 2012'}
+	<http://www.wikidata.org/entity/Q17981449>	{'12 February 2012'}
+	<http://www.wikidata.org/entity/Q17982946>	{'4 February 2012'}
+	<http://www.wikidata.org/entity/Q5457514>	{'Flash Flash Flash'}
+	<http://www.wikidata.org/entity/Q5227113>	{'DataFlash'}
+	<http://www.wikidata.org/entity/Q24912110>	{'Wallace West'}
+	<http://www.wikidata.org/entity/Q39070416>	{'Flash'}
+	<http://www.wikidata.org/entity/Q5302479>	{'Ninjai'}
+	<http://www.wikidata.org/entity/Q19367995>	{'Flash Flash'}
+	<http://www.wikidata.org/entity/Q57089194>	{'Flash'}
+	<http://www.wikidata.org/entity/Q60376572>	{'Flash'}
+	<http://www.wikidata.org/entity/Q20423901>	{'Flash'}
+	<http://www.wikidata.org/entity/Q5457478>	{'Flash'}
+	<http://www.wikidata.org/entity/Q5457514>	{'Flash Flash Flash'}
+	<http://www.wikidata.org/entity/Q5227113>	{'DataFlash'}
+	<http://www.wikidata.org/entity/Q24912110>	{'Wallace West'}
+	<http://www.wikidata.org/entity/Q39070416>	{'Flash'}
+	<http://www.wikidata.org/entity/Q5302479>	{'Ninjai'}
+	<http://www.wikidata.org/entity/Q19367995>	{'Flash Flash'}
+	<http://www.wikidata.org/entity/Q57089194>	{'Flash'}
+	<http://www.wikidata.org/entity/Q60376572>	{'Flash'}
+	<http://www.wikidata.org/entity/Q20423901>	{'Flash'}
+	<http://www.wikidata.org/entity/Q5457478>	{'Flash'}
+	<http://www.wikidata.org/entity/Q248092>	{'Tweetbot'}
+	<http://www.wikidata.org/entity/Q61861117>	{'#LGBTQofTwitter'}
+	<http://www.wikidata.org/entity/Q64877513>	{'#TransMenAreNotWomen'}
+	<http://www.wikidata.org/entity/Q64605872>	{'#SeeUsHearUs'}
+	<http://www.wikidata.org/entity/Q59607479>	{'corebird'}
+	<http://www.wikidata.org/entity/Q2582028>	{'Twitterrific'}
+	<http://www.wikidata.org/entity/Q63978443>	{'#RelationshipGoals'}
+	<http://www.wikidata.org/entity/Q63969618>	{'#HereWeAre'}
+	<http://www.wikidata.org/entity/Q37965657>	{'@dril'}
+	<http://www.wikidata.org/entity/Q7177768>	{'Peter Wong'}
+	<http://www.wikidata.org/entity/Q3746882>	{'Flutter'}
+	<http://www.wikidata.org/entity/Q7077132>	{'Ocular'}
+	<http://www.wikidata.org/entity/Q45882346>	{'Geeta Kashyap Vemuganti'}
+	<http://www.wikidata.org/entity/Q991265>	{'keratometry'}
+	<http://www.wikidata.org/entity/Q56071852>	{'small incision cataract surgery'}
+	<http://www.wikidata.org/entity/Q193516>	{'eyepiece'}
+	<http://www.wikidata.org/entity/Q56385551>	{'Ocular Music Group'}
+	<http://www.wikidata.org/entity/Q1818260>	{'cataract surgery'}
+	<http://www.wikidata.org/entity/Q1078066>	{'ocular tonometry'}
+	<http://www.wikidata.org/entity/Q66661662>	{'ocular physiological phenomena'}
+	<http://www.wikidata.org/entity/Q7126362>	{'Paladin Hercules'}
+	<http://www.wikidata.org/entity/Q2121955>	{'Trip hammer'}
+	<http://www.wikidata.org/entity/Q7041447>	{'Nitro engine'}
+	<http://www.wikidata.org/entity/Q966781>	{'iBOT'}
+	<http://www.wikidata.org/entity/Q28529760>	{'manual wheelchair'}
+	<http://www.wikidata.org/entity/Q942549>	{'paramotor'}
+	<http://www.wikidata.org/entity/Q7439792>	{'Sea-Bow International Sea-Bow'}
+	<http://www.wikidata.org/entity/Q7126358>	{'Paladin Golden Eagle'}
+	<http://www.wikidata.org/entity/Q10850833>	{'High Powered'}
+	<http://www.wikidata.org/entity/Q5756231>	{'High Powered'}
+	<http://www.wikidata.org/entity/Q16975235>	{'WARC'}
+	<http://www.wikidata.org/entity/Q2536862>	{'WARC'}
+	<http://www.wikidata.org/entity/Q84037847>	{'WARC 1.1'}
+	<http://www.wikidata.org/entity/Q203692>	{'WARC bands'}
+	<http://www.wikidata.org/entity/Q84037677>	{'WARC Format 1.0 specification'}
+	<http://www.wikidata.org/entity/Q84037796>	{'WARC Format 1.1 specification'}
+	<http://www.wikidata.org/entity/Q61931181>	{'Wisconsin Disability Association'}
+	<http://www.wikidata.org/entity/Q7978505>	{'Web ARChive'}
+	<http://www.wikidata.org/entity/Q11638583>	{'Western Region Agricultural Research Center'}
+	<http://www.wikidata.org/entity/Q20026787>	{'chemical component'}
+	<http://www.wikidata.org/entity/Q16975235>	{'WARC'}
+	<http://www.wikidata.org/entity/Q2536862>	{'WARC'}
+	<http://www.wikidata.org/entity/Q84037847>	{'WARC 1.1'}
+	<http://www.wikidata.org/entity/Q203692>	{'WARC bands'}
+	<http://www.wikidata.org/entity/Q84037677>	{'WARC Format 1.0 specification'}
+	<http://www.wikidata.org/entity/Q84037796>	{'WARC Format 1.1 specification'}
+	<http://www.wikidata.org/entity/Q61931181>	{'Wisconsin Disability Association'}
+	<http://www.wikidata.org/entity/Q7978505>	{'Web ARChive'}
+	<http://www.wikidata.org/entity/Q11638583>	{'Western Region Agricultural Research Center'}
+	<http://www.wikidata.org/entity/Q27877369>	{'Chris Has Got a Date, Date, Date, Date, Date'}
+	<http://www.wikidata.org/entity/Q16975235>	{'WARC'}
+	<http://www.wikidata.org/entity/Q2536862>	{'WARC'}
+	<http://www.wikidata.org/entity/Q84037847>	{'WARC 1.1'}
+	<http://www.wikidata.org/entity/Q203692>	{'WARC bands'}
+	<http://www.wikidata.org/entity/P7868>	{'NPDRIM record ID'}
+	<http://www.wikidata.org/entity/Q84037677>	{'WARC Format 1.0 specification'}
+	<http://www.wikidata.org/entity/Q84037796>	{'WARC Format 1.1 specification'}
+	<http://www.wikidata.org/entity/P7293>	{'NLP ID (PLWABN unique record)'}
+	<http://www.wikidata.org/entity/P3481>	{'Parks & Gardens UK Record ID'}
+	<http://www.wikidata.org/entity/P7304>	{'Highland Historic Environment Record ID'}
+	<http://www.wikidata.org/entity/Q1062767>	{'1 centimetre'}
+	<http://www.wikidata.org/entity/Q2747700>	{'1 decametre'}
+	<http://www.wikidata.org/entity/Q1810373>	{'Lea'}
+	<http://www.wikidata.org/entity/Q737252>	{'1 gigametre'}
+	<http://www.wikidata.org/entity/Q35029798>	{'Consultation Content not Consultation Length Improves Patient Satisfaction'}
+	<http://www.wikidata.org/entity/Q33906370>	{'Assessment of Telomere Length, Phenotype, and DNA Content'}
+	<http://www.wikidata.org/entity/Q53728515>	{'Length and content of family practice residency training.'}
+	<http://www.wikidata.org/entity/Q53746578>	{'Assessment of telomere length, phenotype, and DNA content.'}
+	<http://www.wikidata.org/entity/Q52888256>	{'A relationship between GC content and coding-sequence length.'}
+	<http://www.wikidata.org/entity/Q34988828>	{'Effect of gestational length on albumin content of meconium'}
+	<http://www.wikidata.org/entity/Q67404876>	{'PARAMOUNT NEWS [FEB. 10] (NAID 100200)'}
+	<http://www.wikidata.org/entity/Q67404327>	{'PARAMOUNT NEWS [FEB. 10] (NAID 100040)'}
+	<http://www.wikidata.org/entity/Q68414520>	{'The FIRST Survey Catalog, version 2012 Feb'}
+	<http://www.wikidata.org/entity/Q74769693>	{'Foe v. Vanderhoof.  10 feb 1975'}
+	<http://www.wikidata.org/entity/Q74769276>	{'Baird v. Bellotti.  10 Feb 1977'}
+	<http://www.wikidata.org/entity/Q60059662>	{'Hamilton, Mary Agnes, (died 10 Feb. 1966)'}
+	<http://www.wikidata.org/entity/Q2325>	{'February 10'}
+	<http://www.wikidata.org/entity/Q46093048>	{'Ten health stories that mattered: Feb. 10\\u201314.'}
+	<http://www.wikidata.org/entity/Q80084339>	{'January 10, 2012 (2015.103.42)'}
+	<http://www.wikidata.org/entity/Q21157739>	{'Conseil de quartier, Belfort, 10 feb 2015'}
+	<http://www.wikidata.org/entity/Q382707>	{'Rolex GMT Master II'}
+	<http://www.wikidata.org/entity/Q304940>	{'GMT'}
+	<http://www.wikidata.org/entity/Q5513805>	{'GMT'}
+	<http://www.wikidata.org/entity/Q21888019>	{'GMT Productions'}
+	<http://www.wikidata.org/entity/Q39052936>	{'GMT T1XX'}
+	<http://www.wikidata.org/entity/Q16975148>	{'GMT K2XX'}
+	<http://www.wikidata.org/entity/Q5513806>	{'GMT Records'}
+	<http://www.wikidata.org/entity/Q928726>	{'GMT Games'}
+	<http://www.wikidata.org/entity/Q15143503>	{'Template:GFDL-GMT'}
+	<http://www.wikidata.org/entity/Q602590>	{'Generic Mapping Tools'}
+	<http://www.wikidata.org/entity/Q4579686>	{'1981'}
+	<http://www.wikidata.org/entity/Q2437>	{'1981'}
+	<http://www.wikidata.org/entity/Q12681705>	{'1981'}
+	<http://www.wikidata.org/entity/Q44069858>	{'1981'}
+	<http://www.wikidata.org/entity/Q4029661>	{'1981'}
+	<http://www.wikidata.org/entity/Q2812793>	{'1981'}
+	<http://www.wikidata.org/entity/Q9129842>	{'1981'}
+	<http://www.wikidata.org/entity/Q6938262>	{'Category:1981'}
+	<http://www.wikidata.org/entity/Q58501371>	{'1981 Conference'}
+	<http://www.wikidata.org/entity/Q45056985>	{'[Scabies - 1981]'}
+	<http://www.wikidata.org/entity/Q2932502>	{'Cache-Control'}
+	<http://www.wikidata.org/entity/Q24898796>	{'Cache control instruction'}
+	<http://www.wikidata.org/entity/Q382707>	{'Rolex GMT Master II'}
+	<http://www.wikidata.org/entity/Q304940>	{'GMT'}
+	<http://www.wikidata.org/entity/Q5513805>	{'GMT'}
+	<http://www.wikidata.org/entity/Q28856460>	{'Cache-Cache'}
+	<http://www.wikidata.org/entity/Q63064086>	{'Cache Cache'}
+	<http://www.wikidata.org/entity/Q19956656>	{'Cache-cache'}
+	<http://www.wikidata.org/entity/Q64960827>	{'La cache-cache'}
+	<http://www.wikidata.org/entity/Q47470396>	{'RFC 5861: HTTP Cache-Control Extensions for Stale Content'}
+	<http://www.wikidata.org/entity/Q558685>	{'content marketing'}
+	<http://www.wikidata.org/entity/Q66709630>	{'Content hole search in community-type content'}
+	<http://www.wikidata.org/entity/Q47468060>	{'RFC 8255: Multiple Language Content Type'}
+	<http://www.wikidata.org/entity/Q61174186>	{'Ensonsinema'}
+	<http://www.wikidata.org/entity/Q64577202>	{'Watch Dogs: Bad Blood'}
+	<http://www.wikidata.org/entity/Q11919496>	{'Skeleton world championship 1990/91'}
+	<http://www.wikidata.org/entity/Q4353935>	{'content strategy'}
+	<http://www.wikidata.org/entity/Q52585557>	{'Heyfield Memorial United Church and Cemetery'}
+	<http://www.wikidata.org/entity/Q68835393>	{'Uncle Bill Piercey\\u2019s Store (Fisheries Heritage Preservation Program)'}
+	<http://www.wikidata.org/entity/Q27894201>	{'Mathematics/Library'}
+	<http://www.wikidata.org/entity/Q55456042>	{'K\\u00F6lner Treff (February 10th, 2012)'}
+	<http://www.wikidata.org/entity/Q83387271>	{'Abstracts of the 10th International Kawasaki Disease Symposium. February 7-10, 2012. Kyoto, Japan'}
+	<http://www.wikidata.org/entity/Q816325>	{'February 2012'}
+	<http://www.wikidata.org/entity/Q48079159>	{'Shlomo Stern Z.L.(February 10th, 1928 - October 27th, 2013).'}
+	<http://www.wikidata.org/entity/Q17982447>	{'26 February 2012'}
+	<http://www.wikidata.org/entity/Q7479794>	{'6 February 2012'}
+	<http://www.wikidata.org/entity/Q17616352>	{'22 February 2012'}
+	<http://www.wikidata.org/entity/Q17616307>	{'14 February 2012'}
+	<http://www.wikidata.org/entity/Q17981449>	{'12 February 2012'}
+	<http://www.wikidata.org/entity/Q17982946>	{'4 February 2012'}
+	<http://www.wikidata.org/entity/Q5457514>	{'Flash Flash Flash'}
+	<http://www.wikidata.org/entity/Q5227113>	{'DataFlash'}
+	<http://www.wikidata.org/entity/Q24912110>	{'Wallace West'}
+	<http://www.wikidata.org/entity/Q39070416>	{'Flash'}
+	<http://www.wikidata.org/entity/Q5302479>	{'Ninjai'}
+	<http://www.wikidata.org/entity/Q19367995>	{'Flash Flash'}
+	<http://www.wikidata.org/entity/Q57089194>	{'Flash'}
+	<http://www.wikidata.org/entity/Q60376572>	{'Flash'}
+	<http://www.wikidata.org/entity/Q20423901>	{'Flash'}
+	<http://www.wikidata.org/entity/Q5457478>	{'Flash'}
+	<http://www.wikidata.org/entity/Q5457514>	{'Flash Flash Flash'}
+	<http://www.wikidata.org/entity/Q5227113>	{'DataFlash'}
+	<http://www.wikidata.org/entity/Q24912110>	{'Wallace West'}
+	<http://www.wikidata.org/entity/Q39070416>	{'Flash'}
+	<http://www.wikidata.org/entity/Q5302479>	{'Ninjai'}
+	<http://www.wikidata.org/entity/Q19367995>	{'Flash Flash'}
+	<http://www.wikidata.org/entity/Q57089194>	{'Flash'}
+	<http://www.wikidata.org/entity/Q60376572>	{'Flash'}
+	<http://www.wikidata.org/entity/Q20423901>	{'Flash'}
+	<http://www.wikidata.org/entity/Q5457478>	{'Flash'}
+	<http://www.wikidata.org/entity/Q248092>	{'Tweetbot'}
+	<http://www.wikidata.org/entity/Q61861117>	{'#LGBTQofTwitter'}
+	<http://www.wikidata.org/entity/Q64877513>	{'#TransMenAreNotWomen'}
+	<http://www.wikidata.org/entity/Q64605872>	{'#SeeUsHearUs'}
+	<http://www.wikidata.org/entity/Q59607479>	{'corebird'}
+	<http://www.wikidata.org/entity/Q2582028>	{'Twitterrific'}
+	<http://www.wikidata.org/entity/Q63978443>	{'#RelationshipGoals'}
+	<http://www.wikidata.org/entity/Q63969618>	{'#HereWeAre'}
+	<http://www.wikidata.org/entity/Q37965657>	{'@dril'}
+	<http://www.wikidata.org/entity/Q7177768>	{'Peter Wong'}
+	<http://www.wikidata.org/entity/Q3746882>	{'Flutter'}
+	<http://www.wikidata.org/entity/Q7077132>	{'Ocular'}
+	<http://www.wikidata.org/entity/Q45882346>	{'Geeta Kashyap Vemuganti'}
+	<http://www.wikidata.org/entity/Q991265>	{'keratometry'}
+	<http://www.wikidata.org/entity/Q56071852>	{'small incision cataract surgery'}
+	<http://www.wikidata.org/entity/Q193516>	{'eyepiece'}
+	<http://www.wikidata.org/entity/Q56385551>	{'Ocular Music Group'}
+	<http://www.wikidata.org/entity/Q1818260>	{'cataract surgery'}
+	<http://www.wikidata.org/entity/Q1078066>	{'ocular tonometry'}
+	<http://www.wikidata.org/entity/Q66661662>	{'ocular physiological phenomena'}
+	<http://www.wikidata.org/entity/Q7126362>	{'Paladin Hercules'}
+	<http://www.wikidata.org/entity/Q2121955>	{'Trip hammer'}
+	<http://www.wikidata.org/entity/Q7041447>	{'Nitro engine'}
+	<http://www.wikidata.org/entity/Q966781>	{'iBOT'}
+	<http://www.wikidata.org/entity/Q28529760>	{'manual wheelchair'}
+	<http://www.wikidata.org/entity/Q942549>	{'paramotor'}
+	<http://www.wikidata.org/entity/Q7439792>	{'Sea-Bow International Sea-Bow'}
+	<http://www.wikidata.org/entity/Q7126358>	{'Paladin Golden Eagle'}
+	<http://www.wikidata.org/entity/Q10850833>	{'High Powered'}
+	<http://www.wikidata.org/entity/Q5756231>	{'High Powered'}

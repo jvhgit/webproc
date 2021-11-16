@@ -1,10 +1,10 @@
 import gzip
-import spacy
-nlp = spacy.load('en_core_web_sm')
 
 KEYNAME = "WARC-TREC-ID"
 
 # The goal of this function process the webpage and returns a list of labels -> entity ID
+#
+
 
 
 def find_labels(payload):
@@ -22,19 +22,10 @@ def find_labels(payload):
 
     # Problem 1: The webpage is typically encoded in HTML format.
     # We should get rid of the HTML tags and retrieve the text. How can we do it?
-    # regex or other package (BS4 or similar)
 
     # Problem 2: Let's assume that we found a way to retrieve the text from a webpage. How can we recognize the
     # entities in the text?
 
-    # JJ:
-    # spacy
-    # we need to make decision if we put in whole text or per sentence/paragraph
-    # should be based on computational benefit or recall measure for entities
-    doc = nlp("I'm Jens van Holland")
-    for ent in doc.ents:
-        print(ent.text, ent.label_)
-        
     # Problem 3: We now have to disambiguate the entities in the text. For instance, let's assugme that we identified
     # the entity "Michael Jordan". Which entity in Wikidata is the one that is referred to in the text?
 
@@ -62,6 +53,10 @@ def find_labels(payload):
             yield key, label, wikidata_id
 
 
+
+
+
+
 def split_records(stream):
     payload = ''
     for line in stream:
@@ -74,6 +69,7 @@ def split_records(stream):
 
 
 if __name__ == '__main__':
+    # print("OK")
     import sys
     try:
         _, INPUT = sys.argv
