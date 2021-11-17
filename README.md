@@ -6,6 +6,10 @@ Next run in the container (VSCode remote development advised):<br>
 - sh run_server.sh
 - sh run.sh <br>
 
+*OR*
+Build the Dockerfile.dockerfile, start the container (docker run -ti etc etc) and run:
+- sh run_server.sh
+- sh run.sh <br>
 
 In short, there are a few key components for the entity linking, namely:<br>
 - The _inking/pipeline.py_ for the **Pipeline** class, which uses classes from other scripts and parses the input (WARC files) through it.
