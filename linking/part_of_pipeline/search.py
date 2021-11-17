@@ -42,17 +42,18 @@ class Search:
         for ent in amb_entities:
             #TODO: we need to find a way to make the quering more efficient (i.e. batches possible?)
             p = { "query" : { "query_string" : { "query" : ent }}}
-            try:
-                response = self.e.search(index="wikidata_en", body=json.dumps(p))
-                id_labels = {}
-                if response:
-                    for hit in response['hits']['hits']:
-                        label = hit['_source']['schema_name']
-                        id = hit['_id']
-                        id_labels.setdefault(id, set()).add(label)
-                results.append(id_labels)
-            except:
-                continue
+            # try:
+            response = self.e.search(index="wikidata_en", body=json.dumps(p))
+            id_labels = {}
+            print(response)
+            if response:
+                for hit in response['hits']['hits']:
+                    label = hit['_source']['schema_name']
+                    id = hit['_id']
+                    id_labels.setdefault(id, set()).add(label)
+            results.append(id_labels)
+            # except:
+                # continue
             #TODO: a lot of duplicates (might also impact computation time)
         return results
     
