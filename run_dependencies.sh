@@ -2,7 +2,7 @@
 echo "Updating package manager..."
 pip3 install --upgrade pip
 echo "Installing Python packages and dependencies..."
-pip3 install spacy ipykernel warcio html2text bs4 numpy
+pip3 install spacy ipykernel warcio html2text bs4 numpy elasticsearch
 
 # export PATH=$PATH:/home/wdps/.local/bin
 # add to this line or maybe we need to make requirement file

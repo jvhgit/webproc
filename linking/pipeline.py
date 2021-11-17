@@ -57,7 +57,6 @@ class Pipeline:
         """
         textfile = open(save_to, "w")
         for element in self.temp_output:
-            print(element)
             for result in element:
                 for k, v in result.items():
                     textfile.write(f'\t{k}\t{v}\n')
