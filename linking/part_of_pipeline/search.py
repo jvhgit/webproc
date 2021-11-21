@@ -30,6 +30,7 @@ class Search:
         self.e = Elasticsearch()
         pass
 
+
     def search(self, amb_entities):
         """
         Searches a list of given entities \n

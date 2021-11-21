@@ -43,7 +43,7 @@ class Clean:
         if self.option == 1:
             return html2text.html2text(str(text))
         elif self.option == 2:
-            return  BeautifulSoup(text, features="html.parser").get_text()
+            return BeautifulSoup(text, features="html.parser").get_text()
         # elif #ption == 3:
             #maybe make some custom parser with regex or some other package#
         pass 
