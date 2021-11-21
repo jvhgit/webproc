@@ -7,9 +7,13 @@
 ## Date: 21-11-2021
 # Course: Web Data Processing Systems
 
+
 ### DESCRIPTION ###
 # Decision class, uses Trident to decide if correct wikilinks are found for the entities are found
 # TODO: add some other disambiguation functions e.g. with Trident
+
+#LITERATURE
+# http://ceur-ws.org/Vol-2773/paper-02.pd (paper for entity linking using wikidata)
 import json
 import trident
 import collections
@@ -17,7 +21,14 @@ import collections
 import time
 
 KBPATH = 'assets/wikidata-20200203-truthy-uri-tridentdb'
-QUERY_FORMAT = ""
+QUERY_FORMAT = 'PREFIX wd: {}'\
+               'PREFIX schema: <http://schema.org/>'\
+               'SELECT ?o'\
+               'WHERE'\
+               '{'\
+               'wd:Q3 schema:description ?o.'\
+               'FILTER ( lang(?o) = "en" )'\
+               '}'
 
 
 class Decision:
@@ -38,10 +49,11 @@ class Decision:
         self.threshold = threshold
         self.take_first = take_first
         pass
-    def _query(self, inputs):
+
+    def _query(self, wiki):
         
         return self.trident_db.sparql( #query to database
-            QUERY_FORMAT.format() #format string with inputs
+            QUERY_FORMAT.format(wiki) #format string with inputs
         )
 
     def _convertToVector(self, query_information = None, text_information = None):
@@ -66,8 +78,7 @@ class Decision:
             elif method == '2':
                 return None
 
-        else:
-            print("Please give query or text information to vectorize (None given).")
+        else:  print("Please give query or text information to vectorize (None given).")
 
     def _compare(self, entity_representation = None, text_representation = None, method = "1"  ):
         """

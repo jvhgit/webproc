@@ -19,7 +19,7 @@ import time
 class Search:
     # class information
     input_ = "list:amb_entities"
-    output_ = "list:disamb_entities"
+    output_ = "dict:amb_entities"
 
     def __init__(self) -> None:
         """

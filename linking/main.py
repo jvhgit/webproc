@@ -16,6 +16,8 @@ import argparse
 from part_of_pipeline.clean import Clean
 from part_of_pipeline.extract import Extract
 from part_of_pipeline.search import Search
+from part_of_pipeline.decision import Decision
+
 from pipeline import Pipeline
 
 def main():
@@ -53,9 +55,10 @@ if __name__ == '__main__':
     #building the pipeline
     pipeline = Pipeline()
     pipeline.add(name = "clean-text", part = Clean(option = FLAGS.clean_text))
-    pipeline.add(name = "extract-text", part = Extract(nlp_model= FLAGS.extract_model))
-    pipeline.add(name = "search-text", part = Search())
-
+    pipeline.add(name = "extract-entity", part = Extract(nlp_model= FLAGS.extract_model))
+    pipeline.add(name = "search-entity", part = Search())
+    pipeline.add(name = "disambiguate-text", part = Decision())
+    print(pipeline)
     #processing the warc files
-    main()
+    # main()
    
