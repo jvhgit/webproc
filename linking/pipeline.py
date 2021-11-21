@@ -21,7 +21,7 @@ import sys
 from part_of_pipeline.clean import Clean
 from part_of_pipeline.extract import Extract
 from part_of_pipeline.search import Search
-
+from part_of_pipeline.decision import Decision
 #classes
 class Pipeline:
     """
@@ -31,7 +31,7 @@ class Pipeline:
           (e.g. split large input into chunks or multiple WARC files at the same time)
     """
 
-    def __init__(self, pipeline = [], whitelist = [Clean(), Extract(), Search()]) -> None:
+    def __init__(self, pipeline = [], whitelist = [Clean(), Extract(), Search(), Decision()]) -> None:
         """
         Initialization function
         Input: \n

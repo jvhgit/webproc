@@ -15,6 +15,7 @@ import json
 import asyncio
 from elasticsearch import Elasticsearch, AsyncElasticsearch
 import time
+
 class Search:
     # class information
     input_ = "list:amb_entities"
@@ -131,7 +132,7 @@ class Search:
 
         return results
     
-    def _forward(self, amb_entities):
+    def _forward(self, amb_entities, search = "fast"):
         """
         Dummy function for streamlining the pipeline\n
         Input: \n
@@ -142,6 +143,9 @@ class Search:
         # this is used by the pipeline
         # make sure this returns the acceptable output
         # it seems redudant but _forward is universal parse functions in the pipeline
-        # return self.search(amb_entities)
-        return self.fastsearch(amb_entities)
+        if search == "fast":
+            return self.fastsearch(amb_entities)
+        elif search == "normal":
+            return self.search(amb_entities)
+
 
