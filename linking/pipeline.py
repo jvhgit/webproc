@@ -22,6 +22,7 @@ from part_of_pipeline.clean import Clean
 from part_of_pipeline.extract import Extract
 from part_of_pipeline.search import Search
 from part_of_pipeline.decision import Decision
+
 #classes
 class Pipeline:
     """

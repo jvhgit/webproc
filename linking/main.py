@@ -12,6 +12,7 @@
 # main file, makes use of all the other components
 
 ##packages 
+
 import argparse
 from part_of_pipeline.clean import Clean
 from part_of_pipeline.extract import Extract
@@ -32,7 +33,7 @@ def main():
     print(pipeline)
 
     #running the pipeline
-    pipeline.process(complete_path=FLAGS.data_dir)
+    pipeline.process(complete_path=FLAGS.data_dir,)
 
     pass
 
@@ -49,6 +50,9 @@ if __name__ == '__main__':
 
     parser.add_argument('--extract_model', type=str, default="en_core_web_sm",
                         help="The model which is used to extract:\n\ten_core_web_sm (default)\n\ten_core_web_lg ", choices=["en_core_web_sm","en_core_web_lg"])
+                        
+    parser.add_argument('--output_fileName', type=str, default="temp.txt",
+                        help="The location where the output file is written")
 
     FLAGS, _ = parser.parse_known_args() #unparsed = _
 
