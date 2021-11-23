@@ -33,7 +33,7 @@ def main():
     print(pipeline)
 
     #running the pipeline
-    pipeline.process(complete_path=FLAGS.data_dir,)
+    pipeline.process(complete_path=FLAGS.data_dir,save_to=FLAGS.output_filename)
 
     pass
 
@@ -51,7 +51,7 @@ if __name__ == '__main__':
     parser.add_argument('--extract_model', type=str, default="en_core_web_sm",
                         help="The model which is used to extract:\n\ten_core_web_sm (default)\n\ten_core_web_lg ", choices=["en_core_web_sm","en_core_web_lg"])
                         
-    parser.add_argument('--output_fileName', type=str, default="temp.txt",
+    parser.add_argument('--output_filename', type=str, default="temp.txt",
                         help="The location where the output file is written")
 
     FLAGS, _ = parser.parse_known_args() #unparsed = _
@@ -63,6 +63,7 @@ if __name__ == '__main__':
     pipeline.add(name = "search-entity", part = Search())
     pipeline.add(name = "disambiguate-text", part = Decision())
     print(pipeline)
+    
     #processing the warc files
-    # main()
+    main()
    
