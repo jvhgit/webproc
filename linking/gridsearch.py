@@ -1,6 +1,5 @@
 import subprocess
-import os
-import sys
+from pathlib import Path
 
 class Scorer:
     def __init__(self, gold_file):
@@ -33,7 +32,7 @@ class Scorer:
 
         return (f1, precision, recall, n_correct)
 
-    def _read(file):
+    def _read(self, file):
         data = {}
         for line in open(file):
             record, string, entity = line.strip().split('\t', 2)
@@ -49,16 +48,20 @@ extractOptions = ["en_core_web_sm","en_core_web_lg"]
 
 #Paths
 gold_file = ""
-output_file = "gridsearch_outcomes.csv"
+output_folder = "D:/University/Web Data Processing Systems/Data/assignment-all-splitted/assignment-all-splitted/assignment/results/"
+gridsearch_output_file = output_folder + "gridsearch_outcomes.csv"
 
+## CODE
+Path(output_folder).mkdir(parents=True, exist_ok=True)
 scorer = Scorer(gold_file)
 results =  {}
 for cleanOption in cleanOptions:
     for extractOption in extractOptions:
-            outputFileName = "clean-" + str(cleanOption) + "|extract-" + extractOption + ".txt"
+
+            outputFileName = output_folder + "clean-" + str(cleanOption) + "extract-" + extractOption + ".txt"
             subprocess.call(["python3", "./linking/main.py", "--clean_text", str(cleanOption), "--extract_model", extractOption, "--output_filename", outputFileName])
             f1, precision, recall, n_correct = scorer.Score(outputFileName)
             results[outputFileName] = (f1, precision, recall, n_correct)
 
-results.to_csv(output_file, index=False)
+results.to_csv(gridsearch_output_file, index=False)
 
