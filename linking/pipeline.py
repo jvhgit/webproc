@@ -56,7 +56,7 @@ class Pipeline:
         Output: \n
         \tNone
         """
-        textfile = open(save_to, "w")
+        textfile = open(save_to, "w+")
         for element in self.temp_output:
             for result in element:
                 for k, v in result.items():
