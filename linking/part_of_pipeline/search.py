@@ -60,7 +60,7 @@ class Search:
         try:
             response = await self.async_e.search(
                 index="wikidata_en",
-                body=query,
+                body=query[0],
                 # size = 20
             )
             # async with response:
@@ -70,7 +70,7 @@ class Search:
                     label = hit['_source']['schema_name']
                     id = hit['_id']
                     id_labels.setdefault(id, set()).add(label)
-            return id_labels
+            return {query[1]:id_labels}
         except:
             return {}
 
@@ -88,7 +88,7 @@ class Search:
         amb_entities = self._remove(amb_entities)
         results = []
         #set queries
-        json_queries = [json.dumps({ "query" : { "query_string" : { "query" : ent }}}) for ent in amb_entities ]
+        json_queries = [(json.dumps({ "query" : { "query_string" : { "query" : ent }}}), ent) for ent in amb_entities ]
         query_group = asyncio.gather(*[self._search(q) for q in json_queries])
         #initialize loop
         loop = asyncio.get_event_loop()
@@ -97,6 +97,8 @@ class Search:
         # print(results)
         stop = time.time()
         print(f"The time for search is: {stop - start}")
+        # print(results)
+
         return results
 
     def search(self, amb_entities):
@@ -123,16 +125,16 @@ class Search:
                         label = hit['_source']['schema_name']
                         id = hit['_id']
                         id_labels.setdefault(id, set()).add(label)
-                results.append(id_labels)
+                results.append({ent: id_labels})
             except:
                 continue
             #TODO: a lot of duplicates (might also impact computation time)
         stop = time.time()
         print(f"The time for search is: {stop - start}")
-
+        # print(results)
         return results
     
-    def _forward(self, amb_entities, search = "fast"):
+    def _forward(self, instance):
         """
         Dummy function for streamlining the pipeline\n
         Input: \n
@@ -143,9 +145,11 @@ class Search:
         # this is used by the pipeline
         # make sure this returns the acceptable output
         # it seems redudant but _forward is universal parse functions in the pipeline
-        if search == "fast":
-            return self.fastsearch(amb_entities)
-        elif search == "normal":
-            return self.search(amb_entities)
+        if instance['search'] == "fast": #uses async
+            instance['wiki_links'] = self.fastsearch(instance['entities'])
+            return instance
 
+        elif instance['search']  == "normal":#does not use async
+            instance['wiki_links'] = self.search(instance['entities'])
+            return instance
 

@@ -68,7 +68,7 @@ class Extract:
         return entities
         # return zip(doc.ents, [i.label_ for i in doc.ents]) 
     
-    def _forward(self, text):
+    def _forward(self, instance):
         """
         Dummy function for streamlining the pipeline\n
         Input: \n
@@ -79,5 +79,7 @@ class Extract:
         # this is used by the pipeline
         # make sure this returns the acceptable output
         # it seems redudant but _forward is universal parse functions in the pipeline
-        return self.extract(text = text)
+        instance['entities'] = self.extract(text = instance['text'])
+        print(instance['entities'])
+        return instance
 

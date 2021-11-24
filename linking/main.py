@@ -57,8 +57,8 @@ if __name__ == '__main__':
     pipeline.add(name = "clean-text", part = Clean(option = FLAGS.clean_text))
     pipeline.add(name = "extract-entity", part = Extract(nlp_model= FLAGS.extract_model))
     pipeline.add(name = "search-entity", part = Search())
-    pipeline.add(name = "disambiguate-text", part = Decision())
-    print(pipeline)
+    # pipeline.add(name = "disambiguate-text", part = Decision())
+    # print(pipeline)
     #processing the warc files
-    # main()
+    main()
    

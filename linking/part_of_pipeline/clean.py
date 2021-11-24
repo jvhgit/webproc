@@ -41,6 +41,7 @@ class Clean:
         \t(mostly) cleaned text (in terms of html lingo)
         """
         if self.option == 1:
+            print(html2text.html2text(str(text)))
             return html2text.html2text(str(text))
         elif self.option == 2:
             return BeautifulSoup(text, features="html.parser").get_text()
@@ -48,7 +49,7 @@ class Clean:
             #maybe make some custom parser with regex or some other package#
         pass 
     
-    def _forward(self, text):
+    def _forward(self, instance):
         """
         Dummy function for streamlining the pipeline\n
         Input: \n
@@ -59,5 +60,5 @@ class Clean:
         # this is used by the pipeline
         # make sure this returns the acceptable output
         # it seems redudant but _forward is universal parse functions in the pipeline
-
-        return self.clean(text)
+        instance['text'] = self.clean(instance['html_text'])
+        return instance

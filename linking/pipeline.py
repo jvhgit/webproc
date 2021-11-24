@@ -17,11 +17,15 @@ import random
 import string
 import gzip
 import sys 
+import re
 
 from part_of_pipeline.clean import Clean
 from part_of_pipeline.extract import Extract
 from part_of_pipeline.search import Search
 from part_of_pipeline.decision import Decision
+
+ID = r"WARC-Record-ID"
+ID_IDENTIFIER = r"(?:"+ ID + r": )([\s|\S]+?)\n"
 #classes
 class Pipeline:
     """
@@ -72,16 +76,19 @@ class Pipeline:
         Output: \n
         \thtml text
         """
+        id_ = ''
         payload = ''
         for line in stream:
             if line.strip() == "WARC/1.0":
-                yield payload
-                payload = ''
+                yield id_, payload
+                payload, id_ = '', ''
             else:
                 payload += line
-        yield payload
+                if ID in line:
+                    id_ = re.findall(ID_IDENTIFIER, line)
+        yield id_, payload
 
-    def parse(self, html_text = None):
+    def parse(self, html_text = None, id_ = None):
         """
         Parse warc file through the pipeline.\n
         Input: \n
@@ -89,11 +96,13 @@ class Pipeline:
         Output: \n
         \tNone
         """
+        instance = dict()
+        instance['html_text'] = html_text
+        instance['id_'] = id_
+        instance['search'] = 'fast'
+        for _, part in self.pipeline: instance = part._forward(instance)
 
-        temp = html_text
-        for _, part in self.pipeline: temp = part._forward(temp)
-
-        self.temp_output.append(temp) #add the output triple
+        # self.temp_output.append(instance) #add the output triple
 
     def reset(self):
         """
@@ -121,10 +130,11 @@ class Pipeline:
             return "Not a valid input (None)."
         i = 0 #for testing
         with gzip.open(complete_path, 'rt', errors='ignore') as fo:
-            for rec in self._split_records(fo):
-                self.parse(html_text=rec)
+            for id_, rec in self._split_records(fo):
+                if i != 0:
+                    self.parse(html_text=rec)
             
-                if i ==  5: break #for testing
+                if i ==  4: break #for testing
                 i+=1 #for testing
     
         self._write_to_txt(save_to = save_to)

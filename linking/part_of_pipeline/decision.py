@@ -20,21 +20,22 @@ import collections
 # import asyncio
 import time
 
-KBPATH = 'assets/wikidata-20200203-truthy-uri-tridentdb'
-QUERY_FORMAT = 'PREFIX wd: {}'\
-               'PREFIX schema: <http://schema.org/>'\
-               'SELECT ?o'\
-               'WHERE'\
-               '{'\
-               'wd:Q3 schema:description ?o.'\
-               'FILTER ( lang(?o) = "en" )'\
-               '}'
+KBPATH = "assets/wikidata-20200203-truthy-uri-tridentdb"
+QUERY_FORMAT = "PREFIX wd: {} "\
+               "PREFIX schema: <http://schema.org/> "\
+               "SELECT ?o "\
+               "WHERE "\
+               "\{ "\
+               "wd:Q3 schema:description ?o. "\
+               "FILTER ( lang(?o) = \"en\" ) "\
+               "\} "
 
 
 class Decision:
     # class information
     input_ = "dict:amb_entities"
     output_ = "dict:disamb_entities"
+
 
     def __init__(self, threshold = None, take_first = True, n_hits = 5) -> None:
         """
@@ -51,12 +52,18 @@ class Decision:
         pass
 
     def _query(self, wiki):
-        
-        return self.trident_db.sparql( #query to database
-            QUERY_FORMAT.format(wiki) #format string with inputs
-        )
+        # print(QUERY_FORMAT)
+        print( wiki.split("/")[-1][:-1])
+        # print(QUERY_FORMAT.format(wiki))
+        print( self.trident_db.sparql( #query to database
+            # "PREFIX wd: "+ wiki + " PREFIX schema: <http://schema.org/> SELECT ?o WHERE { wd:Q3 schema:description ?o. FILTER ( lang(?o) = \"en\" ) } "
+            "PREFIX wd:<http://www.wikidata.org/entity/>"\
+            " PREFIX schema:<http://schema.org/>"\
+            "SELECT ?o"\
+            "WHERE { wd:Q558685 schema:description ?o. FILTER ( lang(?o) = \"en\" ) }"
+        ))
 
-    def _convertToVector(self, query_information = None, text_information = None):
+    def _convertToVector(self, text):
         """
         Converts query and/or text information to a vector (which can be compared) \n
         Input: \n
@@ -64,21 +71,21 @@ class Decision:
         Output: \n
         \tresults of the queries (dict with {wikidatalink:entity} pairs)
         """
-        if query_information != None:
-            #some code to represent the information 
-            if method == "1":
-                return None
-            elif method == '2':
-                return None
+        # if query_information != None:
+        #     #some code to represent the information 
+        #     if method == "1":
+        #         return None
+        #     elif method == '2':
+        #         return None
 
-        elif text_information != None:
-            #some code to represent the information 
-            if method == "1":
-                return None
-            elif method == '2':
-                return None
+        # elif text_information != None:
+        #     #some code to represent the information 
+        #     if method == "1":
+        #         return None
+        #     elif method == '2':
+        #         return None
 
-        else:  print("Please give query or text information to vectorize (None given).")
+        # else:  print("Please give query or text information to vectorize (None given).")
 
     def _compare(self, entity_representation = None, text_representation = None, method = "1"  ):
         """
@@ -95,7 +102,32 @@ class Decision:
         else: #no method is accepting al (i.e. omitting disambiguation)
             return 1.0
 
-    def decide(self, amb_entities, texts):
+    def decide_(self, amb_entities, id_, text):
+        representation_ents = [] #3-tuple (ent, wiki, vector)
+        representation_text = [] #vector
+        
+        for ent in amb_entities:
+
+            if len(ent.keys()) > 0: #check if any hits at all
+                
+                num_ent_hits = len(ent[list(ent.keys())[0]].keys()) #number of hits for entity
+                hits = ent[list(ent.keys())[0]]#all the hits of the entity
+
+                if (self.take_first)&(num_ent_hits == 1): #if only 1 match always return this match
+                    representation_ents.append((max(*list(hits.values())), list(hits.keys())[0], [None]))
+
+                elif num_ent_hits < 1: #if no hits go to next entity
+                    continue
+
+                else: #otherwise make representation for the ent-wiki
+                    for wiki in hits.keys():
+                        information = self._query(wiki = wiki)
+                        print(information)
+                        representation_ents.append(
+                            (  hits[wiki], wiki, self._convertToVector(query_information=information))
+                        )
+
+    def decide(self, amb_entities, id_, texts):
         """
         Searches a list of given entities \n
         Input: \n
@@ -105,20 +137,33 @@ class Decision:
         \tresults of the queries (dict with {wikidatalink:entity} pairs)
         """
 
-        representation_ents = [] #4-tuple (text_id, ent, wiki, vector)
-        representation_texts = [] #2 tuple (text_id, vector)
+        representation_ents = [] #3-tuple (ent, wiki, vector)
+        representation_text = [] #vector
 
-        entity_frequency= dict(collections.Counter(list(amb_entities.values())))
+        # entity_frequency= dict(collections.Counter(list(amb_entities.values())))
         #first represent the entity-wiki
-        for id_, ent, wiki in amb_entities:
-            if (take_first)&(entity_frequency[ent] < 2): #if only 1 match always return this match
-                representation_ents.append((id_, ent, wiki, [None])) 
-            else:#otherwise make representation for the ent-wiki
-                information = self._query(inputs = wiki)
-                representation_ents.append(
-                    (id_, ent, wiki, self._convertToVector(query_information=information))
-                )
+        # print(amb_entities)
+        for ent in amb_entities:
 
+            if len(ent.keys()) > 0: #check if any hits at all
+                
+                num_ent_hits = len(ent[list(ent.keys())[0]].keys()) #number of hits for entity
+                hits = ent[list(ent.keys())[0]]#all the hits of the entity
+
+                if (self.take_first)&(num_ent_hits == 1): #if only 1 match always return this match
+                    representation_ents.append((max(*list(hits.values())), list(hits.keys())[0], [None]))
+
+                elif num_ent_hits < 1: #if no hits go to next entity
+                    continue
+
+                else: #otherwise make representation for the ent-wiki
+                    for wiki in hits.keys():
+                        information = self._query(wiki = wiki)
+                        print(information)
+                        representation_ents.append(
+                            (  hits[wiki], wiki, self._convertToVector(query_information=information))
+                        )
+        # print(representation_ents)
         #second represent the sentences (could also use other entities for this)
         for id_, text in texts:
             information = text #make information variable
@@ -159,7 +204,7 @@ class Decision:
         #returns list of tuple    
         return results
 
-    def _forward(self, amb_entities, disambiguation=True):
+    def _forward(self, instance):
         """
         Dummy function for streamlining the pipeline\n
         Input: \n
@@ -170,7 +215,10 @@ class Decision:
         # this is used by the pipeline
         # make sure this returns the acceptable output
         # it seems redudant but _forward is universal parse functions in the pipeline
-        if disambiguation:
-            return self.decide(amb_entities)
-        else:
-            return amb_entities
+        instance['disambig_entities'] = self.decide(
+                                                instance['wiki_links'], 
+                                                instance['id_'], 
+                                                instance['text']
+                                            )
+        return instance
+   
