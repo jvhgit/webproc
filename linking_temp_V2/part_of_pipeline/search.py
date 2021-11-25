@@ -1,6 +1,5 @@
 ### AUTHORS ###
 ## Clifton Roozendal
-## Eduard Bosch
 ## Floris ten Lohuis
 ## Jens van Holland
 
@@ -19,6 +18,7 @@ from elasticsearch import Elasticsearch, AsyncElasticsearch
 import time
 import elasticsearch
 import tqdm.asyncio
+import pandas as pd
 
 class Search:
     # class information
@@ -119,7 +119,7 @@ class Search:
 
         return results
 
-    def search(self, amb_entities):
+    def search(self, amb_entities, query_size = 15):
         """
         Searches a list of given entities \n
         Input: \n
@@ -131,26 +131,41 @@ class Search:
         start = time.time()
 
         #remove doubles and obvious wrongly entities
-        amb_entities = self._remove(amb_entities)
-        for ent in amb_entities:
+        # amb_entities = self._remove(amb_entities)
+        i = 0
+        start = time.time()
+        num_entities = len(amb_entities)
+        for ent, warc_id in zip(amb_entities['ents'].values, amb_entities['ids'].values ):
+            i+=1
+            if i %100 ==0:
+                sec = round(time.time() - start)
+                print(f"\t Searched {i}/{num_entities} entities (Elasticsearch) in {sec} seconds ")
+                # if i == 100: #during test runs
+                #     break
             #TODO: we need to find a way to make the quering more efficient (i.e. batches possible?)
             p = { "query" : { "query_string" : { "query" : ent }}}
             try:
-                response = self.e.search(index="wikidata_en", body=json.dumps(p))
-                id_labels = {}
+                response = self.e.search(index="wikidata_en", body=json.dumps(p), size = query_size)
+                # response_data = [] 
                 if response:
                     for hit in response['hits']['hits']:
-                        label = hit['_source']['schema_name']
-                        id = hit['_id']
-                        id_labels.setdefault(id, set()).add(label)
-                results.append({ent: id_labels})
-            except:
+                        temp_data = {
+                            "label" : hit['_source']['schema_name'],
+                            "score" : hit["_score"],
+                            "descript" : hit['_source']['schema_description'] if "schema_description" in hit['_source'] else ""  ,
+                            "hit_id" : hit['_id'],
+                            "warc_id": warc_id
+                        }
+                        #add to dataframe
+                        results.append(temp_data)
+            except Exception as e:
+                # print(e)
                 continue
 
         stop = time.time()
         print(f"The time for search is: {stop - start}")
         # print(results)
-        return results
+        return pd.DataFrame.from_dict(results, orient = 'columns')
     
     def _forward(self, records):
         """
@@ -164,13 +179,14 @@ class Search:
         # make sure this returns the acceptable output
         # it seems redudant but _forward is universal parse functions in the pipeline
         print("--> Searching entities in wikidata (Elasticsearch) <--")
-        if records['search'] == "fast": #uses async
+        #DOES NOT WORK :(
+        if records['search_ES'] == "fast": #uses async
             records['wiki_links'] = self.fastsearch(records['amb_entities']) #amb_entitis is a pd Dataframe with cols: [ids,ents]
             return records
 
-        elif records['search']  == "normal":#does not use async
-            records['wiki_links'] = self.search(records['amb_entities'])
-        print("<STATUS: DONE>")
+        elif records['search_ES']  == "normal":#does not use async
+            records['wiki_links'] = self.search(records['amb_entities'], query_size= records['query_size_ES'])
+        print("<STATUS: DONE>\n")
 
         return records
 

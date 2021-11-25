@@ -51,21 +51,19 @@ class Pipeline:
         self.temp_output = [] #do not change
         pass
     
-    def _write_to_txt(self, save_to = "temp.txt"):
+    def _write_to_txt(self, save_to = "results.txt"):
         """
         Writes results to txt (\\t separated).\n
         Input: \n
-        \tsave_to: (str) path + filename.txt default is temp.txt
+        \tsave_to: (str) path + filename.txt default is results.txt
         Output: \n
         \tNone
         """
         textfile = open(save_to, "w")
-        for element in self.temp_output:
-            for result in element:
-                for k, v in result.items():
-                    textfile.write(f'\t{k}\t{v}\n')
-
+        for element in self.temp_output.values: 
+            textfile.write(element)
         textfile.close()
+        print(f"Results saved at: {save_to}")
         pass
 
     def _split_records(self,stream):
@@ -99,7 +97,7 @@ class Pipeline:
         #go through the pipeline
         for _, part in self.pipeline: records = part._forward(records)
 
-        # self.temp_output.append(instance) #add the output triple
+        self.temp_output = records['disambig_entities'] #add the output triple
 
     def reset(self):
         """
@@ -113,7 +111,7 @@ class Pipeline:
 
         pass
 
-    def process(self, complete_path = None, save_to = "temp.txt"):
+    def process(self, args):
         """
         Process warc file through the pipeline.\n
         Input: \n
@@ -123,18 +121,22 @@ class Pipeline:
         \tNone
         """
 
-        if type(complete_path) == None:
+        if type(args.data_dir) == None:
             return "Not a valid input (None)."
         i = 0 #for testing
         print("--> Reading warc.gz file <--")
-        with gzip.open(complete_path, 'rt', errors='ignore') as fo:
+        with gzip.open(args.data_dir, 'rt', errors='ignore') as fo:
             # id_records = {id_: {"html_text": rec, "search" : 'fast'} for id_, rec in self._split_records(fo)}
             #dict below is used to store all the (intermediate) values and config values
             records = { 
                 "id" : [], 
                 "html_text" : [], 
-                "search" : 'fast',    #make commandline arg
-                "batch_size_NER": 8   #make commandline arg
+                "search_ES" : 'normal',    #make commandline arg
+                "query_size_ES" : args.query_size_ES,
+                "batch_size_NER": args.batch_size_NER,   #make commandline arg
+                "n_threads" : args.n_threads,
+                "sim_cutoff_NER": args.sim_cutoff_NER,
+                "n_hits_EL": args.n_hits_EL
             }
 
             for id_, text in self._split_records(fo):
@@ -145,9 +147,8 @@ class Pipeline:
             self.parse(records)
             
     
-        self._write_to_txt(save_to = save_to)
+        self._write_to_txt(save_to = args.save_to)
         self.reset()
-        pass
 
     def add(self, name = None, part = None):
         """

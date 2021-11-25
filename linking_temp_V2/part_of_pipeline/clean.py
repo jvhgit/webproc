@@ -58,7 +58,7 @@ class Clean:
         # make sure this returns the acceptable output
         # it seems redudant but _forward is universal parse functions in the pipeline
         print("--> Cleaning HTML-text <--")
-        with multiprocessing.Pool(10) as p:
+        with multiprocessing.Pool(records['n_threads']) as p:
                 temp = p.map(self.clean, records['html_text'] )
         print("<STATUS: DONE>\n")
         records['text'] = temp

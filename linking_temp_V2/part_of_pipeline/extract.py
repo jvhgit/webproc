@@ -1,6 +1,5 @@
 ### AUTHORS ###
 ## Clifton Roozendal
-## Eduard Bosch
 ## Floris ten Lohuis
 ## Jens van Holland
 
@@ -58,7 +57,7 @@ class Extract:
             return None
         return label
 
-    def extract(self, corpus, ids, batch_size =8):
+    def extract(self, corpus, ids, batch_size =8, n_threads = 1, sim_cutoff_NER = 0.35):
         """
         Extracts the entities of a given text using Spacy model\n
         Input: \n
@@ -70,7 +69,7 @@ class Extract:
         #for computationally benefit, we only use the NER of the spacy pipe line so we disable everything else
         #do not set n_process = -1!!
         #below returns generator works best with batch_size of 8
-        docs = self.nlp.pipe(corpus, n_process = 8 ,disable=["tok2vec", "tagger", "parser", "attribute_ruler", "lemmatizer"], batch_size=batch_size)
+        docs = self.nlp.pipe(corpus, n_process = n_threads ,disable=["tok2vec", "tagger", "parser", "attribute_ruler", "lemmatizer"], batch_size=batch_size)
         num_docs = len(corpus)
 
         ents,labels = [], []
@@ -104,19 +103,18 @@ class Extract:
         data.ents = data.ents.apply(self._clean_entity) #some regex to remove some specific chars
         temp = []
         i = 0
-        for _, g in data.groupby('ids'):
+        for _, g in data.groupby('ids'): #can be run in parallel but no implementation time!
             i+=1
             if i %100 ==0:
                 print(f"\t Cross-referenced entities for {i}/{num_docs} documents")
             g['temp_id'] = list(range(len(g)))
-            g['text_similar'] = g.temp_id.apply(lambda row: len(difflib.get_close_matches(g[g.temp_id == row].ents.values[0], list(g[g.temp_id > row].ents), cutoff = 0.35)) > 0)
+            #code below compares n! times per document with n entities 
+            #its removes when certain threshold is met - this is to reduce computation /query time
+            g['text_similar'] = g.temp_id.apply(lambda row: len(difflib.get_close_matches(g[g.temp_id == row].ents.values[0], list(g[g.temp_id > row].ents), cutoff = sim_cutoff_NER)) > 0)
             temp.append(g)
 
         data = temp[0].append(temp[1:])
-        data.to_csv("tst.csv")
-        print(len(data))
         data = data[data.text_similar == False].reset_index(drop = True)
-        print(len(data))
         return data[['ids', 'ents']]
 
  
@@ -132,9 +130,14 @@ class Extract:
         # make sure this returns the acceptable output
         # it seems redudant but _forward is universal parse functions in the pipeline
         print("--> Extracting entities from text <--")
-        records['amb_entities'] = self.extract(corpus = records['text'], ids = records['id'], batch_size = records['batch_size_NER'])
+        records['amb_entities'] = self.extract(
+            corpus = records['text'], 
+            ids = records['id'], 
+            batch_size = records['batch_size_NER'],
+            n_threads=records['n_threads'],
+            sim_cutoff_NER=records['sim_cutoff_NER'])
+
         print("<STATUS: DONE>\n")
-        # print(instance['entities'])
         return records
 
 
