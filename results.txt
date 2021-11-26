@@ -1,0 +1,1094 @@
+<urn:uuid:000b27d8-5db5-413a-bc60-5a0373b85651>	content marketing	<http://www.wikidata.org/entity/Q558685>
+<urn:uuid:000b27d8-5db5-413a-bc60-5a0373b85651>	Content hole search in community-type content	<http://www.wikidata.org/entity/Q66709630>
+<urn:uuid:000b27d8-5db5-413a-bc60-5a0373b85651>	RFC 8255: Multiple Language Content Type	<http://www.wikidata.org/entity/Q47468060>
+<urn:uuid:000b27d8-5db5-413a-bc60-5a0373b85651>	Ensonsinema	<http://www.wikidata.org/entity/Q61174186>
+<urn:uuid:000b27d8-5db5-413a-bc60-5a0373b85651>	Watch Dogs: Bad Blood	<http://www.wikidata.org/entity/Q64577202>
+<urn:uuid:000b27d8-5db5-413a-bc60-5a0373b85651>	Skeleton world championship 1990/91	<http://www.wikidata.org/entity/Q11919496>
+<urn:uuid:000b27d8-5db5-413a-bc60-5a0373b85651>	content strategy	<http://www.wikidata.org/entity/Q4353935>
+<urn:uuid:000b27d8-5db5-413a-bc60-5a0373b85651>	Heyfield Memorial United Church and Cemetery	<http://www.wikidata.org/entity/Q52585557>
+<urn:uuid:000b27d8-5db5-413a-bc60-5a0373b85651>	Uncle Bill Piercey\u2019s Store (Fisheries Heritage Preservation Program)	<http://www.wikidata.org/entity/Q68835393>
+<urn:uuid:000b27d8-5db5-413a-bc60-5a0373b85651>	Mathematics/Library	<http://www.wikidata.org/entity/Q27894201>
+<urn:uuid:000b27d8-5db5-413a-bc60-5a0373b85651>	Google Moderator	<http://www.wikidata.org/entity/Q5583854>
+<urn:uuid:000b27d8-5db5-413a-bc60-5a0373b85651>	Sara Carmen Ferrari	<http://www.wikidata.org/entity/Q75485715>
+<urn:uuid:000b27d8-5db5-413a-bc60-5a0373b85651>	Content hole search in community-type content using Wikipedia	<http://www.wikidata.org/entity/Q66708550>
+<urn:uuid:000b27d8-5db5-413a-bc60-5a0373b85651>	RFC 2220: The Application/MARC Content-type	<http://www.wikidata.org/entity/Q47456340>
+<urn:uuid:000b27d8-5db5-413a-bc60-5a0373b85651>	RFC 2957: The application/whoispp-query Content-Type	<http://www.wikidata.org/entity/Q47209323>
+<urn:uuid:000b27d8-5db5-413a-bc60-5a0373b85651>	Tumblr	<http://www.wikidata.org/entity/Q18614927>
+<urn:uuid:000b27d8-5db5-413a-bc60-5a0373b85651>	Tumblr	<http://www.wikidata.org/entity/Q384060>
+<urn:uuid:000b27d8-5db5-413a-bc60-5a0373b85651>	Tumblr profile	<http://www.wikidata.org/entity/Q64275089>
+<urn:uuid:000b27d8-5db5-413a-bc60-5a0373b85651>	Tumblr ID	<http://www.wikidata.org/entity/P3943>
+<urn:uuid:000b27d8-5db5-413a-bc60-5a0373b85651>	Template:User Tumblr	<http://www.wikidata.org/entity/Q20700651>
+<urn:uuid:000b27d8-5db5-413a-bc60-5a0373b85651>	Dermatology on Tumblr.	<http://www.wikidata.org/entity/Q44866402>
+<urn:uuid:000b27d8-5db5-413a-bc60-5a0373b85651>	Your LL Bean Boyfriend	<http://www.wikidata.org/entity/Q18217433>
+<urn:uuid:000b27d8-5db5-413a-bc60-5a0373b85651>	Access the Web: Tumblr	<http://www.wikidata.org/entity/Q58594470>
+<urn:uuid:000b27d8-5db5-413a-bc60-5a0373b85651>	Microblogging: tumblr and pinterest.	<http://www.wikidata.org/entity/Q38109017>
+<urn:uuid:000b27d8-5db5-413a-bc60-5a0373b85651>	Deconstructing Diffusion on Tumblr	<http://www.wikidata.org/entity/Q57395817>
+<urn:uuid:000b27d8-5db5-413a-bc60-5a0373b85651>	Tumblr Android App	<http://www.wikidata.org/entity/Q41691902>
+<urn:uuid:000b27d8-5db5-413a-bc60-5a0373b85651>	private Tumblr profile	<http://www.wikidata.org/entity/Q80564919>
+<urn:uuid:000b27d8-5db5-413a-bc60-5a0373b85651>	NSFW Tumblr profile	<http://www.wikidata.org/entity/Q81502625>
+<urn:uuid:000b27d8-5db5-413a-bc60-5a0373b85651>	What people study when they study Tumblr	<http://www.wikidata.org/entity/Q57195534>
+<urn:uuid:000b27d8-5db5-413a-bc60-5a0373b85651>	A content analysis of thinspiration images and text posts on tumblr.	<http://www.wikidata.org/entity/Q49982547>
+<urn:uuid:000b27d8-5db5-413a-bc60-5a0373b85651>	Dart 18	<http://www.wikidata.org/entity/Q1166786>
+<urn:uuid:000b27d8-5db5-413a-bc60-5a0373b85651>	Amazing	<http://www.wikidata.org/entity/Q15861123>
+<urn:uuid:000b27d8-5db5-413a-bc60-5a0373b85651>	Amazing	<http://www.wikidata.org/entity/Q18351524>
+<urn:uuid:000b27d8-5db5-413a-bc60-5a0373b85651>	Amazing	<http://www.wikidata.org/entity/Q2561481>
+<urn:uuid:000b27d8-5db5-413a-bc60-5a0373b85651>	Amazing	<http://www.wikidata.org/entity/Q4740774>
+<urn:uuid:000b27d8-5db5-413a-bc60-5a0373b85651>	Amazing	<http://www.wikidata.org/entity/Q25706844>
+<urn:uuid:000b27d8-5db5-413a-bc60-5a0373b85651>	Amazing	<http://www.wikidata.org/entity/Q17352107>
+<urn:uuid:000b27d8-5db5-413a-bc60-5a0373b85651>	Amazing	<http://www.wikidata.org/entity/Q25206534>
+<urn:uuid:000b27d8-5db5-413a-bc60-5a0373b85651>	Amazing	<http://www.wikidata.org/entity/Q4740771>
+<urn:uuid:000b27d8-5db5-413a-bc60-5a0373b85651>	Amazing	<http://www.wikidata.org/entity/Q4740778>
+<urn:uuid:000b27d8-5db5-413a-bc60-5a0373b85651>	Amazing	<http://www.wikidata.org/entity/Q2841426>
+<urn:uuid:000b27d8-5db5-413a-bc60-5a0373b85651>	Amazing	<http://www.wikidata.org/entity/Q455983>
+<urn:uuid:000b27d8-5db5-413a-bc60-5a0373b85651>	Amazing	<http://www.wikidata.org/entity/Q28451626>
+<urn:uuid:000b27d8-5db5-413a-bc60-5a0373b85651>	Amazing	<http://www.wikidata.org/entity/Q9149422>
+<urn:uuid:000b27d8-5db5-413a-bc60-5a0373b85651>	Amazing	<http://www.wikidata.org/entity/Q2664332>
+<urn:uuid:000b27d8-5db5-413a-bc60-5a0373b85651>	Chicken parmigiana	<http://www.wikidata.org/entity/Q5096312>
+<urn:uuid:000b27d8-5db5-413a-bc60-5a0373b85651>	Tenderization of chicken and turkey breasts with electrically produced hydrodynamic shockwaves	<http://www.wikidata.org/entity/Q82401595>
+<urn:uuid:000b27d8-5db5-413a-bc60-5a0373b85651>	breast	<http://www.wikidata.org/entity/Q9103>
+<urn:uuid:000b27d8-5db5-413a-bc60-5a0373b85651>	Microbiological quality of cooked chicken breasts containing commercially available shelf-life extenders	<http://www.wikidata.org/entity/Q73411132>
+<urn:uuid:000b27d8-5db5-413a-bc60-5a0373b85651>	Evaluation of consumable household products for decontaminating retail skinless, boneless chicken breasts.	<http://www.wikidata.org/entity/Q50771838>
+<urn:uuid:000b27d8-5db5-413a-bc60-5a0373b85651>	Burmese	<http://www.wikidata.org/entity/Q17082228>
+<urn:uuid:000b27d8-5db5-413a-bc60-5a0373b85651>	Mike the Headless Chicken	<http://www.wikidata.org/entity/Q589595>
+<urn:uuid:000b27d8-5db5-413a-bc60-5a0373b85651>	Nondestructive assessment of freshness in packaged sliced chicken breasts using SW-NIR spectroscopy	<http://www.wikidata.org/entity/Q57639934>
+<urn:uuid:000b27d8-5db5-413a-bc60-5a0373b85651>	Microbiological conditions of moisture-enhanced chicken breasts prepared at a poultry packing plant.	<http://www.wikidata.org/entity/Q54493536>
+<urn:uuid:000b27d8-5db5-413a-bc60-5a0373b85651>	handbra	<http://www.wikidata.org/entity/Q3231788>
+<urn:uuid:000b27d8-5db5-413a-bc60-5a0373b85651>	Texture and microstructure properties of frozen chicken breasts pretreated with salt and phosphate solutions	<http://www.wikidata.org/entity/Q78747857>
+<urn:uuid:000b27d8-5db5-413a-bc60-5a0373b85651>	Effect of gamma irradiation on the B vitamins of pork chops and chicken breasts.	<http://www.wikidata.org/entity/Q52536491>
+<urn:uuid:000b27d8-5db5-413a-bc60-5a0373b85651>	Fatty acid composition, antioxidants and lipid oxidation in chicken breasts from different production regimes	<http://www.wikidata.org/entity/Q60998574>
+<urn:uuid:000b27d8-5db5-413a-bc60-5a0373b85651>	[Large breasts, small breasts; which mammographic technic?]	<http://www.wikidata.org/entity/Q69519587>
+<urn:uuid:000b27d8-5db5-413a-bc60-5a0373b85651>	Chemometric modeling to relate antioxidants, neutral lipid fatty acids, and flavor components in chicken breasts.	<http://www.wikidata.org/entity/Q45247495>
+<urn:uuid:000b27d8-5db5-413a-bc60-5a0373b85651>	TIME	<http://www.wikidata.org/entity/Q7670399>
+<urn:uuid:000b27d8-5db5-413a-bc60-5a0373b85651>	TIME	<http://www.wikidata.org/entity/Q27653709>
+<urn:uuid:000b27d8-5db5-413a-bc60-5a0373b85651>	Time	<http://www.wikidata.org/entity/Q211533>
+<urn:uuid:000b27d8-5db5-413a-bc60-5a0373b85651>	Atom	<http://www.wikidata.org/entity/Q4817202>
+<urn:uuid:000b27d8-5db5-413a-bc60-5a0373b85651>	Bashundhara Group	<http://www.wikidata.org/entity/Q4866913>
+<urn:uuid:000b27d8-5db5-413a-bc60-5a0373b85651>	past	<http://www.wikidata.org/entity/Q192630>
+<urn:uuid:000b27d8-5db5-413a-bc60-5a0373b85651>	sidereal time	<http://www.wikidata.org/entity/Q191747>
+<urn:uuid:000b27d8-5db5-413a-bc60-5a0373b85651>	Kaliningrad Time	<http://www.wikidata.org/entity/Q2356448>
+<urn:uuid:000b27d8-5db5-413a-bc60-5a0373b85651>	Newfoundland Standard time	<http://www.wikidata.org/entity/Q2420151>
+<urn:uuid:000b27d8-5db5-413a-bc60-5a0373b85651>	GPS time	<http://www.wikidata.org/entity/Q1486532>
+<urn:uuid:000b27d8-5db5-413a-bc60-5a0373b85651>	1/1	<http://www.wikidata.org/entity/Q50353301>
+<urn:uuid:000b27d8-5db5-413a-bc60-5a0373b85651>	2/1	<http://www.wikidata.org/entity/Q50353304>
+<urn:uuid:000b27d8-5db5-413a-bc60-5a0373b85651>	3/2	<http://www.wikidata.org/entity/Q50353331>
+<urn:uuid:000b27d8-5db5-413a-bc60-5a0373b85651>	4/8	<http://www.wikidata.org/entity/Q50353376>
+<urn:uuid:000b27d8-5db5-413a-bc60-5a0373b85651>	9/8	<http://www.wikidata.org/entity/Q50353381>
+<urn:uuid:000b27d8-5db5-413a-bc60-5a0373b85651>	Cherokee Voices, Cherokee Sounds	<http://www.wikidata.org/entity/Q19864325>
+<urn:uuid:000b27d8-5db5-413a-bc60-5a0373b85651>	Cherokee Uprising	<http://www.wikidata.org/entity/Q15618863>
+<urn:uuid:000b27d8-5db5-413a-bc60-5a0373b85651>	Cherokee Phoenix	<http://www.wikidata.org/entity/Q1070337>
+<urn:uuid:000b27d8-5db5-413a-bc60-5a0373b85651>	Cherokee III	<http://www.wikidata.org/entity/Q19918869>
+<urn:uuid:000b27d8-5db5-413a-bc60-5a0373b85651>	Cherokee Strip	<http://www.wikidata.org/entity/Q20714818>
+<urn:uuid:000b27d8-5db5-413a-bc60-5a0373b85651>	Cherokee Rose	<http://www.wikidata.org/entity/Q5092200>
+<urn:uuid:000b27d8-5db5-413a-bc60-5a0373b85651>	Cherokee Roses	<http://www.wikidata.org/entity/Q64574008>
+<urn:uuid:000b27d8-5db5-413a-bc60-5a0373b85651>	Cherokee Scout	<http://www.wikidata.org/entity/Q5092199>
+<urn:uuid:000b27d8-5db5-413a-bc60-5a0373b85651>	Cherokee	<http://www.wikidata.org/entity/Q2373>
+<urn:uuid:000b27d8-5db5-413a-bc60-5a0373b85651>	Cherokee	<http://www.wikidata.org/entity/Q1468879>
+<urn:uuid:000b27d8-5db5-413a-bc60-5a0373b85651>	Cherokee	<http://www.wikidata.org/entity/Q16974261>
+<urn:uuid:000b27d8-5db5-413a-bc60-5a0373b85651>	Cherokee	<http://www.wikidata.org/entity/Q5092112>
+<urn:uuid:000b27d8-5db5-413a-bc60-5a0373b85651>	Cherokee	<http://www.wikidata.org/entity/Q19903212>
+<urn:uuid:000b27d8-5db5-413a-bc60-5a0373b85651>	Cherokee	<http://www.wikidata.org/entity/Q8345241>
+<urn:uuid:000b27d8-5db5-413a-bc60-5a0373b85651>	Cherokee	<http://www.wikidata.org/entity/Q68299>
+<urn:uuid:000b27d8-5db5-413a-bc60-5a0373b85651>	List of minor planets: 526001\u2013527000	<http://www.wikidata.org/entity/Q65041599>
+<urn:uuid:000b27d8-5db5-413a-bc60-5a0373b85651>	Meanings of minor planet names: 526001\u2013527000	<http://www.wikidata.org/entity/Q65041621>
+<urn:uuid:000b27d8-5db5-413a-bc60-5a0373b85651>	Yaotian	<http://www.wikidata.org/entity/Q66707461>
+<urn:uuid:000b27d8-5db5-413a-bc60-5a0373b85651>	list of states in the Holy Roman Empire (Q)	<http://www.wikidata.org/entity/Q6641420>
+<urn:uuid:000b27d8-5db5-413a-bc60-5a0373b85651>	Weber and Weber (Germany)	<http://www.wikidata.org/entity/Q30269410>
+<urn:uuid:000b27d8-5db5-413a-bc60-5a0373b85651>	Weber	<http://www.wikidata.org/entity/Q76479275>
+<urn:uuid:000b27d8-5db5-413a-bc60-5a0373b85651>	Weber	<http://www.wikidata.org/entity/Q16859916>
+<urn:uuid:000b27d8-5db5-413a-bc60-5a0373b85651>	Weber	<http://www.wikidata.org/entity/Q23828634>
+<urn:uuid:000b27d8-5db5-413a-bc60-5a0373b85651>	Weber	<http://www.wikidata.org/entity/Q7978736>
+<urn:uuid:000b27d8-5db5-413a-bc60-5a0373b85651>	Weber	<http://www.wikidata.org/entity/Q12898273>
+<urn:uuid:000b27d8-5db5-413a-bc60-5a0373b85651>	Weber	<http://www.wikidata.org/entity/Q1464172>
+<urn:uuid:000b27d8-5db5-413a-bc60-5a0373b85651>	Weber	<http://www.wikidata.org/entity/Q79462594>
+<urn:uuid:000b27d8-5db5-413a-bc60-5a0373b85651>	weber	<http://www.wikidata.org/entity/Q170804>
+<urn:uuid:000b27d8-5db5-413a-bc60-5a0373b85651>	Weber	<http://www.wikidata.org/entity/Q77217791>
+<urn:uuid:000b27d8-5db5-413a-bc60-5a0373b85651>	Weber	<http://www.wikidata.org/entity/Q4018725>
+<urn:uuid:000b27d8-5db5-413a-bc60-5a0373b85651>	RSS	<http://www.wikidata.org/entity/Q242158>
+<urn:uuid:000b27d8-5db5-413a-bc60-5a0373b85651>	RSS	<http://www.wikidata.org/entity/Q18050995>
+<urn:uuid:000b27d8-5db5-413a-bc60-5a0373b85651>	rss	<http://www.wikidata.org/entity/Q29719129>
+<urn:uuid:000b27d8-5db5-413a-bc60-5a0373b85651>	** RSS 565B	<http://www.wikidata.org/entity/Q83838215>
+<urn:uuid:000b27d8-5db5-413a-bc60-5a0373b85651>	RSS tracking	<http://www.wikidata.org/entity/Q7277767>
+<urn:uuid:000b27d8-5db5-413a-bc60-5a0373b85651>	RSS Vigilance	<http://www.wikidata.org/entity/Q7414360>
+<urn:uuid:000b27d8-5db5-413a-bc60-5a0373b85651>	RSS Pracharak	<http://www.wikidata.org/entity/Q17065005>
+<urn:uuid:000b27d8-5db5-413a-bc60-5a0373b85651>	RSS Steadfast	<http://www.wikidata.org/entity/Q19386005>
+<urn:uuid:000b27d8-5db5-413a-bc60-5a0373b85651>	RSS Courageous	<http://www.wikidata.org/entity/Q7277761>
+<urn:uuid:000b27d8-5db5-413a-bc60-5a0373b85651>	RSS Victory	<http://www.wikidata.org/entity/Q7414358>
+<urn:uuid:000b27d8-5db5-413a-bc60-5a0373b85651>	** RSS 199	<http://www.wikidata.org/entity/Q83790909>
+<urn:uuid:000b27d8-5db5-413a-bc60-5a0373b85651>	RSS Endurance	<http://www.wikidata.org/entity/Q7277763>
+<urn:uuid:000b27d8-5db5-413a-bc60-5a0373b85651>	RSS Vigour	<http://www.wikidata.org/entity/Q7414364>
+<urn:uuid:000b27d8-5db5-413a-bc60-5a0373b85651>	Media RSS	<http://www.wikidata.org/entity/Q3303963>
+<urn:uuid:000b27d8-5db5-413a-bc60-5a0373b85651>	RSS editor	<http://www.wikidata.org/entity/Q2124598>
+<urn:uuid:000b27d8-5db5-413a-bc60-5a0373b85651>	WordPress	<http://www.wikidata.org/entity/Q13166>
+<urn:uuid:000b27d8-5db5-413a-bc60-5a0373b85651>	WordPress Foundation	<http://www.wikidata.org/entity/Q56787199>
+<urn:uuid:000b27d8-5db5-413a-bc60-5a0373b85651>	Wordpress Desktop	<http://www.wikidata.org/entity/Q50560429>
+<urn:uuid:000b27d8-5db5-413a-bc60-5a0373b85651>	WordPress for Libraries	<http://www.wikidata.org/entity/Q58513553>
+<urn:uuid:000b27d8-5db5-413a-bc60-5a0373b85651>	WordCamp Cologne 2016	<http://www.wikidata.org/entity/Q28870422>
+<urn:uuid:000b27d8-5db5-413a-bc60-5a0373b85651>	WordPress.com	<http://www.wikidata.org/entity/Q2001888>
+<urn:uuid:000b27d8-5db5-413a-bc60-5a0373b85651>	Wikimedia Commons on WordPress	<http://www.wikidata.org/entity/Q42412337>
+<urn:uuid:000b27d8-5db5-413a-bc60-5a0373b85651>	WordCamp	<http://www.wikidata.org/entity/Q10853354>
+<urn:uuid:000b27d8-5db5-413a-bc60-5a0373b85651>	UltimateMember	<http://www.wikidata.org/entity/Q56854384>
+<urn:uuid:000b27d8-5db5-413a-bc60-5a0373b85651>	Template:Latest stable software release/WordPress	<http://www.wikidata.org/entity/Q19358428>
+<urn:uuid:000b27d8-5db5-413a-bc60-5a0373b85651>	WPBMB Entrez: An interface to NCBI Entrez for Wordpress.	<http://www.wikidata.org/entity/Q47204929>
+<urn:uuid:000b27d8-5db5-413a-bc60-5a0373b85651>	WordLift	<http://www.wikidata.org/entity/Q31998763>
+<urn:uuid:000b27d8-5db5-413a-bc60-5a0373b85651>	A review of \"The Comparative Guide to WordPress in Libraries\"	<http://www.wikidata.org/entity/Q58606156>
+<urn:uuid:000b27d8-5db5-413a-bc60-5a0373b85651>	D3GB: An Interactive Genome Browser for R, Python, and WordPress.	<http://www.wikidata.org/entity/Q36354985>
+<urn:uuid:000b27d8-5db5-413a-bc60-5a0373b85651>	WPArena	<http://www.wikidata.org/entity/Q22739435>
+<urn:uuid:000b27d8-5db5-413a-bc60-5a0373b85651>	Char-Broil	<http://www.wikidata.org/entity/Q24197332>
+<urn:uuid:000b27d8-5db5-413a-bc60-5a0373b85651>	London broil	<http://www.wikidata.org/entity/Q6671090>
+<urn:uuid:000b27d8-5db5-413a-bc60-5a0373b85651>	Roto Broil	<http://www.wikidata.org/entity/Q7370564>
+<urn:uuid:000b27d8-5db5-413a-bc60-5a0373b85651>	Gas Monkey Bar N' Grill	<http://www.wikidata.org/entity/Q19866357>
+<urn:uuid:000b27d8-5db5-413a-bc60-5a0373b85651>	Portable gas chromatographs	<http://www.wikidata.org/entity/Q23913001>
+<urn:uuid:000b27d8-5db5-413a-bc60-5a0373b85651>	Portable gas chromatography	<http://www.wikidata.org/entity/Q26327244>
+<urn:uuid:000b27d8-5db5-413a-bc60-5a0373b85651>	Portable Gas Producers	<http://www.wikidata.org/entity/Q64282398>
+<urn:uuid:000b27d8-5db5-413a-bc60-5a0373b85651>	Portable Gas Producers	<http://www.wikidata.org/entity/Q60138041>
+<urn:uuid:000b27d8-5db5-413a-bc60-5a0373b85651>	Court orders refund to purchasers of gas grill igniters	<http://www.wikidata.org/entity/Q74159856>
+<urn:uuid:000b27d8-5db5-413a-bc60-5a0373b85651>	Grill	<http://www.wikidata.org/entity/Q28547559>
+<urn:uuid:000b27d8-5db5-413a-bc60-5a0373b85651>	Scheme to sell gas grill igniters for pain relief backfires.	<http://www.wikidata.org/entity/Q39408691>
+<urn:uuid:000b27d8-5db5-413a-bc60-5a0373b85651>	A portable gas chromatograph	<http://www.wikidata.org/entity/Q71803691>
+<urn:uuid:000b27d8-5db5-413a-bc60-5a0373b85651>	[An unusual case of suicidal carbon monoxide poisoning committed using a portable barbecue grill].	<http://www.wikidata.org/entity/Q45356380>
+<urn:uuid:000b27d8-5db5-413a-bc60-5a0373b85651>	Navy Blue	<http://www.wikidata.org/entity/Q11234506>
+<urn:uuid:000b27d8-5db5-413a-bc60-5a0373b85651>	Topco Associates LLC	<http://www.wikidata.org/entity/Q17098994>
+<urn:uuid:000b27d8-5db5-413a-bc60-5a0373b85651>	Bennett & Associates LLC	<http://www.wikidata.org/entity/Q4889660>
+<urn:uuid:000b27d8-5db5-413a-bc60-5a0373b85651>	Spangehl Higher Education Associates LLC	<http://www.wikidata.org/entity/Q29359835>
+<urn:uuid:000b27d8-5db5-413a-bc60-5a0373b85651>	Team Services, LLC	<http://www.wikidata.org/entity/Q7691589>
+<urn:uuid:000b27d8-5db5-413a-bc60-5a0373b85651>	Yoh Services LLC	<http://www.wikidata.org/entity/Q8054432>
+<urn:uuid:000b27d8-5db5-413a-bc60-5a0373b85651>	Safway Services LLC	<http://www.wikidata.org/entity/Q7398856>
+<urn:uuid:000b27d8-5db5-413a-bc60-5a0373b85651>	Medical Mutual Services, LLC	<http://www.wikidata.org/entity/Q48909316>
+<urn:uuid:000b27d8-5db5-413a-bc60-5a0373b85651>	Amazon Web Services	<http://www.wikidata.org/entity/Q456157>
+<urn:uuid:000b27d8-5db5-413a-bc60-5a0373b85651>	Extension:AmazonWidget	<http://www.wikidata.org/entity/Q21676329>
+<urn:uuid:000b27d8-5db5-413a-bc60-5a0373b85651>	Amazon Czech Republic Services	<http://www.wikidata.org/entity/Q73136962>
+<urn:uuid:000b27d8-5db5-413a-bc60-5a0373b85651>	The grants associates program	<http://www.wikidata.org/entity/Q83544732>
+<urn:uuid:000b27d8-5db5-413a-bc60-5a0373b85651>	Amazon Robotics	<http://www.wikidata.org/entity/Q6418754>
+<urn:uuid:000b27d8-5db5-413a-bc60-5a0373b85651>	Oil States Energy Services, LLC v. Greene's Energy Group, LLC	<http://www.wikidata.org/entity/Q55390639>
+<urn:uuid:000b27d8-5db5-413a-bc60-5a0373b85651>	Euryale	<http://www.wikidata.org/entity/Q61018416>
+<urn:uuid:000b27d8-5db5-413a-bc60-5a0373b85651>	Ralf Herbrich	<http://www.wikidata.org/entity/Q58840936>
+<urn:uuid:000b27d8-5db5-413a-bc60-5a0373b85651>	toolbar	<http://www.wikidata.org/entity/Q371434>
+<urn:uuid:000b27d8-5db5-413a-bc60-5a0373b85651>	Help:Edit toolbar	<http://www.wikidata.org/entity/Q10822180>
+<urn:uuid:000b27d8-5db5-413a-bc60-5a0373b85651>	Conduit toolbar	<http://www.wikidata.org/entity/Q24962822>
+<urn:uuid:000b27d8-5db5-413a-bc60-5a0373b85651>	Data Toolbar	<http://www.wikidata.org/entity/Q5227223>
+<urn:uuid:000b27d8-5db5-413a-bc60-5a0373b85651>	Yahoo! Toolbar	<http://www.wikidata.org/entity/Q2563898>
+<urn:uuid:000b27d8-5db5-413a-bc60-5a0373b85651>	Alexa Toolbar	<http://www.wikidata.org/entity/Q2569188>
+<urn:uuid:000b27d8-5db5-413a-bc60-5a0373b85651>	Google Toolbar	<http://www.wikidata.org/entity/Q79608>
+<urn:uuid:000b27d8-5db5-413a-bc60-5a0373b85651>	Browser toolbar	<http://www.wikidata.org/entity/Q4976862>
+<urn:uuid:000b27d8-5db5-413a-bc60-5a0373b85651>	Wikipedia:Wikipedia Toolbar	<http://www.wikidata.org/entity/Q14360142>
+<urn:uuid:000b27d8-5db5-413a-bc60-5a0373b85651>	Extension:Uniwiki Toolbar	<http://www.wikidata.org/entity/Q21678963>
+<urn:uuid:000b27d8-5db5-413a-bc60-5a0373b85651>	AOL Toolbar	<http://www.wikidata.org/entity/Q4033042>
+<urn:uuid:000b27d8-5db5-413a-bc60-5a0373b85651>	Extension:Firefox toolbar	<http://www.wikidata.org/entity/Q25990581>
+<urn:uuid:000b27d8-5db5-413a-bc60-5a0373b85651>	Mirar Toolbar	<http://www.wikidata.org/entity/Q6872888>
+<urn:uuid:000b27d8-5db5-413a-bc60-5a0373b85651>	Using toolbar data to understand Yahoo!	<http://www.wikidata.org/entity/Q60241765>
+<urn:uuid:000b27d8-5db5-413a-bc60-5a0373b85651>	Wibiya	<http://www.wikidata.org/entity/Q7998077>
+<urn:uuid:0033227e-9fec-491c-a2ad-beaa81e5bef5>	Fedora	<http://www.wikidata.org/entity/Q74071795>
+<urn:uuid:0033227e-9fec-491c-a2ad-beaa81e5bef5>	Fedora	<http://www.wikidata.org/entity/Q8855343>
+<urn:uuid:0033227e-9fec-491c-a2ad-beaa81e5bef5>	Fedora	<http://www.wikidata.org/entity/Q656910>
+<urn:uuid:0033227e-9fec-491c-a2ad-beaa81e5bef5>	Fedora	<http://www.wikidata.org/entity/Q36902756>
+<urn:uuid:0033227e-9fec-491c-a2ad-beaa81e5bef5>	Fedora	<http://www.wikidata.org/entity/Q3741993>
+<urn:uuid:0033227e-9fec-491c-a2ad-beaa81e5bef5>	fedora	<http://www.wikidata.org/entity/Q638335>
+<urn:uuid:0033227e-9fec-491c-a2ad-beaa81e5bef5>	Fedora	<http://www.wikidata.org/entity/Q21646399>
+<urn:uuid:0033227e-9fec-491c-a2ad-beaa81e5bef5>	Fedora	<http://www.wikidata.org/entity/Q227879>
+<urn:uuid:0033227e-9fec-491c-a2ad-beaa81e5bef5>	Fedora	<http://www.wikidata.org/entity/Q48267>
+<urn:uuid:0033227e-9fec-491c-a2ad-beaa81e5bef5>	Fedora	<http://www.wikidata.org/entity/Q4258180>
+<urn:uuid:0033227e-9fec-491c-a2ad-beaa81e5bef5>	Fedora	<http://www.wikidata.org/entity/Q1400798>
+<urn:uuid:0033227e-9fec-491c-a2ad-beaa81e5bef5>	Fedora	<http://www.wikidata.org/entity/Q56279403>
+<urn:uuid:0033227e-9fec-491c-a2ad-beaa81e5bef5>	Fedora	<http://www.wikidata.org/entity/Q44419892>
+<urn:uuid:0033227e-9fec-491c-a2ad-beaa81e5bef5>	Fedora	<http://www.wikidata.org/entity/Q1400824>
+<urn:uuid:0033227e-9fec-491c-a2ad-beaa81e5bef5>	Fedora	<http://www.wikidata.org/entity/Q10494509>
+<urn:uuid:0033227e-9fec-491c-a2ad-beaa81e5bef5>	Rolex GMT Master II	<http://www.wikidata.org/entity/Q382707>
+<urn:uuid:0033227e-9fec-491c-a2ad-beaa81e5bef5>	GMT	<http://www.wikidata.org/entity/Q304940>
+<urn:uuid:0033227e-9fec-491c-a2ad-beaa81e5bef5>	GMT	<http://www.wikidata.org/entity/Q5513805>
+<urn:uuid:0033227e-9fec-491c-a2ad-beaa81e5bef5>	GMT Productions	<http://www.wikidata.org/entity/Q21888019>
+<urn:uuid:0033227e-9fec-491c-a2ad-beaa81e5bef5>	GMT T1XX	<http://www.wikidata.org/entity/Q39052936>
+<urn:uuid:0033227e-9fec-491c-a2ad-beaa81e5bef5>	GMT K2XX	<http://www.wikidata.org/entity/Q16975148>
+<urn:uuid:0033227e-9fec-491c-a2ad-beaa81e5bef5>	GMT Records	<http://www.wikidata.org/entity/Q5513806>
+<urn:uuid:0033227e-9fec-491c-a2ad-beaa81e5bef5>	GMT Games	<http://www.wikidata.org/entity/Q928726>
+<urn:uuid:0033227e-9fec-491c-a2ad-beaa81e5bef5>	Template:GFDL-GMT	<http://www.wikidata.org/entity/Q15143503>
+<urn:uuid:0033227e-9fec-491c-a2ad-beaa81e5bef5>	Generic Mapping Tools	<http://www.wikidata.org/entity/Q602590>
+<urn:uuid:0033227e-9fec-491c-a2ad-beaa81e5bef5>	Greenwich Mean Time	<http://www.wikidata.org/entity/Q30192>
+<urn:uuid:0033227e-9fec-491c-a2ad-beaa81e5bef5>	Template:User not GMT	<http://www.wikidata.org/entity/Q20357255>
+<urn:uuid:0033227e-9fec-491c-a2ad-beaa81e5bef5>	Template:User GMT-var	<http://www.wikidata.org/entity/Q20313726>
+<urn:uuid:0033227e-9fec-491c-a2ad-beaa81e5bef5>	Template:User GMT-none	<http://www.wikidata.org/entity/Q20363205>
+<urn:uuid:0033227e-9fec-491c-a2ad-beaa81e5bef5>	Template:Time/GMT offset	<http://www.wikidata.org/entity/Q13417072>
+<urn:uuid:0033227e-9fec-491c-a2ad-beaa81e5bef5>	content marketing	<http://www.wikidata.org/entity/Q558685>
+<urn:uuid:0033227e-9fec-491c-a2ad-beaa81e5bef5>	Content hole search in community-type content	<http://www.wikidata.org/entity/Q66709630>
+<urn:uuid:0033227e-9fec-491c-a2ad-beaa81e5bef5>	RFC 8255: Multiple Language Content Type	<http://www.wikidata.org/entity/Q47468060>
+<urn:uuid:0033227e-9fec-491c-a2ad-beaa81e5bef5>	Ensonsinema	<http://www.wikidata.org/entity/Q61174186>
+<urn:uuid:0033227e-9fec-491c-a2ad-beaa81e5bef5>	Watch Dogs: Bad Blood	<http://www.wikidata.org/entity/Q64577202>
+<urn:uuid:0033227e-9fec-491c-a2ad-beaa81e5bef5>	Skeleton world championship 1990/91	<http://www.wikidata.org/entity/Q11919496>
+<urn:uuid:0033227e-9fec-491c-a2ad-beaa81e5bef5>	content strategy	<http://www.wikidata.org/entity/Q4353935>
+<urn:uuid:0033227e-9fec-491c-a2ad-beaa81e5bef5>	Heyfield Memorial United Church and Cemetery	<http://www.wikidata.org/entity/Q52585557>
+<urn:uuid:0033227e-9fec-491c-a2ad-beaa81e5bef5>	Uncle Bill Piercey\u2019s Store (Fisheries Heritage Preservation Program)	<http://www.wikidata.org/entity/Q68835393>
+<urn:uuid:0033227e-9fec-491c-a2ad-beaa81e5bef5>	Mathematics/Library	<http://www.wikidata.org/entity/Q27894201>
+<urn:uuid:0033227e-9fec-491c-a2ad-beaa81e5bef5>	Google Moderator	<http://www.wikidata.org/entity/Q5583854>
+<urn:uuid:0033227e-9fec-491c-a2ad-beaa81e5bef5>	Sara Carmen Ferrari	<http://www.wikidata.org/entity/Q75485715>
+<urn:uuid:0033227e-9fec-491c-a2ad-beaa81e5bef5>	Content hole search in community-type content using Wikipedia	<http://www.wikidata.org/entity/Q66708550>
+<urn:uuid:0033227e-9fec-491c-a2ad-beaa81e5bef5>	RFC 2220: The Application/MARC Content-type	<http://www.wikidata.org/entity/Q47456340>
+<urn:uuid:0033227e-9fec-491c-a2ad-beaa81e5bef5>	RFC 2957: The application/whoispp-query Content-Type	<http://www.wikidata.org/entity/Q47209323>
+<urn:uuid:00433955-27f4-42c2-a2ac-4756df0795b5>	content marketing	<http://www.wikidata.org/entity/Q558685>
+<urn:uuid:00433955-27f4-42c2-a2ac-4756df0795b5>	Content hole search in community-type content	<http://www.wikidata.org/entity/Q66709630>
+<urn:uuid:00433955-27f4-42c2-a2ac-4756df0795b5>	RFC 8255: Multiple Language Content Type	<http://www.wikidata.org/entity/Q47468060>
+<urn:uuid:00433955-27f4-42c2-a2ac-4756df0795b5>	Ensonsinema	<http://www.wikidata.org/entity/Q61174186>
+<urn:uuid:00433955-27f4-42c2-a2ac-4756df0795b5>	Watch Dogs: Bad Blood	<http://www.wikidata.org/entity/Q64577202>
+<urn:uuid:00433955-27f4-42c2-a2ac-4756df0795b5>	Skeleton world championship 1990/91	<http://www.wikidata.org/entity/Q11919496>
+<urn:uuid:00433955-27f4-42c2-a2ac-4756df0795b5>	content strategy	<http://www.wikidata.org/entity/Q4353935>
+<urn:uuid:00433955-27f4-42c2-a2ac-4756df0795b5>	Heyfield Memorial United Church and Cemetery	<http://www.wikidata.org/entity/Q52585557>
+<urn:uuid:00433955-27f4-42c2-a2ac-4756df0795b5>	Uncle Bill Piercey\u2019s Store (Fisheries Heritage Preservation Program)	<http://www.wikidata.org/entity/Q68835393>
+<urn:uuid:00433955-27f4-42c2-a2ac-4756df0795b5>	Mathematics/Library	<http://www.wikidata.org/entity/Q27894201>
+<urn:uuid:00433955-27f4-42c2-a2ac-4756df0795b5>	Google Moderator	<http://www.wikidata.org/entity/Q5583854>
+<urn:uuid:00433955-27f4-42c2-a2ac-4756df0795b5>	Sara Carmen Ferrari	<http://www.wikidata.org/entity/Q75485715>
+<urn:uuid:00433955-27f4-42c2-a2ac-4756df0795b5>	Content hole search in community-type content using Wikipedia	<http://www.wikidata.org/entity/Q66708550>
+<urn:uuid:00433955-27f4-42c2-a2ac-4756df0795b5>	RFC 2220: The Application/MARC Content-type	<http://www.wikidata.org/entity/Q47456340>
+<urn:uuid:00433955-27f4-42c2-a2ac-4756df0795b5>	RFC 2957: The application/whoispp-query Content-Type	<http://www.wikidata.org/entity/Q47209323>
+<urn:uuid:00433955-27f4-42c2-a2ac-4756df0795b5>	Rolex GMT Master II	<http://www.wikidata.org/entity/Q382707>
+<urn:uuid:00433955-27f4-42c2-a2ac-4756df0795b5>	GMT	<http://www.wikidata.org/entity/Q304940>
+<urn:uuid:00433955-27f4-42c2-a2ac-4756df0795b5>	GMT	<http://www.wikidata.org/entity/Q5513805>
+<urn:uuid:00433955-27f4-42c2-a2ac-4756df0795b5>	GMT Productions	<http://www.wikidata.org/entity/Q21888019>
+<urn:uuid:00433955-27f4-42c2-a2ac-4756df0795b5>	GMT T1XX	<http://www.wikidata.org/entity/Q39052936>
+<urn:uuid:00433955-27f4-42c2-a2ac-4756df0795b5>	GMT K2XX	<http://www.wikidata.org/entity/Q16975148>
+<urn:uuid:00433955-27f4-42c2-a2ac-4756df0795b5>	GMT Records	<http://www.wikidata.org/entity/Q5513806>
+<urn:uuid:00433955-27f4-42c2-a2ac-4756df0795b5>	GMT Games	<http://www.wikidata.org/entity/Q928726>
+<urn:uuid:00433955-27f4-42c2-a2ac-4756df0795b5>	Template:GFDL-GMT	<http://www.wikidata.org/entity/Q15143503>
+<urn:uuid:00433955-27f4-42c2-a2ac-4756df0795b5>	Generic Mapping Tools	<http://www.wikidata.org/entity/Q602590>
+<urn:uuid:00433955-27f4-42c2-a2ac-4756df0795b5>	Greenwich Mean Time	<http://www.wikidata.org/entity/Q30192>
+<urn:uuid:00433955-27f4-42c2-a2ac-4756df0795b5>	Template:User not GMT	<http://www.wikidata.org/entity/Q20357255>
+<urn:uuid:00433955-27f4-42c2-a2ac-4756df0795b5>	Template:User GMT-var	<http://www.wikidata.org/entity/Q20313726>
+<urn:uuid:00433955-27f4-42c2-a2ac-4756df0795b5>	Template:User GMT-none	<http://www.wikidata.org/entity/Q20363205>
+<urn:uuid:00433955-27f4-42c2-a2ac-4756df0795b5>	Template:Time/GMT offset	<http://www.wikidata.org/entity/Q13417072>
+<urn:uuid:00433955-27f4-42c2-a2ac-4756df0795b5>	Boort	<http://www.wikidata.org/entity/Q28930186>
+<urn:uuid:00433955-27f4-42c2-a2ac-4756df0795b5>	Boort	<http://www.wikidata.org/entity/Q2910538>
+<urn:uuid:00433955-27f4-42c2-a2ac-4756df0795b5>	Boort Standard and Quambatook Herald	<http://www.wikidata.org/entity/Q56059425>
+<urn:uuid:00433955-27f4-42c2-a2ac-4756df0795b5>	Ter Boort	<http://www.wikidata.org/entity/Q19565173>
+<urn:uuid:00433955-27f4-42c2-a2ac-4756df0795b5>	Lake Boort	<http://www.wikidata.org/entity/Q21920332>
+<urn:uuid:00433955-27f4-42c2-a2ac-4756df0795b5>	Boort Hospital	<http://www.wikidata.org/entity/Q28933499>
+<urn:uuid:00433955-27f4-42c2-a2ac-4756df0795b5>	Boort Police Station	<http://www.wikidata.org/entity/Q28926864>
+<urn:uuid:00433955-27f4-42c2-a2ac-4756df0795b5>	Borung-Boort Railway	<http://www.wikidata.org/entity/Q28933502>
+<urn:uuid:00433955-27f4-42c2-a2ac-4756df0795b5>	Boort Fire Station	<http://www.wikidata.org/entity/Q28925948>
+<urn:uuid:00433955-27f4-42c2-a2ac-4756df0795b5>	Boort-Quambatook Railway	<http://www.wikidata.org/entity/Q28933495>
+<urn:uuid:00433955-27f4-42c2-a2ac-4756df0795b5>	Little Lake Boort	<http://www.wikidata.org/entity/Q21960977>
+<urn:uuid:00433955-27f4-42c2-a2ac-4756df0795b5>	Boort Secondary College	<http://www.wikidata.org/entity/Q4943775>
+<urn:uuid:00433955-27f4-42c2-a2ac-4756df0795b5>	Boort Post Office	<http://www.wikidata.org/entity/Q28928746>
+<urn:uuid:00433955-27f4-42c2-a2ac-4756df0795b5>	Cia van Boort	<http://www.wikidata.org/entity/Q43266654>
+<urn:uuid:00433955-27f4-42c2-a2ac-4756df0795b5>	Boort railway station	<http://www.wikidata.org/entity/Q4943776>
+<urn:uuid:00433955-27f4-42c2-a2ac-4756df0795b5>	WATZ	<http://www.wikidata.org/entity/Q7946805>
+<urn:uuid:00433955-27f4-42c2-a2ac-4756df0795b5>	WATZ	<http://www.wikidata.org/entity/Q7946807>
+<urn:uuid:00433955-27f4-42c2-a2ac-4756df0795b5>	Watz	<http://www.wikidata.org/entity/Q37148413>
+<urn:uuid:00433955-27f4-42c2-a2ac-4756df0795b5>	Johan Watz	<http://www.wikidata.org/entity/Q58354295>
+<urn:uuid:00433955-27f4-42c2-a2ac-4756df0795b5>	Tommy Watz	<http://www.wikidata.org/entity/Q17113833>
+<urn:uuid:00433955-27f4-42c2-a2ac-4756df0795b5>	Frederik Watz	<http://www.wikidata.org/entity/Q743680>
+<urn:uuid:00433955-27f4-42c2-a2ac-4756df0795b5>	Marius Watz	<http://www.wikidata.org/entity/Q11988399>
+<urn:uuid:00433955-27f4-42c2-a2ac-4756df0795b5>	Marianne Watz	<http://www.wikidata.org/entity/Q4990227>
+<urn:uuid:00433955-27f4-42c2-a2ac-4756df0795b5>	Antonius Watz	<http://www.wikidata.org/entity/Q26239859>
+<urn:uuid:00433955-27f4-42c2-a2ac-4756df0795b5>	Birgitta Watz	<http://www.wikidata.org/entity/Q62673444>
+<urn:uuid:00433955-27f4-42c2-a2ac-4756df0795b5>	Franz Watz	<http://www.wikidata.org/entity/Q1349454>
+<urn:uuid:00433955-27f4-42c2-a2ac-4756df0795b5>	WATZ-FM	<http://www.wikidata.org/entity/Q7946806>
+<urn:uuid:00433955-27f4-42c2-a2ac-4756df0795b5>	Ingela Nylund Watz	<http://www.wikidata.org/entity/Q4970595>
+<urn:uuid:00433955-27f4-42c2-a2ac-4756df0795b5>	Hans Wolf-Watz	<http://www.wikidata.org/entity/Q6245911>
+<urn:uuid:00433955-27f4-42c2-a2ac-4756df0795b5>	Jan Wolf-Watz	<http://www.wikidata.org/entity/Q6245916>
+<urn:uuid:00aafa47-ff0c-4ef0-a222-31b917897454>	content marketing	<http://www.wikidata.org/entity/Q558685>
+<urn:uuid:00aafa47-ff0c-4ef0-a222-31b917897454>	Content hole search in community-type content	<http://www.wikidata.org/entity/Q66709630>
+<urn:uuid:00aafa47-ff0c-4ef0-a222-31b917897454>	RFC 8255: Multiple Language Content Type	<http://www.wikidata.org/entity/Q47468060>
+<urn:uuid:00aafa47-ff0c-4ef0-a222-31b917897454>	Ensonsinema	<http://www.wikidata.org/entity/Q61174186>
+<urn:uuid:00aafa47-ff0c-4ef0-a222-31b917897454>	Watch Dogs: Bad Blood	<http://www.wikidata.org/entity/Q64577202>
+<urn:uuid:00aafa47-ff0c-4ef0-a222-31b917897454>	Skeleton world championship 1990/91	<http://www.wikidata.org/entity/Q11919496>
+<urn:uuid:00aafa47-ff0c-4ef0-a222-31b917897454>	content strategy	<http://www.wikidata.org/entity/Q4353935>
+<urn:uuid:00aafa47-ff0c-4ef0-a222-31b917897454>	Heyfield Memorial United Church and Cemetery	<http://www.wikidata.org/entity/Q52585557>
+<urn:uuid:00aafa47-ff0c-4ef0-a222-31b917897454>	Uncle Bill Piercey\u2019s Store (Fisheries Heritage Preservation Program)	<http://www.wikidata.org/entity/Q68835393>
+<urn:uuid:00aafa47-ff0c-4ef0-a222-31b917897454>	Mathematics/Library	<http://www.wikidata.org/entity/Q27894201>
+<urn:uuid:00aafa47-ff0c-4ef0-a222-31b917897454>	Google Moderator	<http://www.wikidata.org/entity/Q5583854>
+<urn:uuid:00aafa47-ff0c-4ef0-a222-31b917897454>	Sara Carmen Ferrari	<http://www.wikidata.org/entity/Q75485715>
+<urn:uuid:00aafa47-ff0c-4ef0-a222-31b917897454>	Content hole search in community-type content using Wikipedia	<http://www.wikidata.org/entity/Q66708550>
+<urn:uuid:00aafa47-ff0c-4ef0-a222-31b917897454>	RFC 2220: The Application/MARC Content-type	<http://www.wikidata.org/entity/Q47456340>
+<urn:uuid:00aafa47-ff0c-4ef0-a222-31b917897454>	RFC 2957: The application/whoispp-query Content-Type	<http://www.wikidata.org/entity/Q47209323>
+<urn:uuid:00aafa47-ff0c-4ef0-a222-31b917897454>	Rolex GMT Master II	<http://www.wikidata.org/entity/Q382707>
+<urn:uuid:00aafa47-ff0c-4ef0-a222-31b917897454>	GMT	<http://www.wikidata.org/entity/Q304940>
+<urn:uuid:00aafa47-ff0c-4ef0-a222-31b917897454>	GMT	<http://www.wikidata.org/entity/Q5513805>
+<urn:uuid:00aafa47-ff0c-4ef0-a222-31b917897454>	GMT Productions	<http://www.wikidata.org/entity/Q21888019>
+<urn:uuid:00aafa47-ff0c-4ef0-a222-31b917897454>	GMT T1XX	<http://www.wikidata.org/entity/Q39052936>
+<urn:uuid:00aafa47-ff0c-4ef0-a222-31b917897454>	GMT K2XX	<http://www.wikidata.org/entity/Q16975148>
+<urn:uuid:00aafa47-ff0c-4ef0-a222-31b917897454>	GMT Records	<http://www.wikidata.org/entity/Q5513806>
+<urn:uuid:00aafa47-ff0c-4ef0-a222-31b917897454>	GMT Games	<http://www.wikidata.org/entity/Q928726>
+<urn:uuid:00aafa47-ff0c-4ef0-a222-31b917897454>	Template:GFDL-GMT	<http://www.wikidata.org/entity/Q15143503>
+<urn:uuid:00aafa47-ff0c-4ef0-a222-31b917897454>	Generic Mapping Tools	<http://www.wikidata.org/entity/Q602590>
+<urn:uuid:00aafa47-ff0c-4ef0-a222-31b917897454>	Greenwich Mean Time	<http://www.wikidata.org/entity/Q30192>
+<urn:uuid:00aafa47-ff0c-4ef0-a222-31b917897454>	Template:User not GMT	<http://www.wikidata.org/entity/Q20357255>
+<urn:uuid:00aafa47-ff0c-4ef0-a222-31b917897454>	Template:User GMT-var	<http://www.wikidata.org/entity/Q20313726>
+<urn:uuid:00aafa47-ff0c-4ef0-a222-31b917897454>	Template:User GMT-none	<http://www.wikidata.org/entity/Q20363205>
+<urn:uuid:00aafa47-ff0c-4ef0-a222-31b917897454>	Template:Time/GMT offset	<http://www.wikidata.org/entity/Q13417072>
+<urn:uuid:00b9e290-8294-4751-b332-5f79c8dc5bb5>	1 centimetre	<http://www.wikidata.org/entity/Q1062767>
+<urn:uuid:00b9e290-8294-4751-b332-5f79c8dc5bb5>	1 decametre	<http://www.wikidata.org/entity/Q2747700>
+<urn:uuid:00b9e290-8294-4751-b332-5f79c8dc5bb5>	Lea	<http://www.wikidata.org/entity/Q1810373>
+<urn:uuid:00b9e290-8294-4751-b332-5f79c8dc5bb5>	1 gigametre	<http://www.wikidata.org/entity/Q737252>
+<urn:uuid:00b9e290-8294-4751-b332-5f79c8dc5bb5>	Consultation Content not Consultation Length Improves Patient Satisfaction	<http://www.wikidata.org/entity/Q35029798>
+<urn:uuid:00b9e290-8294-4751-b332-5f79c8dc5bb5>	Assessment of Telomere Length, Phenotype, and DNA Content	<http://www.wikidata.org/entity/Q33906370>
+<urn:uuid:00b9e290-8294-4751-b332-5f79c8dc5bb5>	Length and content of family practice residency training.	<http://www.wikidata.org/entity/Q53728515>
+<urn:uuid:00b9e290-8294-4751-b332-5f79c8dc5bb5>	Assessment of telomere length, phenotype, and DNA content.	<http://www.wikidata.org/entity/Q53746578>
+<urn:uuid:00b9e290-8294-4751-b332-5f79c8dc5bb5>	A relationship between GC content and coding-sequence length.	<http://www.wikidata.org/entity/Q52888256>
+<urn:uuid:00b9e290-8294-4751-b332-5f79c8dc5bb5>	Effect of gestational length on albumin content of meconium	<http://www.wikidata.org/entity/Q34988828>
+<urn:uuid:00b9e290-8294-4751-b332-5f79c8dc5bb5>	The problem of dream length in analysis of content.	<http://www.wikidata.org/entity/Q48744811>
+<urn:uuid:00b9e290-8294-4751-b332-5f79c8dc5bb5>	Correlation between wing length and protein content of mosquitoes.	<http://www.wikidata.org/entity/Q42989637>
+<urn:uuid:00b9e290-8294-4751-b332-5f79c8dc5bb5>	GC content and genome length in Chargaff compliant genomes	<http://www.wikidata.org/entity/Q79437562>
+<urn:uuid:00b9e290-8294-4751-b332-5f79c8dc5bb5>	Ensonsinema	<http://www.wikidata.org/entity/Q61174186>
+<urn:uuid:00b9e290-8294-4751-b332-5f79c8dc5bb5>	Watch Dogs: Bad Blood	<http://www.wikidata.org/entity/Q64577202>
+<urn:uuid:00b9e290-8294-4751-b332-5f79c8dc5bb5>	Cache-Control	<http://www.wikidata.org/entity/Q2932502>
+<urn:uuid:00b9e290-8294-4751-b332-5f79c8dc5bb5>	Cache control instruction	<http://www.wikidata.org/entity/Q24898796>
+<urn:uuid:00b9e290-8294-4751-b332-5f79c8dc5bb5>	Cache-Cache	<http://www.wikidata.org/entity/Q28856460>
+<urn:uuid:00b9e290-8294-4751-b332-5f79c8dc5bb5>	Cache Cache	<http://www.wikidata.org/entity/Q63064086>
+<urn:uuid:00b9e290-8294-4751-b332-5f79c8dc5bb5>	Cache-cache	<http://www.wikidata.org/entity/Q19956656>
+<urn:uuid:00b9e290-8294-4751-b332-5f79c8dc5bb5>	La cache-cache	<http://www.wikidata.org/entity/Q64960827>
+<urn:uuid:00b9e290-8294-4751-b332-5f79c8dc5bb5>	RFC 5861: HTTP Cache-Control Extensions for Stale Content	<http://www.wikidata.org/entity/Q47470396>
+<urn:uuid:00b9e290-8294-4751-b332-5f79c8dc5bb5>	Bayou Cache - Cache	<http://www.wikidata.org/entity/Q32833531>
+<urn:uuid:00b9e290-8294-4751-b332-5f79c8dc5bb5>	Cache-cache (album)	<http://www.wikidata.org/entity/Q2932505>
+<urn:uuid:00b9e290-8294-4751-b332-5f79c8dc5bb5>	Hide-and-Seek (Cache-cache)	<http://www.wikidata.org/entity/Q65510107>
+<urn:uuid:00b9e290-8294-4751-b332-5f79c8dc5bb5>	POWER2 fixed-point, data cache, and storage control units	<http://www.wikidata.org/entity/Q56651074>
+<urn:uuid:00b9e290-8294-4751-b332-5f79c8dc5bb5>	Cache	<http://www.wikidata.org/entity/Q18495233>
+<urn:uuid:00b9e290-8294-4751-b332-5f79c8dc5bb5>	cache	<http://www.wikidata.org/entity/Q165596>
+<urn:uuid:00b9e290-8294-4751-b332-5f79c8dc5bb5>	Cache	<http://www.wikidata.org/entity/Q21411992>
+<urn:uuid:00b9e290-8294-4751-b332-5f79c8dc5bb5>	Cache	<http://www.wikidata.org/entity/Q5015941>
+<urn:uuid:00b9e290-8294-4751-b332-5f79c8dc5bb5>	maximum age	<http://www.wikidata.org/entity/P4135>
+<urn:uuid:00b9e290-8294-4751-b332-5f79c8dc5bb5>	Tranmere Rovers F.C. vs Watford F.C.	<http://www.wikidata.org/entity/Q59192499>
+<urn:uuid:00b9e290-8294-4751-b332-5f79c8dc5bb5>	Leicester City F.C. vs Burnley F.C.	<http://www.wikidata.org/entity/Q59195132>
+<urn:uuid:00b9e290-8294-4751-b332-5f79c8dc5bb5>	10-0-0-0-0-0-0-0-09-0	<http://www.wikidata.org/entity/Q74328631>
+<urn:uuid:00b9e290-8294-4751-b332-5f79c8dc5bb5>	Walter Bulacio	<http://www.wikidata.org/entity/Q6166175>
+<urn:uuid:00b9e290-8294-4751-b332-5f79c8dc5bb5>	Learning non-adjacent regularities at age 0 ; 7.	<http://www.wikidata.org/entity/Q44387161>
+<urn:uuid:00b9e290-8294-4751-b332-5f79c8dc5bb5>	Unintentional injuries among infants age 0-12 months.	<http://www.wikidata.org/entity/Q51699049>
+<urn:uuid:00b9e290-8294-4751-b332-5f79c8dc5bb5>	Field estimation of VO2 max in children eight years of age.	<http://www.wikidata.org/entity/Q45001750>
+<urn:uuid:00b9e290-8294-4751-b332-5f79c8dc5bb5>	0-0-0	<http://www.wikidata.org/entity/Q1217483>
+<urn:uuid:00b9e290-8294-4751-b332-5f79c8dc5bb5>	(0)-(0) = 0	<http://www.wikidata.org/entity/Q72864594>
+<urn:uuid:00b9e290-8294-4751-b332-5f79c8dc5bb5>	Small-molecule modulators of c-Myc/Max and Max/Max interactions.	<http://www.wikidata.org/entity/Q37777378>
+<urn:uuid:00b9e290-8294-4751-b332-5f79c8dc5bb5>	Max	<http://www.wikidata.org/entity/Q18152555>
+<urn:uuid:00b9e290-8294-4751-b332-5f79c8dc5bb5>	Max	<http://www.wikidata.org/entity/Q6794512>
+<urn:uuid:00b9e290-8294-4751-b332-5f79c8dc5bb5>	Max	<http://www.wikidata.org/entity/Q52719046>
+<urn:uuid:00b9e290-8294-4751-b332-5f79c8dc5bb5>	Max	<http://www.wikidata.org/entity/Q25470968>
+<urn:uuid:00b9e290-8294-4751-b332-5f79c8dc5bb5>	EVT	<http://www.wikidata.org/entity/Q27967380>
+<urn:uuid:00b9e290-8294-4751-b332-5f79c8dc5bb5>	EVT	<http://www.wikidata.org/entity/Q370319>
+<urn:uuid:00b9e290-8294-4751-b332-5f79c8dc5bb5>	EVT-103	<http://www.wikidata.org/entity/Q48862404>
+<urn:uuid:00b9e290-8294-4751-b332-5f79c8dc5bb5>	EVT-101	<http://www.wikidata.org/entity/Q27251617>
+<urn:uuid:00b9e290-8294-4751-b332-5f79c8dc5bb5>	EVT-201	<http://www.wikidata.org/entity/Q19597232>
+<urn:uuid:00b9e290-8294-4751-b332-5f79c8dc5bb5>	EVT-101 dihydrochloride	<http://www.wikidata.org/entity/Q27274392>
+<urn:uuid:00b9e290-8294-4751-b332-5f79c8dc5bb5>	[EVT-1 eddy current electrode]	<http://www.wikidata.org/entity/Q71392770>
+<urn:uuid:00b9e290-8294-4751-b332-5f79c8dc5bb5>	The Utrecht endovascular technologies (EVT) experience.	<http://www.wikidata.org/entity/Q44135881>
+<urn:uuid:00b9e290-8294-4751-b332-5f79c8dc5bb5>	Transfemoral endovascular repair of abdominal aortic aneurysm: results of the North American EVT phase 1 trial. EVT Investigators.	<http://www.wikidata.org/entity/Q40670541>
+<urn:uuid:00b9e290-8294-4751-b332-5f79c8dc5bb5>	EVT endovascular graft for abdominal aortic aneurysm.	<http://www.wikidata.org/entity/Q34307189>
+<urn:uuid:00b9e290-8294-4751-b332-5f79c8dc5bb5>	GT 12 WIF/Flight EVT IW KC-135 (NAID 95109152)	<http://www.wikidata.org/entity/Q66358823>
+<urn:uuid:00b9e290-8294-4751-b332-5f79c8dc5bb5>	In vitro differentiation and ultrastructure of human extravillous trophoblast (EVT) cells	<http://www.wikidata.org/entity/Q72626450>
+<urn:uuid:00b9e290-8294-4751-b332-5f79c8dc5bb5>	Mid-term Fixation Stability of the EndoVascular Technologies Endograft	<http://www.wikidata.org/entity/Q56893691>
+<urn:uuid:00b9e290-8294-4751-b332-5f79c8dc5bb5>	Iatrogenic perforation of esophagus successfully treated with Endoscopic Vacuum Therapy (EVT).	<http://www.wikidata.org/entity/Q40851995>
+<urn:uuid:00b9e290-8294-4751-b332-5f79c8dc5bb5>	EndoMAXX Endoluminal Valve Technology (EVT) Compared to EndoMAXX	<http://www.wikidata.org/entity/Q67133554>
+<urn:uuid:00b9e290-8294-4751-b332-5f79c8dc5bb5>	Yok Yok	<http://www.wikidata.org/entity/Q6046175>
+<urn:uuid:00b9e290-8294-4751-b332-5f79c8dc5bb5>	Yok Yok	<http://www.wikidata.org/entity/Q8054537>
+<urn:uuid:00b9e290-8294-4751-b332-5f79c8dc5bb5>	Yok	<http://www.wikidata.org/entity/Q8054535>
+<urn:uuid:00b9e290-8294-4751-b332-5f79c8dc5bb5>	Telafisi Yok	<http://www.wikidata.org/entity/Q19802314>
+<urn:uuid:00b9e290-8294-4751-b332-5f79c8dc5bb5>	Sai Yok	<http://www.wikidata.org/entity/Q16326864>
+<urn:uuid:00b9e290-8294-4751-b332-5f79c8dc5bb5>	Yok R'beu	<http://www.wikidata.org/entity/Q31621308>
+<urn:uuid:00b9e290-8294-4751-b332-5f79c8dc5bb5>	Yok \u0110on	<http://www.wikidata.org/entity/Q31637747>
+<urn:uuid:00b9e290-8294-4751-b332-5f79c8dc5bb5>	Yok R'keh	<http://www.wikidata.org/entity/Q31621042>
+<urn:uuid:00b9e290-8294-4751-b332-5f79c8dc5bb5>	Yok Yere	<http://www.wikidata.org/entity/Q6075366>
+<urn:uuid:00b9e290-8294-4751-b332-5f79c8dc5bb5>	Para Yok	<http://www.wikidata.org/entity/Q6090289>
+<urn:uuid:00b9e290-8294-4751-b332-5f79c8dc5bb5>	M'lom Yok	<http://www.wikidata.org/entity/Q31627571>
+<urn:uuid:00b9e290-8294-4751-b332-5f79c8dc5bb5>	Sungai Yok	<http://www.wikidata.org/entity/Q34846258>
+<urn:uuid:00b9e290-8294-4751-b332-5f79c8dc5bb5>	Ia Yok	<http://www.wikidata.org/entity/Q32276911>
+<urn:uuid:00b9e290-8294-4751-b332-5f79c8dc5bb5>	Yok N'giang	<http://www.wikidata.org/entity/Q31400257>
+<urn:uuid:00b9e290-8294-4751-b332-5f79c8dc5bb5>	Sai Yok	<http://www.wikidata.org/entity/Q476592>
+<urn:uuid:00b9e290-8294-4751-b332-5f79c8dc5bb5>	Kadar	<http://www.wikidata.org/entity/Q6345179>
+<urn:uuid:00b9e290-8294-4751-b332-5f79c8dc5bb5>	Kadar	<http://www.wikidata.org/entity/Q37316619>
+<urn:uuid:00b9e290-8294-4751-b332-5f79c8dc5bb5>	Kadar	<http://www.wikidata.org/entity/Q35437849>
+<urn:uuid:00b9e290-8294-4751-b332-5f79c8dc5bb5>	Kadar	<http://www.wikidata.org/entity/Q35437836>
+<urn:uuid:00b9e290-8294-4751-b332-5f79c8dc5bb5>	Kadar	<http://www.wikidata.org/entity/Q849499>
+<urn:uuid:00b9e290-8294-4751-b332-5f79c8dc5bb5>	Gora Kadar	<http://www.wikidata.org/entity/Q31612773>
+<urn:uuid:00b9e290-8294-4751-b332-5f79c8dc5bb5>	Kadar\u0117s	<http://www.wikidata.org/entity/Q12659154>
+<urn:uuid:00b9e290-8294-4751-b332-5f79c8dc5bb5>	Kadar people	<http://www.wikidata.org/entity/Q13111146>
+<urn:uuid:00b9e290-8294-4751-b332-5f79c8dc5bb5>	Kadar Brock	<http://www.wikidata.org/entity/Q16200297>
+<urn:uuid:00b9e290-8294-4751-b332-5f79c8dc5bb5>	Gabor Kadar	<http://www.wikidata.org/entity/Q71291102>
+<urn:uuid:00b9e290-8294-4751-b332-5f79c8dc5bb5>	E Kadar	<http://www.wikidata.org/entity/Q58317866>
+<urn:uuid:00b9e290-8294-4751-b332-5f79c8dc5bb5>	Kalman Kadar	<http://www.wikidata.org/entity/Q6354011>
+<urn:uuid:00b9e290-8294-4751-b332-5f79c8dc5bb5>	Aleks Kadar	<http://www.wikidata.org/entity/Q15846493>
+<urn:uuid:00b9e290-8294-4751-b332-5f79c8dc5bb5>	\u00D6lene Kadar	<http://www.wikidata.org/entity/Q29169331>
+<urn:uuid:00b9e290-8294-4751-b332-5f79c8dc5bb5>	G. Kadar	<http://www.wikidata.org/entity/Q21645653>
+<urn:uuid:00b9e290-8294-4751-b332-5f79c8dc5bb5>	Anonim	<http://www.wikidata.org/entity/Q4770015>
+<urn:uuid:00b9e290-8294-4751-b332-5f79c8dc5bb5>	Anonim	<http://www.wikidata.org/entity/Q41499873>
+<urn:uuid:00b9e290-8294-4751-b332-5f79c8dc5bb5>	Anonim \u015Eirket	<http://www.wikidata.org/entity/Q3742992>
+<urn:uuid:00b9e290-8294-4751-b332-5f79c8dc5bb5>	Borsa \u0130stanbul Anonim Sirketi	<http://www.wikidata.org/entity/Q74547783>
+<urn:uuid:00b9e290-8294-4751-b332-5f79c8dc5bb5>	T\u00FCrk Otomobil Fabrikas\u0131 Anonim \u015Eirketi (Turkey)	<http://www.wikidata.org/entity/Q30285389>
+<urn:uuid:00b9e290-8294-4751-b332-5f79c8dc5bb5>	TE\u0130A\u015E	<http://www.wikidata.org/entity/Q6093056>
+<urn:uuid:00b9e290-8294-4751-b332-5f79c8dc5bb5>	Emre	<http://www.wikidata.org/entity/Q6756922>
+<urn:uuid:00b9e290-8294-4751-b332-5f79c8dc5bb5>	Emre	<http://www.wikidata.org/entity/Q16275691>
+<urn:uuid:00b9e290-8294-4751-b332-5f79c8dc5bb5>	Emre	<http://www.wikidata.org/entity/Q6756888>
+<urn:uuid:00b9e290-8294-4751-b332-5f79c8dc5bb5>	Emre	<http://www.wikidata.org/entity/Q5374772>
+<urn:uuid:00b9e290-8294-4751-b332-5f79c8dc5bb5>	Emre	<http://www.wikidata.org/entity/Q14902078>
+<urn:uuid:00b9e290-8294-4751-b332-5f79c8dc5bb5>	EMRE	<http://www.wikidata.org/entity/Q29725549>
+<urn:uuid:00b9e290-8294-4751-b332-5f79c8dc5bb5>	Emre	<http://www.wikidata.org/entity/Q5374774>
+<urn:uuid:00b9e290-8294-4751-b332-5f79c8dc5bb5>	Emre	<http://www.wikidata.org/entity/Q10758470>
+<urn:uuid:00b9e290-8294-4751-b332-5f79c8dc5bb5>	Emre	<http://www.wikidata.org/entity/Q10758471>
+<urn:uuid:00b9e290-8294-4751-b332-5f79c8dc5bb5>	Asymmetric protonation of EmrE.	<http://www.wikidata.org/entity/Q36333191>
+<urn:uuid:00b9e290-8294-4751-b332-5f79c8dc5bb5>	Controversy over EmrE structure	<http://www.wikidata.org/entity/Q80776240>
+<urn:uuid:00b9e290-8294-4751-b332-5f79c8dc5bb5>	Emre Faner	<http://www.wikidata.org/entity/Q16236127>
+<urn:uuid:00b9e290-8294-4751-b332-5f79c8dc5bb5>	Emre Bilgin	<http://www.wikidata.org/entity/Q2709448>
+<urn:uuid:00b9e290-8294-4751-b332-5f79c8dc5bb5>	Emre Elivar	<http://www.wikidata.org/entity/Q1339559>
+<urn:uuid:00b9e290-8294-4751-b332-5f79c8dc5bb5>	Emre Okur	<http://www.wikidata.org/entity/Q1339581>
+<urn:uuid:00b9e290-8294-4751-b332-5f79c8dc5bb5>	\u015Eebnem Ferah	<http://www.wikidata.org/entity/Q255645>
+<urn:uuid:00b9e290-8294-4751-b332-5f79c8dc5bb5>	Ferah Yilmaz	<http://www.wikidata.org/entity/Q81526999>
+<urn:uuid:00b9e290-8294-4751-b332-5f79c8dc5bb5>	Ferah Mahallesi	<http://www.wikidata.org/entity/Q6046482>
+<urn:uuid:00b9e290-8294-4751-b332-5f79c8dc5bb5>	Ferah\u015Fad Hatun	<http://www.wikidata.org/entity/Q18121945>
+<urn:uuid:00b9e290-8294-4751-b332-5f79c8dc5bb5>	\u015Eebnem Ferah discography	<http://www.wikidata.org/entity/Q4162288>
+<urn:uuid:00b9e290-8294-4751-b332-5f79c8dc5bb5>	A\u00EFn Ferah	<http://www.wikidata.org/entity/Q2876329>
+<urn:uuid:00b9e290-8294-4751-b332-5f79c8dc5bb5>	Oued Bou Ferah	<http://www.wikidata.org/entity/Q35520888>
+<urn:uuid:00b9e290-8294-4751-b332-5f79c8dc5bb5>	Ferah Ali Pa\u015Fa	<http://www.wikidata.org/entity/Q6060958>
+<urn:uuid:00b9e290-8294-4751-b332-5f79c8dc5bb5>	Kolpa	<http://www.wikidata.org/entity/Q1779664>
+<urn:uuid:00b9e290-8294-4751-b332-5f79c8dc5bb5>	Kolpa	<http://www.wikidata.org/entity/Q36209318>
+<urn:uuid:00b9e290-8294-4751-b332-5f79c8dc5bb5>	Kolpa	<http://www.wikidata.org/entity/Q1779661>
+<urn:uuid:00b9e290-8294-4751-b332-5f79c8dc5bb5>	Edwin Kolpa	<http://www.wikidata.org/entity/Q52828499>
+<urn:uuid:00b9e290-8294-4751-b332-5f79c8dc5bb5>	Kolpa (Slovenia)	<http://www.wikidata.org/entity/Q30299403>
+<urn:uuid:00b9e290-8294-4751-b332-5f79c8dc5bb5>	Kolpa\u00E7ino	<http://www.wikidata.org/entity/Q6427858>
+<urn:uuid:00b9e290-8294-4751-b332-5f79c8dc5bb5>	Rein Kolpa	<http://www.wikidata.org/entity/Q1993470>
+<urn:uuid:00b9e290-8294-4751-b332-5f79c8dc5bb5>	Peter Kolpa	<http://www.wikidata.org/entity/Q53453146>
+<urn:uuid:00b9e290-8294-4751-b332-5f79c8dc5bb5>	NK Kolpa	<http://www.wikidata.org/entity/Q6954519>
+<urn:uuid:00b9e290-8294-4751-b332-5f79c8dc5bb5>	Lissonota kolpa	<http://www.wikidata.org/entity/Q2313254>
+<urn:uuid:00b9e290-8294-4751-b332-5f79c8dc5bb5>	Michel Antochiw Kolpa	<http://www.wikidata.org/entity/Q6012934>
+<urn:uuid:00b9e290-8294-4751-b332-5f79c8dc5bb5>	Kolpa\u00E7ino: Bomba	<http://www.wikidata.org/entity/Q6427861>
+<urn:uuid:00b9e290-8294-4751-b332-5f79c8dc5bb5>	Kupa	<http://www.wikidata.org/entity/Q211046>
+<urn:uuid:00b9e290-8294-4751-b332-5f79c8dc5bb5>	R\u00E9my Kolpa Kopoul	<http://www.wikidata.org/entity/Q3456154>
+<urn:uuid:00b9e290-8294-4751-b332-5f79c8dc5bb5>	Teci, teci, Kolpa moja...	<http://www.wikidata.org/entity/Q12803946>
+<urn:uuid:00b9e290-8294-4751-b332-5f79c8dc5bb5>	Edward Wormald	<http://www.wikidata.org/entity/Q18129312>
+<urn:uuid:00b9e290-8294-4751-b332-5f79c8dc5bb5>	William Verelst	<http://www.wikidata.org/entity/Q2598192>
+<urn:uuid:00b9e290-8294-4751-b332-5f79c8dc5bb5>	UFC Fight Night: Thompson vs. Till	<http://www.wikidata.org/entity/Q53831565>
+<urn:uuid:00b9e290-8294-4751-b332-5f79c8dc5bb5>	Batchelor Roper	<http://www.wikidata.org/entity/Q18115248>
+<urn:uuid:00b9e290-8294-4751-b332-5f79c8dc5bb5>	Stephen Wilks	<http://www.wikidata.org/entity/Q43139977>
+<urn:uuid:00b9e290-8294-4751-b332-5f79c8dc5bb5>	John Abernethy Lynas Gray	<http://www.wikidata.org/entity/Q21543177>
+<urn:uuid:00b9e290-8294-4751-b332-5f79c8dc5bb5>	1996 Emperor's Cup Final	<http://www.wikidata.org/entity/Q55601495>
+<urn:uuid:00b9e290-8294-4751-b332-5f79c8dc5bb5>	American Government	<http://www.wikidata.org/entity/Q4743917>
+<urn:uuid:00b9e290-8294-4751-b332-5f79c8dc5bb5>	SAHARA J : journal of Social Aspects of HIV/AIDS Research Alliance / SAHARA [and] Human Sciences Research Council	<http://www.wikidata.org/entity/Q26853923>
+<urn:uuid:00b9e290-8294-4751-b332-5f79c8dc5bb5>	Atlas Black: Managing to Succeed	<http://www.wikidata.org/entity/Q4816788>
+<urn:uuid:00b9e290-8294-4751-b332-5f79c8dc5bb5>	English	<http://www.wikidata.org/entity/Q57477649>
+<urn:uuid:00b9e290-8294-4751-b332-5f79c8dc5bb5>	English	<http://www.wikidata.org/entity/Q58521792>
+<urn:uuid:00b9e290-8294-4751-b332-5f79c8dc5bb5>	English	<http://www.wikidata.org/entity/Q15924427>
+<urn:uuid:00b9e290-8294-4751-b332-5f79c8dc5bb5>	English	<http://www.wikidata.org/entity/Q11616958>
+<urn:uuid:00b9e290-8294-4751-b332-5f79c8dc5bb5>	English	<http://www.wikidata.org/entity/Q1860>
+<urn:uuid:00c7dadc-6cb1-473b-8639-e800c6536c0c>	Democrats	<http://www.wikidata.org/entity/Q20756073>
+<urn:uuid:00c7dadc-6cb1-473b-8639-e800c6536c0c>	Blue wall	<http://www.wikidata.org/entity/Q19873629>
+<urn:uuid:00c7dadc-6cb1-473b-8639-e800c6536c0c>	Democrats on drugs	<http://www.wikidata.org/entity/Q79559325>
+<urn:uuid:00c7dadc-6cb1-473b-8639-e800c6536c0c>	Assessing the Democrats	<http://www.wikidata.org/entity/Q70854755>
+<urn:uuid:00c7dadc-6cb1-473b-8639-e800c6536c0c>	The Democrats' Dilemma.	<http://www.wikidata.org/entity/Q47316160>
+<urn:uuid:00c7dadc-6cb1-473b-8639-e800c6536c0c>	Democrats	<http://www.wikidata.org/entity/Q5255910>
+<urn:uuid:00c7dadc-6cb1-473b-8639-e800c6536c0c>	Democrats	<http://www.wikidata.org/entity/Q1090630>
+<urn:uuid:00c7dadc-6cb1-473b-8639-e800c6536c0c>	Democrats	<http://www.wikidata.org/entity/Q1185830>
+<urn:uuid:00c7dadc-6cb1-473b-8639-e800c6536c0c>	Science and the democrats	<http://www.wikidata.org/entity/Q80902889>
+<urn:uuid:00c7dadc-6cb1-473b-8639-e800c6536c0c>	Young Democrats Club Files (NAID 620450)	<http://www.wikidata.org/entity/Q63918336>
+<urn:uuid:00c7dadc-6cb1-473b-8639-e800c6536c0c>	Democrats take a stand	<http://www.wikidata.org/entity/Q79306404>
+<urn:uuid:00c7dadc-6cb1-473b-8639-e800c6536c0c>	Democrats unveil health plan.	<http://www.wikidata.org/entity/Q41883304>
+<urn:uuid:00c7dadc-6cb1-473b-8639-e800c6536c0c>	Democrats drop universal coverage	<http://www.wikidata.org/entity/Q71527957>
+<urn:uuid:00c7dadc-6cb1-473b-8639-e800c6536c0c>	Democrats boost R & d	<http://www.wikidata.org/entity/Q81071264>
+<urn:uuid:00c7dadc-6cb1-473b-8639-e800c6536c0c>	Liberal Democrats	<http://www.wikidata.org/entity/Q1553322>
+<urn:uuid:00c7dadc-6cb1-473b-8639-e800c6536c0c>	Obama	<http://www.wikidata.org/entity/Q64145866>
+<urn:uuid:00c7dadc-6cb1-473b-8639-e800c6536c0c>	Obama	<http://www.wikidata.org/entity/Q18355807>
+<urn:uuid:00c7dadc-6cb1-473b-8639-e800c6536c0c>	Obama	<http://www.wikidata.org/entity/Q15259951>
+<urn:uuid:00c7dadc-6cb1-473b-8639-e800c6536c0c>	Obama	<http://www.wikidata.org/entity/Q41773>
+<urn:uuid:00c7dadc-6cb1-473b-8639-e800c6536c0c>	Obama	<http://www.wikidata.org/entity/Q39240943>
+<urn:uuid:00c7dadc-6cb1-473b-8639-e800c6536c0c>	Obama	<http://www.wikidata.org/entity/Q5280414>
+<urn:uuid:00c7dadc-6cb1-473b-8639-e800c6536c0c>	Obama	<http://www.wikidata.org/entity/Q26446735>
+<urn:uuid:00c7dadc-6cb1-473b-8639-e800c6536c0c>	Obama	<http://www.wikidata.org/entity/Q223850>
+<urn:uuid:00c7dadc-6cb1-473b-8639-e800c6536c0c>	C. Obama	<http://www.wikidata.org/entity/Q33687029>
+<urn:uuid:00c7dadc-6cb1-473b-8639-e800c6536c0c>	President Barack Obama, First Lady Michelle Obama, Malia Obama, Sasha Obama, Leslie Robinson and Marian Robinson Tour Robben Island Prison (NAID 118818007)	<http://www.wikidata.org/entity/Q66425135>
+<urn:uuid:00c7dadc-6cb1-473b-8639-e800c6536c0c>	President Barack Obama, First Lady Michelle Obama, Malia Obama, Sasha Obama, Marian Robinson and Kaye Wilson having Dinner in Moscow (NAID 118817933)	<http://www.wikidata.org/entity/Q66425116>
+<urn:uuid:00c7dadc-6cb1-473b-8639-e800c6536c0c>	President Barack Obama, Malia Obama and Sasha Obama Walk Through the White House Colonnade (NAID 118817931)	<http://www.wikidata.org/entity/Q66425163>
+<urn:uuid:00c7dadc-6cb1-473b-8639-e800c6536c0c>	First Lady Michelle Obama, Sasha Obama, Malia Obama Visit the Great Wall of China (NAID 138925796)	<http://www.wikidata.org/entity/Q66424953>
+<urn:uuid:00c7dadc-6cb1-473b-8639-e800c6536c0c>	Barack Obama	<http://www.wikidata.org/entity/Q47513588>
+<urn:uuid:00c7dadc-6cb1-473b-8639-e800c6536c0c>	Obama 2	<http://www.wikidata.org/entity/Q64145867>
+<urn:uuid:00c7dadc-6cb1-473b-8639-e800c6536c0c>	Jewish views on contraception	<http://www.wikidata.org/entity/Q6190149>
+<urn:uuid:00c7dadc-6cb1-473b-8639-e800c6536c0c>	contraception	<http://www.wikidata.org/entity/Q122224>
+<urn:uuid:00c7dadc-6cb1-473b-8639-e800c6536c0c>	Contraception Behavior	<http://www.wikidata.org/entity/Q69941920>
+<urn:uuid:00c7dadc-6cb1-473b-8639-e800c6536c0c>	Contraception Update: Oral Contraception.	<http://www.wikidata.org/entity/Q49670404>
+<urn:uuid:00c7dadc-6cb1-473b-8639-e800c6536c0c>	Contraception	<http://www.wikidata.org/entity/Q68665329>
+<urn:uuid:00c7dadc-6cb1-473b-8639-e800c6536c0c>	Contraception	<http://www.wikidata.org/entity/Q72352084>
+<urn:uuid:00c7dadc-6cb1-473b-8639-e800c6536c0c>	[Contraception]	<http://www.wikidata.org/entity/Q67424974>
+<urn:uuid:00c7dadc-6cb1-473b-8639-e800c6536c0c>	[Contraception]	<http://www.wikidata.org/entity/Q71902751>
+<urn:uuid:00c7dadc-6cb1-473b-8639-e800c6536c0c>	Contraception	<http://www.wikidata.org/entity/Q58171991>
+<urn:uuid:00c7dadc-6cb1-473b-8639-e800c6536c0c>	[Contraception]	<http://www.wikidata.org/entity/Q73705602>
+<urn:uuid:00c7dadc-6cb1-473b-8639-e800c6536c0c>	Contraception	<http://www.wikidata.org/entity/Q67589470>
+<urn:uuid:00c7dadc-6cb1-473b-8639-e800c6536c0c>	Contraception	<http://www.wikidata.org/entity/Q67700373>
+<urn:uuid:00c7dadc-6cb1-473b-8639-e800c6536c0c>	Contraception	<http://www.wikidata.org/entity/Q71901710>
+<urn:uuid:00c7dadc-6cb1-473b-8639-e800c6536c0c>	Contraception	<http://www.wikidata.org/entity/Q71923454>
+<urn:uuid:00c7dadc-6cb1-473b-8639-e800c6536c0c>	[Contraception.]	<http://www.wikidata.org/entity/Q78232261>
+<urn:uuid:00c7dadc-6cb1-473b-8639-e800c6536c0c>	line chart	<http://www.wikidata.org/entity/Q776115>
+<urn:uuid:00c7dadc-6cb1-473b-8639-e800c6536c0c>	candlestick chart	<http://www.wikidata.org/entity/Q1067794>
+<urn:uuid:00c7dadc-6cb1-473b-8639-e800c6536c0c>	bubble chart	<http://www.wikidata.org/entity/Q634532>
+<urn:uuid:00c7dadc-6cb1-473b-8639-e800c6536c0c>	Pareto chart	<http://www.wikidata.org/entity/Q128536>
+<urn:uuid:00c7dadc-6cb1-473b-8639-e800c6536c0c>	bar chart	<http://www.wikidata.org/entity/Q1124595>
+<urn:uuid:00c7dadc-6cb1-473b-8639-e800c6536c0c>	Chart	<http://www.wikidata.org/entity/Q27710352>
+<urn:uuid:00c7dadc-6cb1-473b-8639-e800c6536c0c>	Chart	<http://www.wikidata.org/entity/Q1067738>
+<urn:uuid:00c7dadc-6cb1-473b-8639-e800c6536c0c>	Chart	<http://www.wikidata.org/entity/Q15846511>
+<urn:uuid:00c7dadc-6cb1-473b-8639-e800c6536c0c>	Chart	<http://www.wikidata.org/entity/Q37285864>
+<urn:uuid:00c7dadc-6cb1-473b-8639-e800c6536c0c>	Data Resources Inc.	<http://www.wikidata.org/entity/Q5227208>
+<urn:uuid:00c7dadc-6cb1-473b-8639-e800c6536c0c>	COUNCIL ON LIBRARY RESOURCES, INC	<http://www.wikidata.org/entity/Q80372354>
+<urn:uuid:00c7dadc-6cb1-473b-8639-e800c6536c0c>	Independent Natural Resources, Inc	<http://www.wikidata.org/entity/Q17080561>
+<urn:uuid:00c7dadc-6cb1-473b-8639-e800c6536c0c>	Adams Resources & Energy Inc.	<http://www.wikidata.org/entity/Q19604285>
+<urn:uuid:00c7dadc-6cb1-473b-8639-e800c6536c0c>	Military Professional Resources Inc.	<http://www.wikidata.org/entity/Q431638>
+<urn:uuid:00c7dadc-6cb1-473b-8639-e800c6536c0c>	Chemical review / Data Resources, inc	<http://www.wikidata.org/entity/Q26840020>
+<urn:uuid:00c7dadc-6cb1-473b-8639-e800c6536c0c>	ARC/Architectural Resources Cambridge, Inc.	<http://www.wikidata.org/entity/Q4653584>
+<urn:uuid:00c7dadc-6cb1-473b-8639-e800c6536c0c>	VNA Health Resources, Inc. of Portland, Oregon	<http://www.wikidata.org/entity/Q77659280>
+<urn:uuid:00c7dadc-6cb1-473b-8639-e800c6536c0c>	Chevron U.S.A., Inc. v. Natural Resources Defense Council, Inc.	<http://www.wikidata.org/entity/Q1071348>
+<urn:uuid:00c7dadc-6cb1-473b-8639-e800c6536c0c>	United States v. Energy Resources Co. Inc.	<http://www.wikidata.org/entity/Q19114243>
+<urn:uuid:00c7dadc-6cb1-473b-8639-e800c6536c0c>	Two-lift longwall mining method for Mid-continent Resources, Inc	<http://www.wikidata.org/entity/Q26370954>
+<urn:uuid:00c7dadc-6cb1-473b-8639-e800c6536c0c>	Prescription:the resources of the international journal of pharmaceutical compounding, inc.	<http://www.wikidata.org/entity/Q53161513>
+<urn:uuid:00c7dadc-6cb1-473b-8639-e800c6536c0c>	Human resources strategy. A working arrangement.	<http://www.wikidata.org/entity/Q52138176>
+<urn:uuid:00c7dadc-6cb1-473b-8639-e800c6536c0c>	\"Working interviews\": the human resources perspective	<http://www.wikidata.org/entity/Q81351129>
+<urn:uuid:00c7dadc-6cb1-473b-8639-e800c6536c0c>	Surgery Facilities Resources, Inc./AAAASFI expands international accreditation into new markets	<http://www.wikidata.org/entity/Q34361730>
+<urn:uuid:00f53e3d-90e9-4639-88ce-da7e5a525b2c>	content marketing	<http://www.wikidata.org/entity/Q558685>
+<urn:uuid:00f53e3d-90e9-4639-88ce-da7e5a525b2c>	Content hole search in community-type content	<http://www.wikidata.org/entity/Q66709630>
+<urn:uuid:00f53e3d-90e9-4639-88ce-da7e5a525b2c>	RFC 8255: Multiple Language Content Type	<http://www.wikidata.org/entity/Q47468060>
+<urn:uuid:00f53e3d-90e9-4639-88ce-da7e5a525b2c>	Ensonsinema	<http://www.wikidata.org/entity/Q61174186>
+<urn:uuid:00f53e3d-90e9-4639-88ce-da7e5a525b2c>	Watch Dogs: Bad Blood	<http://www.wikidata.org/entity/Q64577202>
+<urn:uuid:00f53e3d-90e9-4639-88ce-da7e5a525b2c>	Skeleton world championship 1990/91	<http://www.wikidata.org/entity/Q11919496>
+<urn:uuid:00f53e3d-90e9-4639-88ce-da7e5a525b2c>	content strategy	<http://www.wikidata.org/entity/Q4353935>
+<urn:uuid:00f53e3d-90e9-4639-88ce-da7e5a525b2c>	Heyfield Memorial United Church and Cemetery	<http://www.wikidata.org/entity/Q52585557>
+<urn:uuid:00f53e3d-90e9-4639-88ce-da7e5a525b2c>	Uncle Bill Piercey\u2019s Store (Fisheries Heritage Preservation Program)	<http://www.wikidata.org/entity/Q68835393>
+<urn:uuid:00f53e3d-90e9-4639-88ce-da7e5a525b2c>	Mathematics/Library	<http://www.wikidata.org/entity/Q27894201>
+<urn:uuid:00f53e3d-90e9-4639-88ce-da7e5a525b2c>	Google Moderator	<http://www.wikidata.org/entity/Q5583854>
+<urn:uuid:00f53e3d-90e9-4639-88ce-da7e5a525b2c>	Sara Carmen Ferrari	<http://www.wikidata.org/entity/Q75485715>
+<urn:uuid:00f53e3d-90e9-4639-88ce-da7e5a525b2c>	Content hole search in community-type content using Wikipedia	<http://www.wikidata.org/entity/Q66708550>
+<urn:uuid:00f53e3d-90e9-4639-88ce-da7e5a525b2c>	RFC 2220: The Application/MARC Content-type	<http://www.wikidata.org/entity/Q47456340>
+<urn:uuid:00f53e3d-90e9-4639-88ce-da7e5a525b2c>	RFC 2957: The application/whoispp-query Content-Type	<http://www.wikidata.org/entity/Q47209323>
+<urn:uuid:00f53e3d-90e9-4639-88ce-da7e5a525b2c>	Rolex GMT Master II	<http://www.wikidata.org/entity/Q382707>
+<urn:uuid:00f53e3d-90e9-4639-88ce-da7e5a525b2c>	GMT	<http://www.wikidata.org/entity/Q304940>
+<urn:uuid:00f53e3d-90e9-4639-88ce-da7e5a525b2c>	GMT	<http://www.wikidata.org/entity/Q5513805>
+<urn:uuid:00f53e3d-90e9-4639-88ce-da7e5a525b2c>	GMT Productions	<http://www.wikidata.org/entity/Q21888019>
+<urn:uuid:00f53e3d-90e9-4639-88ce-da7e5a525b2c>	GMT T1XX	<http://www.wikidata.org/entity/Q39052936>
+<urn:uuid:00f53e3d-90e9-4639-88ce-da7e5a525b2c>	GMT K2XX	<http://www.wikidata.org/entity/Q16975148>
+<urn:uuid:00f53e3d-90e9-4639-88ce-da7e5a525b2c>	GMT Records	<http://www.wikidata.org/entity/Q5513806>
+<urn:uuid:00f53e3d-90e9-4639-88ce-da7e5a525b2c>	GMT Games	<http://www.wikidata.org/entity/Q928726>
+<urn:uuid:00f53e3d-90e9-4639-88ce-da7e5a525b2c>	Template:GFDL-GMT	<http://www.wikidata.org/entity/Q15143503>
+<urn:uuid:00f53e3d-90e9-4639-88ce-da7e5a525b2c>	Generic Mapping Tools	<http://www.wikidata.org/entity/Q602590>
+<urn:uuid:00f53e3d-90e9-4639-88ce-da7e5a525b2c>	Greenwich Mean Time	<http://www.wikidata.org/entity/Q30192>
+<urn:uuid:00f53e3d-90e9-4639-88ce-da7e5a525b2c>	Template:User not GMT	<http://www.wikidata.org/entity/Q20357255>
+<urn:uuid:00f53e3d-90e9-4639-88ce-da7e5a525b2c>	Template:User GMT-var	<http://www.wikidata.org/entity/Q20313726>
+<urn:uuid:00f53e3d-90e9-4639-88ce-da7e5a525b2c>	Template:User GMT-none	<http://www.wikidata.org/entity/Q20363205>
+<urn:uuid:00f53e3d-90e9-4639-88ce-da7e5a525b2c>	Template:Time/GMT offset	<http://www.wikidata.org/entity/Q13417072>
+<urn:uuid:00f53e3d-90e9-4639-88ce-da7e5a525b2c>	Futsal-rt	<http://www.wikidata.org/entity/Q14078718>
+<urn:uuid:00f53e3d-90e9-4639-88ce-da7e5a525b2c>	Craig Owens	<http://www.wikidata.org/entity/Q3696463>
+<urn:uuid:00f53e3d-90e9-4639-88ce-da7e5a525b2c>	Sophiko Shevardnadze	<http://www.wikidata.org/entity/Q4230666>
+<urn:uuid:00f53e3d-90e9-4639-88ce-da7e5a525b2c>	Greta Thunberg: pourquoi tant de haine?	<http://www.wikidata.org/entity/Q67185208>
+<urn:uuid:00f53e3d-90e9-4639-88ce-da7e5a525b2c>	RT America	<http://www.wikidata.org/entity/Q15545861>
+<urn:uuid:00f53e3d-90e9-4639-88ce-da7e5a525b2c>	RT	<http://www.wikidata.org/entity/Q22868>
+<urn:uuid:00f53e3d-90e9-4639-88ce-da7e5a525b2c>	Rt	<http://www.wikidata.org/entity/Q55776788>
+<urn:uuid:00f53e3d-90e9-4639-88ce-da7e5a525b2c>	RT	<http://www.wikidata.org/entity/Q50256452>
+<urn:uuid:00f53e3d-90e9-4639-88ce-da7e5a525b2c>	rt	<http://www.wikidata.org/entity/Q29717127>
+<urn:uuid:00f53e3d-90e9-4639-88ce-da7e5a525b2c>	Rt	<http://www.wikidata.org/entity/Q31223959>
+<urn:uuid:00f53e3d-90e9-4639-88ce-da7e5a525b2c>	RT	<http://www.wikidata.org/entity/Q59056>
+<urn:uuid:00f53e3d-90e9-4639-88ce-da7e5a525b2c>	RT!	<http://www.wikidata.org/entity/Q7277796>
+<urn:uuid:00f53e3d-90e9-4639-88ce-da7e5a525b2c>	RT	<http://www.wikidata.org/entity/Q26839417>
+<urn:uuid:00f53e3d-90e9-4639-88ce-da7e5a525b2c>	RT	<http://www.wikidata.org/entity/Q12640867>
+<urn:uuid:00f53e3d-90e9-4639-88ce-da7e5a525b2c>	Rt	<http://www.wikidata.org/entity/Q31230313>
+<urn:uuid:013cd38a-b625-413b-801c-fa8f77b2c918>	maximum age	<http://www.wikidata.org/entity/P4135>
+<urn:uuid:013cd38a-b625-413b-801c-fa8f77b2c918>	Tranmere Rovers F.C. vs Watford F.C.	<http://www.wikidata.org/entity/Q59192499>
+<urn:uuid:013cd38a-b625-413b-801c-fa8f77b2c918>	Leicester City F.C. vs Burnley F.C.	<http://www.wikidata.org/entity/Q59195132>
+<urn:uuid:013cd38a-b625-413b-801c-fa8f77b2c918>	10-0-0-0-0-0-0-0-09-0	<http://www.wikidata.org/entity/Q74328631>
+<urn:uuid:013cd38a-b625-413b-801c-fa8f77b2c918>	Walter Bulacio	<http://www.wikidata.org/entity/Q6166175>
+<urn:uuid:013cd38a-b625-413b-801c-fa8f77b2c918>	Learning non-adjacent regularities at age 0 ; 7.	<http://www.wikidata.org/entity/Q44387161>
+<urn:uuid:013cd38a-b625-413b-801c-fa8f77b2c918>	Unintentional injuries among infants age 0-12 months.	<http://www.wikidata.org/entity/Q51699049>
+<urn:uuid:013cd38a-b625-413b-801c-fa8f77b2c918>	Field estimation of VO2 max in children eight years of age.	<http://www.wikidata.org/entity/Q45001750>
+<urn:uuid:013cd38a-b625-413b-801c-fa8f77b2c918>	0-0-0	<http://www.wikidata.org/entity/Q1217483>
+<urn:uuid:013cd38a-b625-413b-801c-fa8f77b2c918>	(0)-(0) = 0	<http://www.wikidata.org/entity/Q72864594>
+<urn:uuid:013cd38a-b625-413b-801c-fa8f77b2c918>	Small-molecule modulators of c-Myc/Max and Max/Max interactions.	<http://www.wikidata.org/entity/Q37777378>
+<urn:uuid:013cd38a-b625-413b-801c-fa8f77b2c918>	Max	<http://www.wikidata.org/entity/Q18152555>
+<urn:uuid:013cd38a-b625-413b-801c-fa8f77b2c918>	Max	<http://www.wikidata.org/entity/Q6794512>
+<urn:uuid:013cd38a-b625-413b-801c-fa8f77b2c918>	Max	<http://www.wikidata.org/entity/Q52719046>
+<urn:uuid:013cd38a-b625-413b-801c-fa8f77b2c918>	Max	<http://www.wikidata.org/entity/Q25470968>
+<urn:uuid:013cd38a-b625-413b-801c-fa8f77b2c918>	Commissioner's Letters (NAID 6061869)	<http://www.wikidata.org/entity/Q59927305>
+<urn:uuid:013cd38a-b625-413b-801c-fa8f77b2c918>	Commissioner's Dockets (NAID 651659)	<http://www.wikidata.org/entity/Q66181452>
+<urn:uuid:013cd38a-b625-413b-801c-fa8f77b2c918>	Commissioner's Letters (NAID 5132636)	<http://www.wikidata.org/entity/Q66217216>
+<urn:uuid:013cd38a-b625-413b-801c-fa8f77b2c918>	Commissioner's Dockets (NAID 4706918)	<http://www.wikidata.org/entity/Q66230113>
+<urn:uuid:013cd38a-b625-413b-801c-fa8f77b2c918>	Commissioner's Dockets (NAID 2803475)	<http://www.wikidata.org/entity/Q66249628>
+<urn:uuid:013cd38a-b625-413b-801c-fa8f77b2c918>	Commissioner's Dockets (NAID 2803451)	<http://www.wikidata.org/entity/Q66249629>
+<urn:uuid:013cd38a-b625-413b-801c-fa8f77b2c918>	Commissioner's Dockets (NAID 2803279)	<http://www.wikidata.org/entity/Q66249637>
+<urn:uuid:013cd38a-b625-413b-801c-fa8f77b2c918>	Commissioner's Dockets (NAID 2803246)	<http://www.wikidata.org/entity/Q66249660>
+<urn:uuid:013cd38a-b625-413b-801c-fa8f77b2c918>	Commissioner's Dockets (NAID 49364451)	<http://www.wikidata.org/entity/Q64265199>
+<urn:uuid:013cd38a-b625-413b-801c-fa8f77b2c918>	Commissioner's Dockets (NAID 4489040)	<http://www.wikidata.org/entity/Q64312805>
+<urn:uuid:013cd38a-b625-413b-801c-fa8f77b2c918>	Commissioner's Dockets (NAID 1404076)	<http://www.wikidata.org/entity/Q64468326>
+<urn:uuid:013cd38a-b625-413b-801c-fa8f77b2c918>	Commissioner's Dockets (NAID 1404568)	<http://www.wikidata.org/entity/Q64468356>
+<urn:uuid:013cd38a-b625-413b-801c-fa8f77b2c918>	Commissioner's Dockets (NAID 2642377)	<http://www.wikidata.org/entity/Q64530077>
+<urn:uuid:013cd38a-b625-413b-801c-fa8f77b2c918>	Commissioner's Correspondence (NAID 7789361)	<http://www.wikidata.org/entity/Q64466026>
+<urn:uuid:013cd38a-b625-413b-801c-fa8f77b2c918>	Commissioner's Correspondence (NAID 7172258)	<http://www.wikidata.org/entity/Q66164403>
+<urn:uuid:013cd38a-b625-413b-801c-fa8f77b2c918>	NoSQL	<http://www.wikidata.org/entity/Q5999165>
+<urn:uuid:013cd38a-b625-413b-801c-fa8f77b2c918>	Hibari	<http://www.wikidata.org/entity/Q5750594>
+<urn:uuid:013cd38a-b625-413b-801c-fa8f77b2c918>	Strozzi NoSQL	<http://www.wikidata.org/entity/Q2357154>
+<urn:uuid:013cd38a-b625-413b-801c-fa8f77b2c918>	MySQL to NoSQL	<http://www.wikidata.org/entity/Q59786883>
+<urn:uuid:013cd38a-b625-413b-801c-fa8f77b2c918>	Oracle NoSQL Database	<http://www.wikidata.org/entity/Q7099284>
+<urn:uuid:013cd38a-b625-413b-801c-fa8f77b2c918>	Stonebraker on NoSQL and enterprises	<http://www.wikidata.org/entity/Q56570592>
+<urn:uuid:013cd38a-b625-413b-801c-fa8f77b2c918>	SQL databases v. NoSQL databases	<http://www.wikidata.org/entity/Q56569753>
+<urn:uuid:013cd38a-b625-413b-801c-fa8f77b2c918>	NoSQL database management system	<http://www.wikidata.org/entity/Q82231>
+<urn:uuid:013cd38a-b625-413b-801c-fa8f77b2c918>	pH1: A Transactional Middleware for NoSQL	<http://www.wikidata.org/entity/Q58023649>
+<urn:uuid:013cd38a-b625-413b-801c-fa8f77b2c918>	Workload-aware table splitting for NoSQL	<http://www.wikidata.org/entity/Q58845696>
+<urn:uuid:013cd38a-b625-413b-801c-fa8f77b2c918>	Scalable SQL and NoSQL data stores	<http://www.wikidata.org/entity/Q56570615>
+<urn:uuid:013cd38a-b625-413b-801c-fa8f77b2c918>	Assessing NoSQL Databases for Telecom Applications	<http://www.wikidata.org/entity/Q58023678>
+<urn:uuid:013cd38a-b625-413b-801c-fa8f77b2c918>	Redis	<http://www.wikidata.org/entity/Q2136322>
+<urn:uuid:013cd38a-b625-413b-801c-fa8f77b2c918>	MarkLogic	<http://www.wikidata.org/entity/Q29364583>
+<urn:uuid:013cd38a-b625-413b-801c-fa8f77b2c918>	Google Cloud Datastore	<http://www.wikidata.org/entity/Q28402217>
+<urn:uuid:013cd38a-b625-413b-801c-fa8f77b2c918>	TUI UK	<http://www.wikidata.org/entity/Q7795876>
+<urn:uuid:013cd38a-b625-413b-801c-fa8f77b2c918>	TUI Travel	<http://www.wikidata.org/entity/Q1476472>
+<urn:uuid:013cd38a-b625-413b-801c-fa8f77b2c918>	Airlines of the TUI Travel group	<http://www.wikidata.org/entity/Q664509>
+<urn:uuid:013cd38a-b625-413b-801c-fa8f77b2c918>	Moja Pravljica Potovanja	<http://www.wikidata.org/entity/Q66724705>
+<urn:uuid:013cd38a-b625-413b-801c-fa8f77b2c918>	Saga Holidays	<http://www.wikidata.org/entity/Q21096071>
+<urn:uuid:013cd38a-b625-413b-801c-fa8f77b2c918>	TUI AG	<http://www.wikidata.org/entity/Q573103>
+<urn:uuid:013cd38a-b625-413b-801c-fa8f77b2c918>	West Tui Group	<http://www.wikidata.org/entity/Q25445619>
+<urn:uuid:013cd38a-b625-413b-801c-fa8f77b2c918>	Drug-free holidays: pre-travel versus during travel malaria chemoprophylaxis.	<http://www.wikidata.org/entity/Q47837595>
+<urn:uuid:013cd38a-b625-413b-801c-fa8f77b2c918>	Lastminute.com Group	<http://www.wikidata.org/entity/Q16828130>
+<urn:uuid:013cd38a-b625-413b-801c-fa8f77b2c918>	DER Touristik Group	<http://www.wikidata.org/entity/Q56707994>
+<urn:uuid:013cd38a-b625-413b-801c-fa8f77b2c918>	Travel and health: illness associated with winter package holidays.	<http://www.wikidata.org/entity/Q35985725>
+<urn:uuid:013cd38a-b625-413b-801c-fa8f77b2c918>	LA MANGA BY DESIGN LIMITED	<http://www.wikidata.org/entity/Q65964308>
+<urn:uuid:013cd38a-b625-413b-801c-fa8f77b2c918>	Sunweb Group	<http://www.wikidata.org/entity/Q2896052>
+<urn:uuid:013cd38a-b625-413b-801c-fa8f77b2c918>	[VACATION IN THE INDUSTRIAL SOCIETY. ON HOLIDAYS AND TRAVEL TODAY.]	<http://www.wikidata.org/entity/Q77201523>
+<urn:uuid:013cd38a-b625-413b-801c-fa8f77b2c918>	Tui Tui Creek	<http://www.wikidata.org/entity/Q25210587>
+<urn:uuid:013cd38a-b625-413b-801c-fa8f77b2c918>	Oh, Kay!	<http://www.wikidata.org/entity/Q3881259>
+<urn:uuid:013cd38a-b625-413b-801c-fa8f77b2c918>	Terence Kay	<http://www.wikidata.org/entity/Q33791144>
+<urn:uuid:013cd38a-b625-413b-801c-fa8f77b2c918>	Humphrey kay	<http://www.wikidata.org/entity/Q33848698>
+<urn:uuid:013cd38a-b625-413b-801c-fa8f77b2c918>	Kay Bearman	<http://www.wikidata.org/entity/Q74069246>
+<urn:uuid:013cd38a-b625-413b-801c-fa8f77b2c918>	Kay Tracey	<http://www.wikidata.org/entity/Q6380300>
+<urn:uuid:013cd38a-b625-413b-801c-fa8f77b2c918>	BEATRICE KAY (NAID 11412)	<http://www.wikidata.org/entity/Q67575716>
+<urn:uuid:013cd38a-b625-413b-801c-fa8f77b2c918>	Marshall Kay	<http://www.wikidata.org/entity/Q71887589>
+<urn:uuid:013cd38a-b625-413b-801c-fa8f77b2c918>	KAY KYSER (NAID 113314)	<http://www.wikidata.org/entity/Q67572805>
+<urn:uuid:013cd38a-b625-413b-801c-fa8f77b2c918>	KAY KYSER (NAID 113196)	<http://www.wikidata.org/entity/Q67572367>
+<urn:uuid:013cd38a-b625-413b-801c-fa8f77b2c918>	kay	<http://www.wikidata.org/entity/Q39318790>
+<urn:uuid:013cd38a-b625-413b-801c-fa8f77b2c918>	Kay Kay Menon	<http://www.wikidata.org/entity/Q6380219>
+<urn:uuid:013cd38a-b625-413b-801c-fa8f77b2c918>	Khuda Kay Liye	<http://www.wikidata.org/entity/Q1517901>
+<urn:uuid:013cd38a-b625-413b-801c-fa8f77b2c918>	KAY KYSER SHOW (NAID 117397)	<http://www.wikidata.org/entity/Q67599573>
+<urn:uuid:013cd38a-b625-413b-801c-fa8f77b2c918>	Calvin F. Kay.	<http://www.wikidata.org/entity/Q46066706>
+<urn:uuid:013cd38a-b625-413b-801c-fa8f77b2c918>	ULYESSES KAY CRITICS (NAID 120687)	<http://www.wikidata.org/entity/Q67609498>
+<urn:uuid:013cd38a-b625-413b-801c-fa8f77b2c918>	Love Love Love	<http://www.wikidata.org/entity/Q4271790>
+<urn:uuid:013cd38a-b625-413b-801c-fa8f77b2c918>	Love Love Love	<http://www.wikidata.org/entity/Q14955814>
+<urn:uuid:013cd38a-b625-413b-801c-fa8f77b2c918>	1965 Iowa State Cyclones football team	<http://www.wikidata.org/entity/Q43081593>
+<urn:uuid:013cd38a-b625-413b-801c-fa8f77b2c918>	Denis Browne bar	<http://www.wikidata.org/entity/Q13575764>
+<urn:uuid:013cd38a-b625-413b-801c-fa8f77b2c918>	Love Sick Love	<http://www.wikidata.org/entity/Q11224389>
+<urn:uuid:013cd38a-b625-413b-801c-fa8f77b2c918>	Love Hate Love	<http://www.wikidata.org/entity/Q27590630>
+<urn:uuid:013cd38a-b625-413b-801c-fa8f77b2c918>	Love and Love	<http://www.wikidata.org/entity/Q48724251>
+<urn:uuid:013cd38a-b625-413b-801c-fa8f77b2c918>	Love After Love	<http://www.wikidata.org/entity/Q30544667>
+<urn:uuid:013cd38a-b625-413b-801c-fa8f77b2c918>	Love & Love Only	<http://www.wikidata.org/entity/Q20967659>
+<urn:uuid:013cd38a-b625-413b-801c-fa8f77b2c918>	Love is Love	<http://www.wikidata.org/entity/Q66619556>
+<urn:uuid:013cd38a-b625-413b-801c-fa8f77b2c918>	Skin love, kin love and in love.	<http://www.wikidata.org/entity/Q55527632>
+<urn:uuid:013cd38a-b625-413b-801c-fa8f77b2c918>	Love Love Love	<http://www.wikidata.org/entity/Q15928998>
+<urn:uuid:013cd38a-b625-413b-801c-fa8f77b2c918>	Love Love Love	<http://www.wikidata.org/entity/Q2707619>
+<urn:uuid:013cd38a-b625-413b-801c-fa8f77b2c918>	Love Love Love	<http://www.wikidata.org/entity/Q1305587>
+<urn:uuid:013cd38a-b625-413b-801c-fa8f77b2c918>	Love, Love, Love	<http://www.wikidata.org/entity/Q3837708>
+<urn:uuid:013cd38a-b625-413b-801c-fa8f77b2c918>	SMBS	<http://www.wikidata.org/entity/Q25713326>
+<urn:uuid:013cd38a-b625-413b-801c-fa8f77b2c918>	SMBS	<http://www.wikidata.org/entity/Q2206708>
+<urn:uuid:013cd38a-b625-413b-801c-fa8f77b2c918>	Cl* NGC 5053 SMBS 5	<http://www.wikidata.org/entity/Q77335525>
+<urn:uuid:013cd38a-b625-413b-801c-fa8f77b2c918>	Cl* NGC 5053 SMBS 19	<http://www.wikidata.org/entity/Q77335482>
+<urn:uuid:013cd38a-b625-413b-801c-fa8f77b2c918>	minister for the business environment, trade and SMBs	<http://www.wikidata.org/entity/Q28600824>
+<urn:uuid:013cd38a-b625-413b-801c-fa8f77b2c918>	Biodegradation of perchlorate from real and synthetic effluent by Proteobacterium ARJR SMBS in a stirred tank bioreactor system.	<http://www.wikidata.org/entity/Q43360944>
+<urn:uuid:013cd38a-b625-413b-801c-fa8f77b2c918>	CMO	<http://www.wikidata.org/entity/Q451148>
+<urn:uuid:013cd38a-b625-413b-801c-fa8f77b2c918>	CMO Producciones	<http://www.wikidata.org/entity/Q67968748>
+<urn:uuid:013cd38a-b625-413b-801c-fa8f77b2c918>	CMO Producciones	<http://www.wikidata.org/entity/Q32238485>
+<urn:uuid:013cd38a-b625-413b-801c-fa8f77b2c918>	Confidentiality: the CMO replies.	<http://www.wikidata.org/entity/Q45998388>
+<urn:uuid:013cd38a-b625-413b-801c-fa8f77b2c918>	Template:Cycling data CMO	<http://www.wikidata.org/entity/Q7745822>
+<urn:uuid:013cd38a-b625-413b-801c-fa8f77b2c918>	testosterone-3-CMO-Hist	<http://www.wikidata.org/entity/Q27127180>
+<urn:uuid:013cd38a-b625-413b-801c-fa8f77b2c918>	My life as an interim CMO.	<http://www.wikidata.org/entity/Q53122115>
+<urn:uuid:013cd38a-b625-413b-801c-fa8f77b2c918>	Sally Davies: CMO, scientist, and campaigner.	<http://www.wikidata.org/entity/Q47744515>
+<urn:uuid:013cd38a-b625-413b-801c-fa8f77b2c918>	The evolving role of the CMO	<http://www.wikidata.org/entity/Q83438051>
+<urn:uuid:013cd38a-b625-413b-801c-fa8f77b2c918>	Beef safety compromised, says former CMO	<http://www.wikidata.org/entity/Q77640756>
+<urn:uuid:013cd38a-b625-413b-801c-fa8f77b2c918>	Open letter to the new CMO.	<http://www.wikidata.org/entity/Q45977934>
+<urn:uuid:013cd38a-b625-413b-801c-fa8f77b2c918>	Open letter to the new CMO	<http://www.wikidata.org/entity/Q70458225>
+<urn:uuid:013cd38a-b625-413b-801c-fa8f77b2c918>	contract manufacturing organization	<http://www.wikidata.org/entity/Q5165673>
+<urn:uuid:013cd38a-b625-413b-801c-fa8f77b2c918>	chief marketing officer	<http://www.wikidata.org/entity/Q1072339>
+<urn:uuid:013cd38a-b625-413b-801c-fa8f77b2c918>	Chicago, St. Paul, Minneapolis and Omaha Railway	<http://www.wikidata.org/entity/Q2963280>
+<urn:uuid:013cd38a-b625-413b-801c-fa8f77b2c918>	Intellectual property protection in consumer electronics industry	<http://www.wikidata.org/entity/Q25112095>
+<urn:uuid:013cd38a-b625-413b-801c-fa8f77b2c918>	IP	<http://www.wikidata.org/entity/Q54897934>
+<urn:uuid:013cd38a-b625-413b-801c-fa8f77b2c918>	IP	<http://www.wikidata.org/entity/Q217496>
+<urn:uuid:013cd38a-b625-413b-801c-fa8f77b2c918>	IP in IP	<http://www.wikidata.org/entity/Q5973201>
+<urn:uuid:013cd38a-b625-413b-801c-fa8f77b2c918>	RFC 2003: IP Encapsulation within IP	<http://www.wikidata.org/entity/Q47166530>
+<urn:uuid:013cd38a-b625-413b-801c-fa8f77b2c918>	RFC 1853: IP in IP Tunneling	<http://www.wikidata.org/entity/Q47459272>
+<urn:uuid:013cd38a-b625-413b-801c-fa8f77b2c918>	Ip	<http://www.wikidata.org/entity/Q16427350>
+<urn:uuid:013cd38a-b625-413b-801c-fa8f77b2c918>	.ip	<http://www.wikidata.org/entity/Q835224>
+<urn:uuid:013cd38a-b625-413b-801c-fa8f77b2c918>	Ip	<http://www.wikidata.org/entity/Q1027794>
+<urn:uuid:013cd38a-b625-413b-801c-fa8f77b2c918>	ip	<http://www.wikidata.org/entity/Q4041566>
+<urn:uuid:013cd38a-b625-413b-801c-fa8f77b2c918>	$IP	<http://www.wikidata.org/entity/Q22092371>
+<urn:uuid:013cd38a-b625-413b-801c-fa8f77b2c918>	Ip	<http://www.wikidata.org/entity/Q36923826>
+<urn:uuid:013cd38a-b625-413b-801c-fa8f77b2c918>	IP-within-IP Encapsulation Protocol	<http://www.wikidata.org/entity/Q28919009>
+<urn:uuid:013cd38a-b625-413b-801c-fa8f77b2c918>	Private IP Encapsulation within IP	<http://www.wikidata.org/entity/Q29578709>
+<urn:uuid:013cd38a-b625-413b-801c-fa8f77b2c918>	SoC: A Real Platform for IP Reuse, IP Infringement, and IP Protection	<http://www.wikidata.org/entity/Q58694551>
+<urn:uuid:013cd38a-b625-413b-801c-fa8f77b2c918>	U.S.	<http://www.wikidata.org/entity/Q18017969>
+<urn:uuid:013cd38a-b625-413b-801c-fa8f77b2c918>	U.S.	<http://www.wikidata.org/entity/Q21712153>
+<urn:uuid:013cd38a-b625-413b-801c-fa8f77b2c918>	U.S.	<http://www.wikidata.org/entity/Q28775762>
+<urn:uuid:013cd38a-b625-413b-801c-fa8f77b2c918>	National Foundation for Infectious Diseases	<http://www.wikidata.org/entity/Q27926757>
+<urn:uuid:013cd38a-b625-413b-801c-fa8f77b2c918>	U.S. Jones	<http://www.wikidata.org/entity/Q7863208>
+<urn:uuid:013cd38a-b625-413b-801c-fa8f77b2c918>	U.S. Attorney/ U.S. Marshal's Files (NAID 5927884)	<http://www.wikidata.org/entity/Q63899691>
+<urn:uuid:013cd38a-b625-413b-801c-fa8f77b2c918>	Joseph W. White	<http://www.wikidata.org/entity/Q13219504>
+<urn:uuid:013cd38a-b625-413b-801c-fa8f77b2c918>	Individual Award Case Files (U.S. Air Force, U.S. Marine Corps, U.S. Navy) (NAID 5700714)	<http://www.wikidata.org/entity/Q66205976>
+<urn:uuid:013cd38a-b625-413b-801c-fa8f77b2c918>	U.S. Revenue Cutter, the U.S. Morris	<http://www.wikidata.org/entity/Q20813035>
+<urn:uuid:013cd38a-b625-413b-801c-fa8f77b2c918>	Category:WikiProject U.S. Roads/U.S. Routes participants	<http://www.wikidata.org/entity/Q8919862>
+<urn:uuid:013cd38a-b625-413b-801c-fa8f77b2c918>	Changes in U.S. Streamflow and Western U.S. Snowpack	<http://www.wikidata.org/entity/Q62650250>
+<urn:uuid:013cd38a-b625-413b-801c-fa8f77b2c918>	U.S. Doctors and the U.S. Electorate-Polls Apart	<http://www.wikidata.org/entity/Q83876664>
+<urn:uuid:013cd38a-b625-413b-801c-fa8f77b2c918>	U.S. Marshals	<http://www.wikidata.org/entity/Q499535>
+<urn:uuid:013cd38a-b625-413b-801c-fa8f77b2c918>	U.S. dentistry.	<http://www.wikidata.org/entity/Q53589886>
+<urn:uuid:013cd38a-b625-413b-801c-fa8f77b2c918>	U.S. Commuters	<http://www.wikidata.org/entity/Q47509599>
+<urn:uuid:013cd38a-b625-413b-801c-fa8f77b2c918>	Fortune 500 medians	<http://www.wikidata.org/entity/Q77102353>
+<urn:uuid:013cd38a-b625-413b-801c-fa8f77b2c918>	Fortune 500	<http://www.wikidata.org/entity/Q76615>
+<urn:uuid:013cd38a-b625-413b-801c-fa8f77b2c918>	The Mosaic Company	<http://www.wikidata.org/entity/Q7752327>
+<urn:uuid:013cd38a-b625-413b-801c-fa8f77b2c918>	Fortune Global 500	<http://www.wikidata.org/entity/Q3078557>
+<urn:uuid:013cd38a-b625-413b-801c-fa8f77b2c918>	Fortune India 500	<http://www.wikidata.org/entity/Q5472872>
+<urn:uuid:013cd38a-b625-413b-801c-fa8f77b2c918>	Fortune 500 largest U.S. corporations	<http://www.wikidata.org/entity/Q77102347>
+<urn:uuid:013cd38a-b625-413b-801c-fa8f77b2c918>	Fortune 500 ranked within states	<http://www.wikidata.org/entity/Q77102364>
+<urn:uuid:013cd38a-b625-413b-801c-fa8f77b2c918>	Fortune 500 ranked by performance	<http://www.wikidata.org/entity/Q77102359>
+<urn:uuid:013cd38a-b625-413b-801c-fa8f77b2c918>	The Fortune 500 largest U.S. corporations	<http://www.wikidata.org/entity/Q74816266>
+<urn:uuid:013cd38a-b625-413b-801c-fa8f77b2c918>	What Does Fortune 500 Turnover Mean?	<http://www.wikidata.org/entity/Q61890939>
+<urn:uuid:013cd38a-b625-413b-801c-fa8f77b2c918>	Growth lessons from Fortune 500 companies	<http://www.wikidata.org/entity/Q77174874>
+<urn:uuid:013cd38a-b625-413b-801c-fa8f77b2c918>	Fortune 500 and insurers propel HMO growth	<http://www.wikidata.org/entity/Q77437853>
+<urn:uuid:013cd38a-b625-413b-801c-fa8f77b2c918>	Commercial paper--not just for the Fortune 500	<http://www.wikidata.org/entity/Q77071997>
+<urn:uuid:013cd38a-b625-413b-801c-fa8f77b2c918>	Re-survey \"Fortune 500\"; interest in HMOs triples	<http://www.wikidata.org/entity/Q68300576>
+<urn:uuid:013cd38a-b625-413b-801c-fa8f77b2c918>	Corporate health care purchasing among Fortune 500 firms.	<http://www.wikidata.org/entity/Q39122077>
+<urn:uuid:013cd38a-b625-413b-801c-fa8f77b2c918>	Communication Strategies: Presentation Report from the International Online Conference 2011	<http://www.wikidata.org/entity/Q58537476>
+<urn:uuid:013cd38a-b625-413b-801c-fa8f77b2c918>	Boom Beach	<http://www.wikidata.org/entity/Q16246617>
+<urn:uuid:013cd38a-b625-413b-801c-fa8f77b2c918>	Flutracking weekly online community survey of influenza-like illness annual report 2011 and 2012.	<http://www.wikidata.org/entity/Q48328687>
+<urn:uuid:013cd38a-b625-413b-801c-fa8f77b2c918>	A novel online recalibration strategy for continuous glucose measurement sensors employing LMI techniques.	<http://www.wikidata.org/entity/Q51154239>
+<urn:uuid:013cd38a-b625-413b-801c-fa8f77b2c918>	NHJ direct online in January 2011!	<http://www.wikidata.org/entity/Q42410498>
+<urn:uuid:013cd38a-b625-413b-801c-fa8f77b2c918>	Strategaeth Conwy Iach 2008-2011 = Healthy Conwy Strategy 2008-2011	<http://www.wikidata.org/entity/Q76546437>
+<urn:uuid:013cd38a-b625-413b-801c-fa8f77b2c918>	2011 census coverage assessment and adjustment strategy	<http://www.wikidata.org/entity/Q80349159>
+<urn:uuid:013cd38a-b625-413b-801c-fa8f77b2c918>	Italian Online Movie Awards 2011	<http://www.wikidata.org/entity/Q24054778>
+<urn:uuid:013cd38a-b625-413b-801c-fa8f77b2c918>	Stormfall: Rise of Balur	<http://www.wikidata.org/entity/Q28504199>
+<urn:uuid:013cd38a-b625-413b-801c-fa8f77b2c918>	Throne: Kingdom at War	<http://www.wikidata.org/entity/Q28441914>
+<urn:uuid:013cd38a-b625-413b-801c-fa8f77b2c918>	Online Measurement Perspectives for Students\u2019 Strategy Use: Tool Use within a Content Management System	<http://www.wikidata.org/entity/Q58701231>
+<urn:uuid:013cd38a-b625-413b-801c-fa8f77b2c918>	Arthritis Research & Therapy evolves: online only from 2011.	<http://www.wikidata.org/entity/Q46144424>
+<urn:uuid:013cd38a-b625-413b-801c-fa8f77b2c918>	Qualitative report (Online)	<http://www.wikidata.org/entity/Q27723042>
+<urn:uuid:013cd38a-b625-413b-801c-fa8f77b2c918>	Fortuna	<http://www.wikidata.org/entity/Q47463154>
+<urn:uuid:013cd38a-b625-413b-801c-fa8f77b2c918>	Online Survey Data from Twitter and Archaeology Surveys 2011-2013	<http://www.wikidata.org/entity/Q53679228>
+<urn:uuid:013cd38a-b625-413b-801c-fa8f77b2c918>	Arri Alexa	<http://www.wikidata.org/entity/Q1674441>
+<urn:uuid:013cd38a-b625-413b-801c-fa8f77b2c918>	Alexa	<http://www.wikidata.org/entity/Q1752733>
+<urn:uuid:013cd38a-b625-413b-801c-fa8f77b2c918>	Alexa	<http://www.wikidata.org/entity/Q10985693>
+<urn:uuid:013cd38a-b625-413b-801c-fa8f77b2c918>	Alexa	<http://www.wikidata.org/entity/Q37557661>
+<urn:uuid:013cd38a-b625-413b-801c-fa8f77b2c918>	Alexa	<http://www.wikidata.org/entity/Q20038571>
+<urn:uuid:013cd38a-b625-413b-801c-fa8f77b2c918>	Alexa	<http://www.wikidata.org/entity/Q352888>
+<urn:uuid:013cd38a-b625-413b-801c-fa8f77b2c918>	Alexa	<http://www.wikidata.org/entity/Q322847>
+<urn:uuid:013cd38a-b625-413b-801c-fa8f77b2c918>	Alexa	<http://www.wikidata.org/entity/Q4718066>
+<urn:uuid:013cd38a-b625-413b-801c-fa8f77b2c918>	Alexa	<http://www.wikidata.org/entity/Q16525326>
+<urn:uuid:013cd38a-b625-413b-801c-fa8f77b2c918>	Alexa	<http://www.wikidata.org/entity/Q4718070>
+<urn:uuid:013cd38a-b625-413b-801c-fa8f77b2c918>	\"Alexa, Refill My Omeprazole\".	<http://www.wikidata.org/entity/Q49215509>
+<urn:uuid:013cd38a-b625-413b-801c-fa8f77b2c918>	CIA II: Target Alexa	<http://www.wikidata.org/entity/Q4502961>
+<urn:uuid:013cd38a-b625-413b-801c-fa8f77b2c918>	CIA Code Name: Alexa	<http://www.wikidata.org/entity/Q4502959>
+<urn:uuid:013cd38a-b625-413b-801c-fa8f77b2c918>	Alexa Wild	<http://www.wikidata.org/entity/Q15275664>
+<urn:uuid:013cd38a-b625-413b-801c-fa8f77b2c918>	Alexa superba	<http://www.wikidata.org/entity/Q49421970>
+<urn:uuid:013cd38a-b625-413b-801c-fa8f77b2c918>	GATC	<http://www.wikidata.org/entity/Q18054133>
+<urn:uuid:013cd38a-b625-413b-801c-fa8f77b2c918>	GatC	<http://www.wikidata.org/entity/Q29724733>
+<urn:uuid:013cd38a-b625-413b-801c-fa8f77b2c918>	gatc	<http://www.wikidata.org/entity/Q29743520>
+<urn:uuid:013cd38a-b625-413b-801c-fa8f77b2c918>	GATC	<http://www.wikidata.org/entity/Q24594684>
+<urn:uuid:013cd38a-b625-413b-801c-fa8f77b2c918>	Gatc	<http://www.wikidata.org/entity/Q24422088>
+<urn:uuid:013cd38a-b625-413b-801c-fa8f77b2c918>	Gatc	<http://www.wikidata.org/entity/Q18303834>
+<urn:uuid:013cd38a-b625-413b-801c-fa8f77b2c918>	GATC	<http://www.wikidata.org/entity/Q5512901>
+<urn:uuid:013cd38a-b625-413b-801c-fa8f77b2c918>	GATC Biotech	<http://www.wikidata.org/entity/Q16251081>
+<urn:uuid:013cd38a-b625-413b-801c-fa8f77b2c918>	GatC BL0404	<http://www.wikidata.org/entity/Q23623244>
+<urn:uuid:013cd38a-b625-413b-801c-fa8f77b2c918>	gatC BL0404	<http://www.wikidata.org/entity/Q23339211>
+<urn:uuid:013cd38a-b625-413b-801c-fa8f77b2c918>	Aspartyl/glutamyl-tRNA amidotransferase subunit C NGO0663	<http://www.wikidata.org/entity/Q22264550>
+<urn:uuid:013cd38a-b625-413b-801c-fa8f77b2c918>	Aspartyl/glutamyl-tRNA amidotransferase subunit C NMB1355	<http://www.wikidata.org/entity/Q22270991>
+<urn:uuid:013cd38a-b625-413b-801c-fa8f77b2c918>	Aspartyl/glutamyl-tRNA amidotransferase subunit C PA4482	<http://www.wikidata.org/entity/Q21758736>
+<urn:uuid:013cd38a-b625-413b-801c-fa8f77b2c918>	Aspartyl/glutamyl-tRNA amidotransferase subunit C Psyr_4164	<http://www.wikidata.org/entity/Q24094831>
+<urn:uuid:013cd38a-b625-413b-801c-fa8f77b2c918>	Aspartyl/glutamyl-tRNA amidotransferase subunit C NGR_c10950	<http://www.wikidata.org/entity/Q24103167>
+<urn:uuid:013cd38a-b625-413b-801c-fa8f77b2c918>	Customer analytics	<http://www.wikidata.org/entity/Q1503267>
+<urn:uuid:013cd38a-b625-413b-801c-fa8f77b2c918>	Google Analytics 360 Suite	<http://www.wikidata.org/entity/Q25469415>
+<urn:uuid:013cd38a-b625-413b-801c-fa8f77b2c918>	Measuring Customer Agility from Online Reviews Using Big Data Text Analytics	<http://www.wikidata.org/entity/Q57734760>
+<urn:uuid:013cd38a-b625-413b-801c-fa8f77b2c918>	Understanding Customer Experience Diffusion on Social Networking Services by Big Data Analytics	<http://www.wikidata.org/entity/Q57766531>
+<urn:uuid:013cd38a-b625-413b-801c-fa8f77b2c918>	Shopper Analytics: A Customer Activity Recognition System Using a Distributed RGB-D Camera Network	<http://www.wikidata.org/entity/Q57970862>
+<urn:uuid:013cd38a-b625-413b-801c-fa8f77b2c918>	2015 Rhythmic Gymnastics European Championships	<http://www.wikidata.org/entity/Q19810364>
+<urn:uuid:013cd38a-b625-413b-801c-fa8f77b2c918>	Latency	<http://www.wikidata.org/entity/Q6495467>
+<urn:uuid:013cd38a-b625-413b-801c-fa8f77b2c918>	Imputation and Variance Estimation Software	<http://www.wikidata.org/entity/Q60744645>
+<urn:uuid:013cd38a-b625-413b-801c-fa8f77b2c918>	Behavioral analytics	<http://www.wikidata.org/entity/Q15365169>
+<urn:uuid:013cd38a-b625-413b-801c-fa8f77b2c918>	patron	<http://www.wikidata.org/entity/Q60680183>
+<urn:uuid:013cd38a-b625-413b-801c-fa8f77b2c918>	customer support	<http://www.wikidata.org/entity/Q5196479>
+<urn:uuid:013cd38a-b625-413b-801c-fa8f77b2c918>	Google Italy customer support	<http://www.wikidata.org/entity/Q41750199>
+<urn:uuid:013cd38a-b625-413b-801c-fa8f77b2c918>	Huuto.net	<http://www.wikidata.org/entity/Q11863880>
+<urn:uuid:013cd38a-b625-413b-801c-fa8f77b2c918>	Google Analytics http://www.google.com/analytics/	<http://www.wikidata.org/entity/Q58521682>
+<urn:uuid:013cd38a-b625-413b-801c-fa8f77b2c918>	.analytics	<http://www.wikidata.org/entity/Q24033221>
+<urn:uuid:013cd38a-b625-413b-801c-fa8f77b2c918>	.email	<http://www.wikidata.org/entity/Q16048487>
+<urn:uuid:013cd38a-b625-413b-801c-fa8f77b2c918>	Email	<http://www.wikidata.org/entity/Q20671261>
+<urn:uuid:013cd38a-b625-413b-801c-fa8f77b2c918>	email	<http://www.wikidata.org/entity/Q30070439>
+<urn:uuid:013cd38a-b625-413b-801c-fa8f77b2c918>	Email	<http://www.wikidata.org/entity/Q25978533>
+<urn:uuid:013cd38a-b625-413b-801c-fa8f77b2c918>	email	<http://www.wikidata.org/entity/Q9158>
+<urn:uuid:013cd38a-b625-413b-801c-fa8f77b2c918>	Email Files (NAID 22337891)	<http://www.wikidata.org/entity/Q63895349>
+<urn:uuid:013cd38a-b625-413b-801c-fa8f77b2c918>	Email Files (NAID 18519075)	<http://www.wikidata.org/entity/Q66272038>
+<urn:uuid:013cd38a-b625-413b-801c-fa8f77b2c918>	Email Records (NAID 53770604)	<http://www.wikidata.org/entity/Q64263594>
+<urn:uuid:013cd38a-b625-413b-801c-fa8f77b2c918>	Email Files (NAID 74627261)	<http://www.wikidata.org/entity/Q64201954>
+<urn:uuid:013cd38a-b625-413b-801c-fa8f77b2c918>	Email Files (NAID 18541016)	<http://www.wikidata.org/entity/Q64468895>
+<urn:uuid:013cd38a-b625-413b-801c-fa8f77b2c918>	Email Settings	<http://www.wikidata.org/entity/Q66498744>
+<urn:uuid:013cd38a-b625-413b-801c-fa8f77b2c918>	Trustworthy Email	<http://www.wikidata.org/entity/Q60516511>
+<urn:uuid:013cd38a-b625-413b-801c-fa8f77b2c918>	Email Files (NAID 101784522)	<http://www.wikidata.org/entity/Q64186412>
+<urn:uuid:013cd38a-b625-413b-801c-fa8f77b2c918>	Email Records (NAID 75717589)	<http://www.wikidata.org/entity/Q64202690>
+<urn:uuid:013cd38a-b625-413b-801c-fa8f77b2c918>	Email Records (NAID 25465638)	<http://www.wikidata.org/entity/Q64290467>
+<urn:uuid:013cd38a-b625-413b-801c-fa8f77b2c918>	marketing communications	<http://www.wikidata.org/entity/Q2350449>
+<urn:uuid:013cd38a-b625-413b-801c-fa8f77b2c918>	Ye Banished Privateers	<http://www.wikidata.org/entity/Q18074113>
+<urn:uuid:013cd38a-b625-413b-801c-fa8f77b2c918>	Lawyer	<http://www.wikidata.org/entity/Q84089563>
+<urn:uuid:013cd38a-b625-413b-801c-fa8f77b2c918>	Life Application Study Bible	<http://www.wikidata.org/entity/Q6544716>
+<urn:uuid:013cd38a-b625-413b-801c-fa8f77b2c918>	Biodot	<http://www.wikidata.org/entity/Q6748472>
+<urn:uuid:013cd38a-b625-413b-801c-fa8f77b2c918>	MouseHunt	<http://www.wikidata.org/entity/Q6926001>
+<urn:uuid:013cd38a-b625-413b-801c-fa8f77b2c918>	Subtle Asian Traits	<http://www.wikidata.org/entity/Q60776454>
+<urn:uuid:013cd38a-b625-413b-801c-fa8f77b2c918>	(lil) Green Patch	<http://www.wikidata.org/entity/Q13422962>
+<urn:uuid:013cd38a-b625-413b-801c-fa8f77b2c918>	Cool Freaks' Wikipedia Club	<http://www.wikidata.org/entity/Q64212060>
+<urn:uuid:013cd38a-b625-413b-801c-fa8f77b2c918>	Facebook	<http://www.wikidata.org/entity/Q18613161>
+<urn:uuid:013cd38a-b625-413b-801c-fa8f77b2c918>	Facebook	<http://www.wikidata.org/entity/Q355>
+<urn:uuid:013cd38a-b625-413b-801c-fa8f77b2c918>	Facebook, Inc.	<http://www.wikidata.org/entity/Q380>
+<urn:uuid:013cd38a-b625-413b-801c-fa8f77b2c918>	Fidji Simo	<http://www.wikidata.org/entity/Q64853019>
+<urn:uuid:013cd38a-b625-413b-801c-fa8f77b2c918>	League of LOL	<http://www.wikidata.org/entity/Q61693297>
+<urn:uuid:013cd38a-b625-413b-801c-fa8f77b2c918>	Les Niaiseries acadiennes	<http://www.wikidata.org/entity/Q19629433>
+<urn:uuid:013cd38a-b625-413b-801c-fa8f77b2c918>	PRICE'S MEDICINE.	<http://www.wikidata.org/entity/Q55643726>
+<urn:uuid:013cd38a-b625-413b-801c-fa8f77b2c918>	Price's Candleworks (1923.25)	<http://www.wikidata.org/entity/Q79516501>
+<urn:uuid:013cd38a-b625-413b-801c-fa8f77b2c918>	Price's presence	<http://www.wikidata.org/entity/Q79851441>
+<urn:uuid:013cd38a-b625-413b-801c-fa8f77b2c918>	Katie	<http://www.wikidata.org/entity/Q51574160>
+<urn:uuid:013cd38a-b625-413b-801c-fa8f77b2c918>	Price's model	<http://www.wikidata.org/entity/Q17148494>
+<urn:uuid:013cd38a-b625-413b-801c-fa8f77b2c918>	Price's Cottage	<http://www.wikidata.org/entity/Q26488600>
+<urn:uuid:013cd38a-b625-413b-801c-fa8f77b2c918>	Price's Cottages	<http://www.wikidata.org/entity/Q26636267>
+<urn:uuid:013cd38a-b625-413b-801c-fa8f77b2c918>	Price's theorem	<http://www.wikidata.org/entity/Q7242547>
+<urn:uuid:013cd38a-b625-413b-801c-fa8f77b2c918>	Price's Airport	<http://www.wikidata.org/entity/Q35290867>
+<urn:uuid:013cd38a-b625-413b-801c-fa8f77b2c918>	Price's Mill	<http://www.wikidata.org/entity/Q2109481>
+<urn:uuid:013cd38a-b625-413b-801c-fa8f77b2c918>	Price's Almshouse	<http://www.wikidata.org/entity/Q26519184>
+<urn:uuid:013cd38a-b625-413b-801c-fa8f77b2c918>	Price's Candles	<http://www.wikidata.org/entity/Q7242545>
+<urn:uuid:013cd38a-b625-413b-801c-fa8f77b2c918>	Price's index	<http://www.wikidata.org/entity/Q59156991>
+<urn:uuid:013cd38a-b625-413b-801c-fa8f77b2c918>	Price's House	<http://www.wikidata.org/entity/Q26556963>
+<urn:uuid:013cd38a-b625-413b-801c-fa8f77b2c918>	Price's Folly	<http://www.wikidata.org/entity/Q79303651>
+<urn:uuid:013cd38a-b625-413b-801c-fa8f77b2c918>	Checkout	<http://www.wikidata.org/entity/Q79009646>
+<urn:uuid:013cd38a-b625-413b-801c-fa8f77b2c918>	Checkout	<http://www.wikidata.org/entity/Q5089161>
+<urn:uuid:013cd38a-b625-413b-801c-fa8f77b2c918>	RFC 193: NETWORK CHECKOUT	<http://www.wikidata.org/entity/Q47241306>
+<urn:uuid:013cd38a-b625-413b-801c-fa8f77b2c918>	The Checkout	<http://www.wikidata.org/entity/Q7722271>
+<urn:uuid:013cd38a-b625-413b-801c-fa8f77b2c918>	Self checkout	<http://www.wikidata.org/entity/Q1568124>
+<urn:uuid:013cd38a-b625-413b-801c-fa8f77b2c918>	Charity Checkout	<http://www.wikidata.org/entity/Q25245141>
+<urn:uuid:013cd38a-b625-413b-801c-fa8f77b2c918>	Google Checkout	<http://www.wikidata.org/entity/Q1048294>
+<urn:uuid:013cd38a-b625-413b-801c-fa8f77b2c918>	Checkout Girl	<http://www.wikidata.org/entity/Q66814138>
+<urn:uuid:013cd38a-b625-413b-801c-fa8f77b2c918>	checkout divider	<http://www.wikidata.org/entity/Q1365455>
+<urn:uuid:013cd38a-b625-413b-801c-fa8f77b2c918>	supermarket checkout	<http://www.wikidata.org/entity/Q29921717>
+<urn:uuid:013cd38a-b625-413b-801c-fa8f77b2c918>	ASTM C1010	<http://www.wikidata.org/entity/Q59365834>
+<urn:uuid:013cd38a-b625-413b-801c-fa8f77b2c918>	PATRON SELF-CHECKOUT	<http://www.wikidata.org/entity/Q58563796>
+<urn:uuid:013cd38a-b625-413b-801c-fa8f77b2c918>	Proceed to checkout.	<http://www.wikidata.org/entity/Q48064413>
+<urn:uuid:013cd38a-b625-413b-801c-fa8f77b2c918>	Checkout these services	<http://www.wikidata.org/entity/Q83175128>
+<urn:uuid:013cd38a-b625-413b-801c-fa8f77b2c918>	Mr. Checkout Distributors	<http://www.wikidata.org/entity/Q61355809>
+<urn:uuid:013cd38a-b625-413b-801c-fa8f77b2c918>	Synapse Group, Inc.	<http://www.wikidata.org/entity/Q7662029>
+<urn:uuid:013cd38a-b625-413b-801c-fa8f77b2c918>	Multichannel	<http://www.wikidata.org/entity/Q1917530>
+<urn:uuid:013cd38a-b625-413b-801c-fa8f77b2c918>	McASP	<http://www.wikidata.org/entity/Q17145445>
+<urn:uuid:013cd38a-b625-413b-801c-fa8f77b2c918>	MADI	<http://www.wikidata.org/entity/Q1757418>
+<urn:uuid:013cd38a-b625-413b-801c-fa8f77b2c918>	Canal+ Myanmar FG	<http://www.wikidata.org/entity/Q65337619>
+<urn:uuid:013cd38a-b625-413b-801c-fa8f77b2c918>	EIAJ MTS	<http://www.wikidata.org/entity/Q11371860>
+<urn:uuid:013cd38a-b625-413b-801c-fa8f77b2c918>	Multichannel (China)	<http://www.wikidata.org/entity/Q50040711>
+<urn:uuid:013cd38a-b625-413b-801c-fa8f77b2c918>	Multichannel marketing	<http://www.wikidata.org/entity/Q1952340>
+<urn:uuid:013cd38a-b625-413b-801c-fa8f77b2c918>	Multichannel biotelemetry.	<http://www.wikidata.org/entity/Q34910660>
+<urn:uuid:013cd38a-b625-413b-801c-fa8f77b2c918>	[Multichannel rheography]	<http://www.wikidata.org/entity/Q67384204>
+<urn:uuid:013cd38a-b625-413b-801c-fa8f77b2c918>	Multichannel television	<http://www.wikidata.org/entity/Q48769817>
+<urn:uuid:013cd38a-b625-413b-801c-fa8f77b2c918>	Multichannel News	<http://www.wikidata.org/entity/Q6934597>
+<urn:uuid:013cd38a-b625-413b-801c-fa8f77b2c918>	Multichannel analyzer	<http://www.wikidata.org/entity/Q25104125>
+<urn:uuid:013cd38a-b625-413b-801c-fa8f77b2c918>	Multichannel audio	<http://www.wikidata.org/entity/Q16877595>
+<urn:uuid:013cd38a-b625-413b-801c-fa8f77b2c918>	Multichannel analyzer	<http://www.wikidata.org/entity/Q80920357>
+<urn:uuid:01c665eb-86d3-4594-b9ad-ad1b54f07355>	Rolex GMT Master II	<http://www.wikidata.org/entity/Q382707>
+<urn:uuid:01c665eb-86d3-4594-b9ad-ad1b54f07355>	GMT	<http://www.wikidata.org/entity/Q304940>
+<urn:uuid:01c665eb-86d3-4594-b9ad-ad1b54f07355>	GMT	<http://www.wikidata.org/entity/Q5513805>
+<urn:uuid:01c665eb-86d3-4594-b9ad-ad1b54f07355>	GMT Productions	<http://www.wikidata.org/entity/Q21888019>
+<urn:uuid:01c665eb-86d3-4594-b9ad-ad1b54f07355>	GMT T1XX	<http://www.wikidata.org/entity/Q39052936>
+<urn:uuid:01c665eb-86d3-4594-b9ad-ad1b54f07355>	GMT K2XX	<http://www.wikidata.org/entity/Q16975148>
+<urn:uuid:01c665eb-86d3-4594-b9ad-ad1b54f07355>	GMT Records	<http://www.wikidata.org/entity/Q5513806>
+<urn:uuid:01c665eb-86d3-4594-b9ad-ad1b54f07355>	GMT Games	<http://www.wikidata.org/entity/Q928726>
+<urn:uuid:01c665eb-86d3-4594-b9ad-ad1b54f07355>	Template:GFDL-GMT	<http://www.wikidata.org/entity/Q15143503>
+<urn:uuid:01c665eb-86d3-4594-b9ad-ad1b54f07355>	Generic Mapping Tools	<http://www.wikidata.org/entity/Q602590>
+<urn:uuid:01c665eb-86d3-4594-b9ad-ad1b54f07355>	Greenwich Mean Time	<http://www.wikidata.org/entity/Q30192>
+<urn:uuid:01c665eb-86d3-4594-b9ad-ad1b54f07355>	Template:User not GMT	<http://www.wikidata.org/entity/Q20357255>
+<urn:uuid:01c665eb-86d3-4594-b9ad-ad1b54f07355>	Template:User GMT-var	<http://www.wikidata.org/entity/Q20313726>
+<urn:uuid:01c665eb-86d3-4594-b9ad-ad1b54f07355>	Template:User GMT-none	<http://www.wikidata.org/entity/Q20363205>
+<urn:uuid:01c665eb-86d3-4594-b9ad-ad1b54f07355>	Template:Time/GMT offset	<http://www.wikidata.org/entity/Q13417072>
+<urn:uuid:01c665eb-86d3-4594-b9ad-ad1b54f07355>	Ways	<http://www.wikidata.org/entity/Q14300663>
+<urn:uuid:01c665eb-86d3-4594-b9ad-ad1b54f07355>	Ways	<http://www.wikidata.org/entity/Q37572173>
+<urn:uuid:01c665eb-86d3-4594-b9ad-ad1b54f07355>	Ways	<http://www.wikidata.org/entity/Q6122841>
+<urn:uuid:01c665eb-86d3-4594-b9ad-ad1b54f07355>	Kite control systems	<http://www.wikidata.org/entity/Q17164770>
+<urn:uuid:01c665eb-86d3-4594-b9ad-ad1b54f07355>	Income inequality metrics	<http://www.wikidata.org/entity/Q6158427>
+<urn:uuid:01c665eb-86d3-4594-b9ad-ad1b54f07355>	fish locomotion	<http://www.wikidata.org/entity/Q5454646>
+<urn:uuid:01c665eb-86d3-4594-b9ad-ad1b54f07355>	WAYS	<http://www.wikidata.org/entity/Q7946910>
+<urn:uuid:01c665eb-86d3-4594-b9ad-ad1b54f07355>	WAYS	<http://www.wikidata.org/entity/Q16888942>
+<urn:uuid:01c665eb-86d3-4594-b9ad-ad1b54f07355>	WAYS	<http://www.wikidata.org/entity/Q7946911>
+<urn:uuid:01c665eb-86d3-4594-b9ad-ad1b54f07355>	Geological Ways and By-Ways	<http://www.wikidata.org/entity/Q58953490>
+<urn:uuid:01c665eb-86d3-4594-b9ad-ad1b54f07355>	The Secret Ways	<http://www.wikidata.org/entity/Q1328227>
+<urn:uuid:01c665eb-86d3-4594-b9ad-ad1b54f07355>	The Five Ways Public House	<http://www.wikidata.org/entity/Q26537975>
+<urn:uuid:01c665eb-86d3-4594-b9ad-ad1b54f07355>	Old ways	<http://www.wikidata.org/entity/Q21055930>
+<urn:uuid:01c665eb-86d3-4594-b9ad-ad1b54f07355>	Five Ways, Birmingham	<http://www.wikidata.org/entity/Q5456184>
+<urn:uuid:01c665eb-86d3-4594-b9ad-ad1b54f07355>	Treatments for combat-related PTSD	<http://www.wikidata.org/entity/Q7836915>
+<urn:uuid:01c665eb-86d3-4594-b9ad-ad1b54f07355>	RSS	<http://www.wikidata.org/entity/Q242158>
+<urn:uuid:01c665eb-86d3-4594-b9ad-ad1b54f07355>	RSS	<http://www.wikidata.org/entity/Q18050995>
+<urn:uuid:01c665eb-86d3-4594-b9ad-ad1b54f07355>	rss	<http://www.wikidata.org/entity/Q29719129>
+<urn:uuid:01c665eb-86d3-4594-b9ad-ad1b54f07355>	** RSS 565B	<http://www.wikidata.org/entity/Q83838215>
+<urn:uuid:01c665eb-86d3-4594-b9ad-ad1b54f07355>	RSS tracking	<http://www.wikidata.org/entity/Q7277767>
+<urn:uuid:01c665eb-86d3-4594-b9ad-ad1b54f07355>	RSS Vigilance	<http://www.wikidata.org/entity/Q7414360>
+<urn:uuid:01c665eb-86d3-4594-b9ad-ad1b54f07355>	RSS Pracharak	<http://www.wikidata.org/entity/Q17065005>
+<urn:uuid:01c665eb-86d3-4594-b9ad-ad1b54f07355>	RSS Steadfast	<http://www.wikidata.org/entity/Q19386005>
+<urn:uuid:01c665eb-86d3-4594-b9ad-ad1b54f07355>	RSS Courageous	<http://www.wikidata.org/entity/Q7277761>
+<urn:uuid:01c665eb-86d3-4594-b9ad-ad1b54f07355>	RSS Victory	<http://www.wikidata.org/entity/Q7414358>
+<urn:uuid:01c665eb-86d3-4594-b9ad-ad1b54f07355>	** RSS 199	<http://www.wikidata.org/entity/Q83790909>
+<urn:uuid:01c665eb-86d3-4594-b9ad-ad1b54f07355>	RSS Endurance	<http://www.wikidata.org/entity/Q7277763>
+<urn:uuid:01c665eb-86d3-4594-b9ad-ad1b54f07355>	RSS Vigour	<http://www.wikidata.org/entity/Q7414364>
+<urn:uuid:01c665eb-86d3-4594-b9ad-ad1b54f07355>	Media RSS	<http://www.wikidata.org/entity/Q3303963>
+<urn:uuid:01c665eb-86d3-4594-b9ad-ad1b54f07355>	RSS editor	<http://www.wikidata.org/entity/Q2124598>
+<urn:uuid:01c665eb-86d3-4594-b9ad-ad1b54f07355>	U	<http://www.wikidata.org/entity/Q76438702>
+<urn:uuid:01c665eb-86d3-4594-b9ad-ad1b54f07355>	U	<http://www.wikidata.org/entity/Q9747>
+<urn:uuid:01c665eb-86d3-4594-b9ad-ad1b54f07355>	U	<http://www.wikidata.org/entity/Q27238095>
+<urn:uuid:01c665eb-86d3-4594-b9ad-ad1b54f07355>	U	<http://www.wikidata.org/entity/Q486806>
+<urn:uuid:01c665eb-86d3-4594-b9ad-ad1b54f07355>	U	<http://www.wikidata.org/entity/Q38278525>
+<urn:uuid:01c665eb-86d3-4594-b9ad-ad1b54f07355>	U	<http://www.wikidata.org/entity/Q7876189>
+<urn:uuid:01c665eb-86d3-4594-b9ad-ad1b54f07355>	U	<http://www.wikidata.org/entity/Q27701>
+<urn:uuid:01c665eb-86d3-4594-b9ad-ad1b54f07355>	U	<http://www.wikidata.org/entity/Q953082>
+<urn:uuid:01c665eb-86d3-4594-b9ad-ad1b54f07355>	U	<http://www.wikidata.org/entity/Q7876188>
+<urn:uuid:01c665eb-86d3-4594-b9ad-ad1b54f07355>	U	<http://www.wikidata.org/entity/Q3547574>
+<urn:uuid:01c665eb-86d3-4594-b9ad-ad1b54f07355>	U	<http://www.wikidata.org/entity/Q18271772>
+<urn:uuid:01c665eb-86d3-4594-b9ad-ad1b54f07355>	U	<http://www.wikidata.org/entity/Q20012313>
+<urn:uuid:01c665eb-86d3-4594-b9ad-ad1b54f07355>	U	<http://www.wikidata.org/entity/Q21717747>
+<urn:uuid:01c665eb-86d3-4594-b9ad-ad1b54f07355>	U	<http://www.wikidata.org/entity/Q11252192>
+<urn:uuid:01c665eb-86d3-4594-b9ad-ad1b54f07355>	U	<http://www.wikidata.org/entity/Q7876186>
+<urn:uuid:01c665eb-86d3-4594-b9ad-ad1b54f07355>	feedback	<http://www.wikidata.org/entity/Q1112294>
+<urn:uuid:01c665eb-86d3-4594-b9ad-ad1b54f07355>	Bang\u2013bang control	<http://www.wikidata.org/entity/Q1432859>
+<urn:uuid:01c665eb-86d3-4594-b9ad-ad1b54f07355>	Pulse-swallowing counter	<http://www.wikidata.org/entity/Q7259629>
+<urn:uuid:01c665eb-86d3-4594-b9ad-ad1b54f07355>	Trance Vibrator	<http://www.wikidata.org/entity/Q74029619>
+<urn:uuid:01c665eb-86d3-4594-b9ad-ad1b54f07355>	Epistemic feedback	<http://www.wikidata.org/entity/Q5383587>
+<urn:uuid:01c665eb-86d3-4594-b9ad-ad1b54f07355>	Site-specific visual feedback reduces pain perception.	<http://www.wikidata.org/entity/Q50714268>
+<urn:uuid:01c665eb-86d3-4594-b9ad-ad1b54f07355>	Internet surveys: obtaining feedback from clinical site coordinators.	<http://www.wikidata.org/entity/Q37153546>
+<urn:uuid:01c665eb-86d3-4594-b9ad-ad1b54f07355>	Using Customer Feedback to Redesigna Corporate Web Site	<http://www.wikidata.org/entity/Q58521000>
+<urn:uuid:01c665eb-86d3-4594-b9ad-ad1b54f07355>	Medallia	<http://www.wikidata.org/entity/Q16951161>
+<urn:uuid:01c665eb-86d3-4594-b9ad-ad1b54f07355>	Shockwave	<http://www.wikidata.org/entity/Q7499938>
+<urn:uuid:01c665eb-86d3-4594-b9ad-ad1b54f07355>	Bio-Vital	<http://www.wikidata.org/entity/Q4914588>
+<urn:uuid:01c665eb-86d3-4594-b9ad-ad1b54f07355>	Overdosing	<http://www.wikidata.org/entity/Q7113625>
+<urn:uuid:01c665eb-86d3-4594-b9ad-ad1b54f07355>	Photofeeler	<http://www.wikidata.org/entity/Q60768323>
+<urn:uuid:01c665eb-86d3-4594-b9ad-ad1b54f07355>	Inyore	<http://www.wikidata.org/entity/Q76822556>
+<urn:uuid:01c665eb-86d3-4594-b9ad-ad1b54f07355>	Reflect in Silence	<http://www.wikidata.org/entity/Q7307219>
+<urn:uuid:01c665eb-86d3-4594-b9ad-ad1b54f07355>	.intuit	<http://www.wikidata.org/entity/Q26989397>
+<urn:uuid:01c665eb-86d3-4594-b9ad-ad1b54f07355>	Intuit	<http://www.wikidata.org/entity/Q16797788>
+<urn:uuid:01c665eb-86d3-4594-b9ad-ad1b54f07355>	Intuit	<http://www.wikidata.org/entity/Q66741965>
+<urn:uuid:01c665eb-86d3-4594-b9ad-ad1b54f07355>	Intuit	<http://www.wikidata.org/entity/Q6059100>
+<urn:uuid:01c665eb-86d3-4594-b9ad-ad1b54f07355>	Intuit	<http://www.wikidata.org/entity/Q1318848>
+<urn:uuid:01c665eb-86d3-4594-b9ad-ad1b54f07355>	Intuit	<http://www.wikidata.org/entity/Q6059097>
+<urn:uuid:01c665eb-86d3-4594-b9ad-ad1b54f07355>	Intuit	<http://www.wikidata.org/entity/Q57518036>
+<urn:uuid:01c665eb-86d3-4594-b9ad-ad1b54f07355>	Intuit India	<http://www.wikidata.org/entity/Q16997242>
+<urn:uuid:01c665eb-86d3-4594-b9ad-ad1b54f07355>	Intuit Canada	<http://www.wikidata.org/entity/Q6059104>
+<urn:uuid:01c665eb-86d3-4594-b9ad-ad1b54f07355>	Intuit Interchange Format	<http://www.wikidata.org/entity/Q6059108>
+<urn:uuid:01c665eb-86d3-4594-b9ad-ad1b54f07355>	Intuit QuickBooks Backup	<http://www.wikidata.org/entity/Q73624536>
+<urn:uuid:01c665eb-86d3-4594-b9ad-ad1b54f07355>	Intuit Money Manager	<http://www.wikidata.org/entity/Q6059112>
+<urn:uuid:01c665eb-86d3-4594-b9ad-ad1b54f07355>	Intuit QuickBooks for Windows	<http://www.wikidata.org/entity/Q73750583>
+<urn:uuid:01c665eb-86d3-4594-b9ad-ad1b54f07355>	INTUIT Hip Fracture Outcome Study	<http://www.wikidata.org/entity/Q64724556>
+<urn:uuid:01c665eb-86d3-4594-b9ad-ad1b54f07355>	William Campbell	<http://www.wikidata.org/entity/Q6321951>
+<urn:uuid:01c665eb-86d3-4594-b9ad-ad1b54f07355>	Liquidar Online	<http://www.wikidata.org/entity/Q64034772>
+<urn:uuid:01c665eb-86d3-4594-b9ad-ad1b54f07355>	Payroll	<http://www.wikidata.org/entity/Q12126893>
+<urn:uuid:01c665eb-86d3-4594-b9ad-ad1b54f07355>	Payroll	<http://www.wikidata.org/entity/Q59434791>
+<urn:uuid:01c665eb-86d3-4594-b9ad-ad1b54f07355>	Payroll Vouchers (NAID 1170456)	<http://www.wikidata.org/entity/Q59934482>
+<urn:uuid:01c665eb-86d3-4594-b9ad-ad1b54f07355>	Payroll Journal (NAID 6210277)	<http://www.wikidata.org/entity/Q66187296>
+<urn:uuid:01c665eb-86d3-4594-b9ad-ad1b54f07355>	Payroll Book (NAID 1450321)	<http://www.wikidata.org/entity/Q66287705>
+<urn:uuid:01c665eb-86d3-4594-b9ad-ad1b54f07355>	Payroll Cards (NAID 2642389)	<http://www.wikidata.org/entity/Q64476441>
+<urn:uuid:01c665eb-86d3-4594-b9ad-ad1b54f07355>	Payroll Vouchers (NAID 7873187)	<http://www.wikidata.org/entity/Q66146547>
+<urn:uuid:01c665eb-86d3-4594-b9ad-ad1b54f07355>	Payroll Records (NAID 4725993)	<http://www.wikidata.org/entity/Q66224738>
+<urn:uuid:01c665eb-86d3-4594-b9ad-ad1b54f07355>	Payroll Records (NAID 34923175)	<http://www.wikidata.org/entity/Q59929049>
+<urn:uuid:01c665eb-86d3-4594-b9ad-ad1b54f07355>	Payroll Books (NAID 4700631)	<http://www.wikidata.org/entity/Q64376506>
+<urn:uuid:01c665eb-86d3-4594-b9ad-ad1b54f07355>	Payroll Records (NAID 2555664)	<http://www.wikidata.org/entity/Q64404089>
+<urn:uuid:01c665eb-86d3-4594-b9ad-ad1b54f07355>	Payroll Journal (NAID 1488950)	<http://www.wikidata.org/entity/Q66286812>
+<urn:uuid:01c665eb-86d3-4594-b9ad-ad1b54f07355>	Payroll Cards (NAID 5049770)	<http://www.wikidata.org/entity/Q66218081>
+<urn:uuid:01c665eb-86d3-4594-b9ad-ad1b54f07355>	Employee Payroll (NAID 83740222)	<http://www.wikidata.org/entity/Q59927405>
+<urn:uuid:01c665eb-86d3-4594-b9ad-ad1b54f07355>	check	<http://www.wikidata.org/entity/Q14290457>
+<urn:uuid:01c665eb-86d3-4594-b9ad-ad1b54f07355>	Checks (NAID 6853598)	<http://www.wikidata.org/entity/Q66175443>
+<urn:uuid:01c665eb-86d3-4594-b9ad-ad1b54f07355>	Checks (NAID 1271528)	<http://www.wikidata.org/entity/Q67210789>
+<urn:uuid:01c665eb-86d3-4594-b9ad-ad1b54f07355>	Barcode checks.	<http://www.wikidata.org/entity/Q53135031>
+<urn:uuid:01c665eb-86d3-4594-b9ad-ad1b54f07355>	Body Checks	<http://www.wikidata.org/entity/Q17576686>
+<urn:uuid:01c665eb-86d3-4594-b9ad-ad1b54f07355>	Barcode checks.	<http://www.wikidata.org/entity/Q43712964>
+<urn:uuid:01c665eb-86d3-4594-b9ad-ad1b54f07355>	Manipulation checks	<http://www.wikidata.org/entity/Q17125335>
+<urn:uuid:01c665eb-86d3-4594-b9ad-ad1b54f07355>	Plaster checks.	<http://www.wikidata.org/entity/Q43176973>
+<urn:uuid:01c665eb-86d3-4594-b9ad-ad1b54f07355>	Spot checks	<http://www.wikidata.org/entity/Q79783673>
+<urn:uuid:01c665eb-86d3-4594-b9ad-ad1b54f07355>	Bounced Checks	<http://www.wikidata.org/entity/Q1761475>
+<urn:uuid:01c665eb-86d3-4594-b9ad-ad1b54f07355>	Reality checks	<http://www.wikidata.org/entity/Q73124488>
+<urn:uuid:01c665eb-86d3-4594-b9ad-ad1b54f07355>	Institutional Checks	<http://www.wikidata.org/entity/Q57572808>
+<urn:uuid:01c665eb-86d3-4594-b9ad-ad1b54f07355>	Nonresponse checks	<http://www.wikidata.org/entity/Q80587478>
+<urn:uuid:01c665eb-86d3-4594-b9ad-ad1b54f07355>	The Checks	<http://www.wikidata.org/entity/Q7722276>
+<urn:uuid:01c665eb-86d3-4594-b9ad-ad1b54f07355>	The Checks	<http://www.wikidata.org/entity/Q7722277>
+<urn:uuid:01c665eb-86d3-4594-b9ad-ad1b54f07355>	Featured Collection Introduction: Water for Megacities - Challenges and Solutions	<http://www.wikidata.org/entity/Q58385868>
+<urn:uuid:01c665eb-86d3-4594-b9ad-ad1b54f07355>	Line Friends	<http://www.wikidata.org/entity/Q24859550>
+<urn:uuid:01c665eb-86d3-4594-b9ad-ad1b54f07355>	Building secure products and solutions	<http://www.wikidata.org/entity/Q59447020>
+<urn:uuid:01c665eb-86d3-4594-b9ad-ad1b54f07355>	Sony Imaging Products & Solutions Inc.	<http://www.wikidata.org/entity/Q30927547>
+<urn:uuid:01c665eb-86d3-4594-b9ad-ad1b54f07355>	Featured organism: Drosophila melanogaster.	<http://www.wikidata.org/entity/Q36750367>
+<urn:uuid:01c665eb-86d3-4594-b9ad-ad1b54f07355>	Featured System Archaeal Lipids	<http://www.wikidata.org/entity/Q59345695>
+<urn:uuid:01c665eb-86d3-4594-b9ad-ad1b54f07355>	Why feature featured research?	<http://www.wikidata.org/entity/Q53390686>
+<urn:uuid:01c665eb-86d3-4594-b9ad-ad1b54f07355>	Featured organism: Arabidopsis thaliana.	<http://www.wikidata.org/entity/Q36748232>
+<urn:uuid:01c665eb-86d3-4594-b9ad-ad1b54f07355>	Featured Expert Commentary and Review	<http://www.wikidata.org/entity/Q58823424>
+<urn:uuid:01c665eb-86d3-4594-b9ad-ad1b54f07355>	Dentistry featured on \"Romper Room\"	<http://www.wikidata.org/entity/Q70910317>
+<urn:uuid:01c665eb-86d3-4594-b9ad-ad1b54f07355>	Featured Graphic. The Human Planet	<http://www.wikidata.org/entity/Q67229958>
+<urn:uuid:01c665eb-86d3-4594-b9ad-ad1b54f07355>	Scientist featured in mountaineering flick	<http://www.wikidata.org/entity/Q81068638>
+<urn:uuid:01c665eb-86d3-4594-b9ad-ad1b54f07355>	featured article	<http://www.wikidata.org/entity/Q17437796>
+<urn:uuid:01c665eb-86d3-4594-b9ad-ad1b54f07355>	United States Senate Featured Biographies	<http://www.wikidata.org/entity/Q55869099>
+<urn:uuid:01c665eb-86d3-4594-b9ad-ad1b54f07355>	contributing writers	<http://www.wikidata.org/entity/Q76286809>
+<urn:uuid:02551490-a797-4719-a6e7-c6945e4bdd52>	Weaving a Social Data Web with Semantic Pingback	<http://www.wikidata.org/entity/Q66710745>
+<urn:uuid:02551490-a797-4719-a6e7-c6945e4bdd52>	Apache	<http://www.wikidata.org/entity/Q2522433>
+<urn:uuid:02551490-a797-4719-a6e7-c6945e4bdd52>	APACHE	<http://www.wikidata.org/entity/Q74128105>
+<urn:uuid:02551490-a797-4719-a6e7-c6945e4bdd52>	Disparity in outcome prediction between APACHE II, APACHE III and APACHE IV.	<http://www.wikidata.org/entity/Q45768206>
+<urn:uuid:02551490-a797-4719-a6e7-c6945e4bdd52>	Apache	<http://www.wikidata.org/entity/Q37493973>
+<urn:uuid:02551490-a797-4719-a6e7-c6945e4bdd52>	Apache	<http://www.wikidata.org/entity/Q50824960>
+<urn:uuid:02551490-a797-4719-a6e7-c6945e4bdd52>	Apache	<http://www.wikidata.org/entity/Q17395>
+<urn:uuid:02551490-a797-4719-a6e7-c6945e4bdd52>	Apache	<http://www.wikidata.org/entity/Q207339>
+<urn:uuid:02551490-a797-4719-a6e7-c6945e4bdd52>	Apache	<http://www.wikidata.org/entity/Q3702326>
+<urn:uuid:02551490-a797-4719-a6e7-c6945e4bdd52>	Apache	<http://www.wikidata.org/entity/Q328644>
+<urn:uuid:02551490-a797-4719-a6e7-c6945e4bdd52>	Apache	<http://www.wikidata.org/entity/Q27898807>
+<urn:uuid:02551490-a797-4719-a6e7-c6945e4bdd52>	Apache	<http://www.wikidata.org/entity/Q616563>
+<urn:uuid:02551490-a797-4719-a6e7-c6945e4bdd52>	Apache	<http://www.wikidata.org/entity/Q13889560>
+<urn:uuid:02551490-a797-4719-a6e7-c6945e4bdd52>	Apache	<http://www.wikidata.org/entity/Q4778882>
+<urn:uuid:02551490-a797-4719-a6e7-c6945e4bdd52>	Apache	<http://www.wikidata.org/entity/Q4778885>
+<urn:uuid:02551490-a797-4719-a6e7-c6945e4bdd52>	Super Bowl Sunday	<http://www.wikidata.org/entity/Q48744118>
+<urn:uuid:02551490-a797-4719-a6e7-c6945e4bdd52>	Super Bowl	<http://www.wikidata.org/entity/Q51159462>
+<urn:uuid:02551490-a797-4719-a6e7-c6945e4bdd52>	Super Bowl	<http://www.wikidata.org/entity/Q51263859>
+<urn:uuid:02551490-a797-4719-a6e7-c6945e4bdd52>	Super Bowl Contenders	<http://www.wikidata.org/entity/Q47512679>
+<urn:uuid:02551490-a797-4719-a6e7-c6945e4bdd52>	Super Bowl celebrations.	<http://www.wikidata.org/entity/Q50747443>
+<urn:uuid:02551490-a797-4719-a6e7-c6945e4bdd52>	Super Bowl Sunday	<http://www.wikidata.org/entity/Q51570453>
+<urn:uuid:02551490-a797-4719-a6e7-c6945e4bdd52>	Super Bowl safety.	<http://www.wikidata.org/entity/Q42070260>
+<urn:uuid:02551490-a797-4719-a6e7-c6945e4bdd52>	Super Bowl Watch Party	<http://www.wikidata.org/entity/Q66498542>
+<urn:uuid:02551490-a797-4719-a6e7-c6945e4bdd52>	The Super Bowl doctor.	<http://www.wikidata.org/entity/Q48374451>
+<urn:uuid:02551490-a797-4719-a6e7-c6945e4bdd52>	Super Bowl	<http://www.wikidata.org/entity/Q20671274>
+<urn:uuid:02551490-a797-4719-a6e7-c6945e4bdd52>	Super Bowl	<http://www.wikidata.org/entity/Q18612009>
+<urn:uuid:02551490-a797-4719-a6e7-c6945e4bdd52>	Super Bowl	<http://www.wikidata.org/entity/Q32096>
+<urn:uuid:02551490-a797-4719-a6e7-c6945e4bdd52>	Super Bowl	<http://www.wikidata.org/entity/Q3977548>
+<urn:uuid:02551490-a797-4719-a6e7-c6945e4bdd52>	Food and the Super Bowl	<http://www.wikidata.org/entity/Q77642606>
+<urn:uuid:02551490-a797-4719-a6e7-c6945e4bdd52>	Harvard takes math super bowl	<http://www.wikidata.org/entity/Q81130925>
+<urn:uuid:02551490-a797-4719-a6e7-c6945e4bdd52>	Indianapolis	<http://www.wikidata.org/entity/Q6023765>
+<urn:uuid:02551490-a797-4719-a6e7-c6945e4bdd52>	Indianapolis Speedway	<http://www.wikidata.org/entity/Q14775276>
+<urn:uuid:02551490-a797-4719-a6e7-c6945e4bdd52>	Indianapolis Monthly	<http://www.wikidata.org/entity/Q6023890>
+<urn:uuid:02551490-a797-4719-a6e7-c6945e4bdd52>	Motorcyclist--Indianapolis	<http://www.wikidata.org/entity/Q64165122>
+<urn:uuid:02551490-a797-4719-a6e7-c6945e4bdd52>	Hearse--Indianapolis	<http://www.wikidata.org/entity/Q64165117>
+<urn:uuid:02551490-a797-4719-a6e7-c6945e4bdd52>	Indianapolis Journal	<http://www.wikidata.org/entity/Q13435742>
+<urn:uuid:02551490-a797-4719-a6e7-c6945e4bdd52>	Indianapolis Recorder	<http://www.wikidata.org/entity/Q16996897>
+<urn:uuid:02551490-a797-4719-a6e7-c6945e4bdd52>	Indianapolis Times	<http://www.wikidata.org/entity/Q6023938>
+<urn:uuid:02551490-a797-4719-a6e7-c6945e4bdd52>	Park--Indianapolis	<http://www.wikidata.org/entity/Q64165118>
+<urn:uuid:02551490-a797-4719-a6e7-c6945e4bdd52>	Buildings--Indianapolis	<http://www.wikidata.org/entity/Q64165119>
+<urn:uuid:02551490-a797-4719-a6e7-c6945e4bdd52>	Indianapolis Freeman	<http://www.wikidata.org/entity/Q6023854>
+<urn:uuid:02551490-a797-4719-a6e7-c6945e4bdd52>	Indianapolis	<http://www.wikidata.org/entity/Q16983566>
+<urn:uuid:02551490-a797-4719-a6e7-c6945e4bdd52>	Indianapolis	<http://www.wikidata.org/entity/Q6023770>
+<urn:uuid:02551490-a797-4719-a6e7-c6945e4bdd52>	Indianapolis	<http://www.wikidata.org/entity/Q403846>
+<urn:uuid:02551490-a797-4719-a6e7-c6945e4bdd52>	Indianapolis	<http://www.wikidata.org/entity/Q6346>
+<urn:uuid:02551490-a797-4719-a6e7-c6945e4bdd52>	Playboy	<http://www.wikidata.org/entity/Q20484358>
+<urn:uuid:02551490-a797-4719-a6e7-c6945e4bdd52>	Tim	<http://www.wikidata.org/entity/Q546256>
+<urn:uuid:02551490-a797-4719-a6e7-c6945e4bdd52>	Tim	<http://www.wikidata.org/entity/Q7803065>
+<urn:uuid:02551490-a797-4719-a6e7-c6945e4bdd52>	Tim	<http://www.wikidata.org/entity/Q62844414>
+<urn:uuid:02551490-a797-4719-a6e7-c6945e4bdd52>	Tim-Tim	<http://www.wikidata.org/entity/Q6587474>
+<urn:uuid:02551490-a797-4719-a6e7-c6945e4bdd52>	Tim Tim	<http://www.wikidata.org/entity/Q1707990>
+<urn:uuid:02551490-a797-4719-a6e7-c6945e4bdd52>	TIM-4 is the ligand for TIM-1, and the TIM-1-TIM-4 interaction regulates T cell proliferation.	<http://www.wikidata.org/entity/Q51818425>
+<urn:uuid:02551490-a797-4719-a6e7-c6945e4bdd52>	Tim Palmer	<http://www.wikidata.org/entity/Q71872282>
+<urn:uuid:02551490-a797-4719-a6e7-c6945e4bdd52>	Tim Maia	<http://www.wikidata.org/entity/Q17169009>
+<urn:uuid:02551490-a797-4719-a6e7-c6945e4bdd52>	Tim Birkhead.	<http://www.wikidata.org/entity/Q48300596>
+<urn:uuid:02551490-a797-4719-a6e7-c6945e4bdd52>	Pastor Tim	<http://www.wikidata.org/entity/Q50401139>
+<urn:uuid:02551490-a797-4719-a6e7-c6945e4bdd52>	Tim Wright	<http://www.wikidata.org/entity/Q58978731>
+<urn:uuid:02551490-a797-4719-a6e7-c6945e4bdd52>	Tim Whiffler	<http://www.wikidata.org/entity/Q52154727>
+<urn:uuid:02551490-a797-4719-a6e7-c6945e4bdd52>	Tim Cullinan.	<http://www.wikidata.org/entity/Q55505415>
+<urn:uuid:02551490-a797-4719-a6e7-c6945e4bdd52>	Tim White.	<http://www.wikidata.org/entity/Q46119736>
+<urn:uuid:02551490-a797-4719-a6e7-c6945e4bdd52>	Tim Chard.	<http://www.wikidata.org/entity/Q50431931>
+<urn:uuid:02551490-a797-4719-a6e7-c6945e4bdd52>	Jim Carrey	<http://www.wikidata.org/entity/Q40504>
+<urn:uuid:02551490-a797-4719-a6e7-c6945e4bdd52>	Jim Carrey filmography	<http://www.wikidata.org/entity/Q12728283>
+<urn:uuid:02551490-a797-4719-a6e7-c6945e4bdd52>	Cold Dead Hand	<http://www.wikidata.org/entity/Q16949795>
+<urn:uuid:02551490-a797-4719-a6e7-c6945e4bdd52>	Category:Images of Jim Carrey	<http://www.wikidata.org/entity/Q60813036>
+<urn:uuid:02551490-a797-4719-a6e7-c6945e4bdd52>	Category:Films starring Jim Carrey	<http://www.wikidata.org/entity/Q32892400>
+<urn:uuid:02551490-a797-4719-a6e7-c6945e4bdd52>	el cuento del boludo asesinado como en el libro que lee	<http://www.wikidata.org/entity/Q5785074>
+<urn:uuid:02551490-a797-4719-a6e7-c6945e4bdd52>	Carrey	<http://www.wikidata.org/entity/Q37435654>
+<urn:uuid:02551490-a797-4719-a6e7-c6945e4bdd52>	Carrey	<http://www.wikidata.org/entity/Q41775846>
+<urn:uuid:02551490-a797-4719-a6e7-c6945e4bdd52>	Carrey	<http://www.wikidata.org/entity/Q1044974>
+<urn:uuid:02551490-a797-4719-a6e7-c6945e4bdd52>	list of awards and nominations received by Jim Carrey	<http://www.wikidata.org/entity/Q17097418>
+<urn:uuid:02551490-a797-4719-a6e7-c6945e4bdd52>	\u00C9mile Carrey	<http://www.wikidata.org/entity/Q3588394>
+<urn:uuid:02551490-a797-4719-a6e7-c6945e4bdd52>	Kathleen Carrey	<http://www.wikidata.org/entity/Q42720450>
+<urn:uuid:02551490-a797-4719-a6e7-c6945e4bdd52>	R Carrey	<http://www.wikidata.org/entity/Q57908304>
+<urn:uuid:02551490-a797-4719-a6e7-c6945e4bdd52>	\u00CElot Carrey	<http://www.wikidata.org/entity/Q34793768>
+<urn:uuid:02551490-a797-4719-a6e7-c6945e4bdd52>	Jane Carrey	<http://www.wikidata.org/entity/Q27445213>
+<urn:uuid:02551490-a797-4719-a6e7-c6945e4bdd52>	Krepelka	<http://www.wikidata.org/entity/Q36940915>
+<urn:uuid:02551490-a797-4719-a6e7-c6945e4bdd52>	Paul Signac (Portrait de Paul Signac)	<http://www.wikidata.org/entity/Q65019182>
+<urn:uuid:02551490-a797-4719-a6e7-c6945e4bdd52>	Paul	<http://www.wikidata.org/entity/Q1164753>
+<urn:uuid:02551490-a797-4719-a6e7-c6945e4bdd52>	Paul	<http://www.wikidata.org/entity/Q19918688>
+<urn:uuid:02551490-a797-4719-a6e7-c6945e4bdd52>	Paul	<http://www.wikidata.org/entity/Q28554009>
+<urn:uuid:02551490-a797-4719-a6e7-c6945e4bdd52>	Paul	<http://www.wikidata.org/entity/Q74040457>
+<urn:uuid:02551490-a797-4719-a6e7-c6945e4bdd52>	Paul	<http://www.wikidata.org/entity/Q64155684>
+<urn:uuid:02551490-a797-4719-a6e7-c6945e4bdd52>	Paul	<http://www.wikidata.org/entity/Q64155863>
+<urn:uuid:02551490-a797-4719-a6e7-c6945e4bdd52>	Paul from Christ, the Apostles, and Saint Paul (2017.277.2)	<http://www.wikidata.org/entity/Q79873900>
+<urn:uuid:02551490-a797-4719-a6e7-c6945e4bdd52>	Paul Hennings	<http://www.wikidata.org/entity/Q56519240>
+<urn:uuid:02551490-a797-4719-a6e7-c6945e4bdd52>	Paul CHEVALLIER.	<http://www.wikidata.org/entity/Q52964872>
+<urn:uuid:02551490-a797-4719-a6e7-c6945e4bdd52>	[Paul Voivenel].	<http://www.wikidata.org/entity/Q52373843>
+<urn:uuid:02551490-a797-4719-a6e7-c6945e4bdd52>	Paul Jannasch	<http://www.wikidata.org/entity/Q61699674>
+<urn:uuid:02551490-a797-4719-a6e7-c6945e4bdd52>	Paul Simon	<http://www.wikidata.org/entity/Q370482>
+<urn:uuid:02551490-a797-4719-a6e7-c6945e4bdd52>	Paul IV	<http://www.wikidata.org/entity/Q20634612>

@@ -14,13 +14,13 @@
 ## packages
 import html2text
 from bs4 import BeautifulSoup
-
+import multiprocessing
 class Clean:
     # class information
     input_ = "str:html"
     output_ = "str:clean"
 
-    def __init__(self, option = 1) -> None:
+    def __init__(self, option = 2) -> None:
         """
         Initialisation function\n
         Input: \n
@@ -40,16 +40,13 @@ class Clean:
         Output: \n
         \t(mostly) cleaned text (in terms of html lingo)
         """
-        if self.option == 1:
-            print(html2text.html2text(str(text)))
-            return html2text.html2text(str(text))
-        elif self.option == 2:
-            return BeautifulSoup(text, features="html.parser").get_text()
+        if self.option == 1:    return html2text.html2text(str(text))
+        elif self.option == 2:  return BeautifulSoup(text, features="html.parser").get_text()
         # elif #ption == 3:
             #maybe make some custom parser with regex or some other package#
         pass 
     
-    def _forward(self, instance):
+    def _forward(self, records):
         """
         Dummy function for streamlining the pipeline\n
         Input: \n
@@ -60,5 +57,11 @@ class Clean:
         # this is used by the pipeline
         # make sure this returns the acceptable output
         # it seems redudant but _forward is universal parse functions in the pipeline
-        instance['text'] = self.clean(instance['html_text'])
-        return instance
+        print("--> Cleaning HTML-text <--")
+        with multiprocessing.Pool(records['n_threads']) as p:
+                temp = p.map(self.clean, records['html_text'] )
+        print("<STATUS: DONE>\n")
+        records['text'] = temp
+
+        return records
+
