@@ -39,7 +39,7 @@ We assume that Elasticsearch and Trident are installed locally (we build from th
    
   4) At last, to run the main script with default settings (as described above) run the following command:  
   `python3 linking/main.py` <br>
-  Use the arguments to change input or output file(names). See main.py or above for the arguments and there values.
+  Use the arguments to change input or output file(names). See main.py or above for the arguments and their values.
 
 <!-- #2) Run the container and add volume (run below in powershell) (example below)
 # we assume that elasticsearch and trident are local
