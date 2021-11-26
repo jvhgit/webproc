@@ -65,4 +65,3 @@ results = searcher.search(entities)
 
 for result in results:
     print(result)
-

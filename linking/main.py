@@ -61,9 +61,6 @@ if __name__ == '__main__':
     parser.add_argument('--search_ES', type=str, default="normal",
                         help="Please do not alter this - the 'fast' implementation is very buggy.", choices=['normal','fast'])
 
-    # parser.add_argument('--search_ES', type=str, default="normal",
-    #                     help="Please do not alter this - the 'fast' implementation is very buggy.", choices=['normal','fast'])
-
     parser.add_argument('--batch_size_NER', type=int, default=8,
                         help="The NER model parses n samples in parallel.\nWe found 8 to be the best value (on 8 threads, intel i7, 16gb RAM)")
     

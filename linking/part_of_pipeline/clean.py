@@ -1,15 +1,14 @@
 ### AUTHORS ###
 ## Clifton Roozendal
-## Eduard Bosch
 ## Floris ten Lohuis
 ## Jens van Holland
 
 ## Version: 1.0.0
-## Date: 16-11-2021
+## Date: 26-11-2021
 ## Course: Web Data Processing Systems
 
 ### DESCRIPTION ###
-#Clean class for cleaning html text with bs4 for example.
+#Clean class for cleaning html text with bs4 or html2text
 
 ## packages
 import html2text

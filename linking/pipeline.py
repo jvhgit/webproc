@@ -1,11 +1,10 @@
 ### AUTHORS ###
 ## Clifton Roozendal
-## Eduard Bosch
 ## Floris ten Lohuis
 ## Jens van Holland
 
 ## Version: 1.0.0
-## Date: 16-11-2021
+## Date: 26-11-2021
 ## Course: Web Data Processing Systems
 
 ### DESCRIPTION ###
@@ -123,7 +122,7 @@ class Pipeline:
 
         if type(args.data_dir) == None:
             return "Not a valid input (None)."
-        i = 0 #for testing
+
         print("--> Reading warc.gz file <--")
         with gzip.open(args.data_dir, 'rt', errors='ignore') as fo:
             # id_records = {id_: {"html_text": rec, "search" : 'fast'} for id_, rec in self._split_records(fo)}
@@ -131,9 +130,9 @@ class Pipeline:
             records = { 
                 "id" : [], 
                 "html_text" : [], 
-                "search_ES" : 'normal',    #make commandline arg
+                "search_ES" : args.search_ES,
                 "query_size_ES" : args.query_size_ES,
-                "batch_size_NER": args.batch_size_NER,   #make commandline arg
+                "batch_size_NER": args.batch_size_NER,
                 "n_threads" : args.n_threads,
                 "sim_cutoff_NER": args.sim_cutoff_NER,
                 "n_hits_EL": args.n_hits_EL

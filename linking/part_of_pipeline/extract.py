@@ -4,17 +4,15 @@
 ## Jens van Holland
 
 ## Version: 1.0.0
-## Date: 16-11-2021
+## Date: 26-11-2021
 ## Course: Web Data Processing Systems
 
 ### DESCRIPTION ###
 ## Extract class, extracts the enities from given text
 
 ## packages
-import multiprocessing
 import spacy
 import re
-import time
 import pandas as pd
 import difflib
 
@@ -98,7 +96,6 @@ class Extract:
         #filters/cleans the found entities
         data = data[~data.labels.isin(self.blacklist_ne)].dropna().reset_index(drop = True) #remove ents of specific types
         data.ents = data.ents.astype(str) #cast from spacy.Span to str
-        # data = data.drop_duplicates(['ids', 'ents']).reset_index(drop = True) #drop whole row duplicates
         data = data.drop_duplicates().reset_index(drop = True) #drop whole row duplicates
         data.ents = data.ents.apply(self._clean_entity) #some regex to remove some specific chars
         temp = []

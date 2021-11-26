@@ -4,7 +4,7 @@
 ## Jens van Holland
 
 ## Version: 1.0.1
-## Date: 21-11-2021
+## Date: 26-11-2021
 ## Course: Web Data Processing Systems
 
 ### DESCRIPTION ###
@@ -38,25 +38,10 @@ class Search:
         self.return_n_results = n_results
         self.query_increment_size = query_increment_size
         pass
-    
-    ## MOVE THIS TO extract.py ! ##
-    # def _remove(self, amb_entities):
-    #     """
-    #     Removes obviously wrong entities (doubles, single characters, weird characters?) \n
-    #     Input: \n
-    #     \t amb_entities: (list) a list of entities\n
-    #     Output: \n
-    #     \tam_entities
-    #     """
-
-    #     #
-    #     temp_result = list(set(amb_entities)) #property of set is no doubles allowed->than cast to list again
-
-    #     return temp_result
 
     async def _search(self, query):
         """
-        Removes obviously wrong entities (doubles, single characters, weird characters?) \n
+        Searches a list of given entities  \n
         Input: \n
         \t amb_entities: (list) a list of entities\n
         Output: \n
@@ -91,7 +76,7 @@ class Search:
 
     def fastsearch(self, amb_entities):
         """
-        Removes obviously wrong entities (doubles, single characters, weird characters?) \n
+        Searches a list of given entities asynchronous (development mode - not stable) \n
         Input: \n
         \t amb_entities: (list) a list of entities\n
         Output: \n
