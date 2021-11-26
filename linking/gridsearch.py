@@ -48,7 +48,7 @@ extractOptions = ["en_core_web_sm","en_core_web_lg"]
 
 #Paths
 gold_file = ""
-output_folder = "D:/University/Web Data Processing Systems/Data/assignment-all-splitted/assignment-all-splitted/assignment/results/"
+output_folder = ""
 gridsearch_output_file = output_folder + "gridsearch_outcomes.csv"
 
 ## CODE
