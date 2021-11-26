@@ -73,6 +73,9 @@ if __name__ == '__main__':
     parser.add_argument('--n_hits_EL', type=int, default=3,
                         help="Does nothing (NOT IMPLEMENTED)")
 
+    parser.add_argument('--save_to', type=str, default="results.txt",
+                        help="File name where the output should be written to")
+
     FLAGS, _ = parser.parse_known_args() #unparsed = _
 
     #building the pipeline
