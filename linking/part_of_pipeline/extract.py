@@ -3,8 +3,8 @@
 ## Floris ten Lohuis
 ## Jens van Holland
 
-## Version: 1.0.0
-## Date: 26-11-2021
+## Version: 1.1.0
+## Date: 19-12-2021
 ## Course: Web Data Processing Systems
 
 ### DESCRIPTION ###
@@ -15,13 +15,15 @@ import spacy
 import re
 import pandas as pd
 import difflib
+import time
+import multiprocessing
 
 class Extract:
     # class information
     input_ = "str:clean"
     output_ = "list:amb_entities"
 
-    def __init__(self, nlp_model = 'en_core_web_sm', blacklist_ne = ["CARDINAL", "DATE", "TIME", "MONEY", "PERCENT", "QUANTITY", "ORDINAL"] ) -> None:
+    def __init__(self, nlp_model = 'en_core_web_sm', sim_cutoff_NER=0.35, blacklist_ne_label = ["CARDINAL", "DATE", "TIME", "MONEY", "PERCENT", "QUANTITY", "ORDINAL"], blacklist_ne = [""," ", "GMT Server","GMT",] ) -> None:
         """
         Initialisation function\n
         Input: \n
@@ -31,7 +33,9 @@ class Extract:
         \tNone
         """
         self.nlp = spacy.load(nlp_model)
+        self.sim_cutoff_NER = sim_cutoff_NER
         # self.nlp.get_pipe('ner').moves.prohibit_action(u'U-DATE')
+        self.blacklist_ne_label = blacklist_ne_label
         self.blacklist_ne = blacklist_ne
 
         pass
@@ -50,12 +54,35 @@ class Extract:
         entity = re.sub(r"\s{1,}", " ", entity)
         return entity
 
-    def _get_ents(self, label):  
-        if label in self.blacklist_ne: 
-            return None
-        return label
+    def _extract_entities(self, doc):
+        """
+        Cleans an entity using regex rules\n
+        TODO:extend rules 
+        Input: \n
+        \t doc: (str) doc found by the nlp extraction \n
+        Output: \n
+        \tCleaned list of entities
+        """
+        ents_doc = []
+        for ent in doc.ents:
+            if ent.label_ not in self.blacklist_ne_label:
+                ent_str = self._clean_entity(str(ent))
+                if ent_str not in self.blacklist_ne and ent_str not in ents_doc and len(difflib.get_close_matches(ent_str, ents_doc, cutoff=self.sim_cutoff_NER)) == 0:
+                    ents_doc.append(ent_str)
+        return ents_doc
 
-    def extract(self, corpus, ids, batch_size =8, n_threads = 1, sim_cutoff_NER = 0.35):
+    # def _extract_entities_single(self, string):
+    #     ents_doc = []
+    #     doc = self.nlp(string)
+    #     for ent in doc.ents:
+    #         if ent.label_ not in self.blacklist_ne_label:
+    #             ent_str = self._clean_entity(str(ent))
+    #             if ent_str not in self.blacklist_ne and ent_str not in ents_doc and len(difflib.get_close_matches(ent_str, ents_doc, cutoff=self.sim_cutoff_NER)) == 0:
+    #                 ents_doc.append(ent_str)
+    #     return ents_doc
+
+
+    def extract(self, corpus, ids, batch_size =8, n_threads = 1):
         """
         Extracts the entities of a given text using Spacy model\n
         Input: \n
@@ -63,57 +90,58 @@ class Extract:
         Output: \n
         \tlist of (cleaned) entities
         """
-        # print(len(corpus))
+
         #for computationally benefit, we only use the NER of the spacy pipe line so we disable everything else
         #do not set n_process = -1!!
         #below returns generator works best with batch_size of 8
         docs = self.nlp.pipe(corpus, n_process = n_threads ,disable=["tok2vec", "tagger", "parser", "attribute_ruler", "lemmatizer"], batch_size=batch_size)
-        num_docs = len(corpus)
+        
+        #single threaded
+        start = time.time()
 
-        ents,labels = [], []
         i = 0
+        num_docs = len(corpus)
+        ents = []
         for doc in docs:
-            # print("OK")
-            ents.append(list(doc.ents))
-            labels.append(list(map(lambda ent: ent.label_, doc.ents )))
             i+=1
             if i %100 ==0:
-                print(f"\t Processed {i}/{num_docs} documents")
-        print(f"\t Processed {num_docs}/{num_docs} documents")
+                print(f"\t Extracted entities for {i}/{num_docs} documents")
+            ents.append(self._extract_entities(doc))
 
-        #make dataframe with found entities and entities types    
+        sec = round(time.time() - start)
+        print(f"\t NER completed in {sec} seconds ")
+
+        # Multi-threading was not faster in this case...
+
+        # #multi threaded
+        # start = time.time()
+        # with multiprocessing.Pool(n_threads) as p:
+        #     ents = p.map(self._extract_entities, docs)
+        # sec = round(time.time() - start)
+        # print(f"\t NER multi-threaded completed in {sec} seconds ")
+
+        # #multi threaded 2
+        # start = time.time()
+        # with multiprocessing.Pool(n_threads) as p:
+        #     ents = p.map(self._extract_entities_single, corpus)
+        # sec = round(time.time() - start)
+        # print(f"\t NER multi-threaded completed in {sec} seconds ")
+
+        # sec = round(time.time() - start)
+        # print(f"\t NER completed in {sec} seconds ")
+
+        # make dataframe with found entities and entities types    
         data = pd.DataFrame(
             {
                 "ents" : ents, 
-                "labels" : labels,
                 "ids":ids
             }
         )
 
         #unpack the lists in the pandas columns
         data = data.set_index(['ids']).apply(pd.Series.explode).reset_index()
-        
-        #filters/cleans the found entities
-        data = data[~data.labels.isin(self.blacklist_ne)].dropna().reset_index(drop = True) #remove ents of specific types
-        data.ents = data.ents.astype(str) #cast from spacy.Span to str
-        data = data.drop_duplicates().reset_index(drop = True) #drop whole row duplicates
-        data.ents = data.ents.apply(self._clean_entity) #some regex to remove some specific chars
-        temp = []
-        i = 0
-        for _, g in data.groupby('ids'): #can be run in parallel but no implementation time!
-            i+=1
-            if i %100 ==0:
-                print(f"\t Cross-referenced entities for {i}/{num_docs} documents")
-            g['temp_id'] = list(range(len(g)))
-            #code below compares n! times per document with n entities 
-            #its removes when certain threshold is met - this is to reduce computation /query time
-            g['text_similar'] = g.temp_id.apply(lambda row: len(difflib.get_close_matches(g[g.temp_id == row].ents.values[0], list(g[g.temp_id > row].ents), cutoff = sim_cutoff_NER)) > 0)
-            temp.append(g)
 
-        data = temp[0].append(temp[1:])
-        data = data[data.text_similar == False].reset_index(drop = True)
-        return data[['ids', 'ents']]
-
+        return data
  
     def _forward(self, records):
         """
@@ -125,18 +153,18 @@ class Extract:
         """
         # this is used by the pipeline
         # make sure this returns the acceptable output
-        # it seems redudant but _forward is universal parse functions in the pipeline
+        #  i
+        # *t seems redudant but _forward is universal parse functions in the pipeline
         print("--> Extracting entities from text <--")
-        records['amb_entities'] = self.extract(
+        extracted = self.extract(
             corpus = records['text'], 
             ids = records['id'], 
             batch_size = records['batch_size_NER'],
-            n_threads=records['n_threads'],
-            sim_cutoff_NER=records['sim_cutoff_NER'])
+            n_threads=records['n_threads'])
+
+        extracted.to_csv('/app/assignment/results/extracted_results.csv')
+
+        records['amb_entities'] = extracted
 
         print("<STATUS: DONE>\n")
         return records
-
-
-
-

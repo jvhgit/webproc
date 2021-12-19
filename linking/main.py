@@ -65,11 +65,11 @@ if __name__ == '__main__':
     parser.add_argument('--batch_size_NER', type=int, default=8,
                         help="The NER model parses n samples in parallel.\nWe found 8 to be the best value (on 8 threads, intel i7, 16gb RAM)")
 
-    parser.add_argument('--n_threads', type=int, default=8,
+    parser.add_argument('--n_threads', type=int, default=4,
                         help="The number of threads to use.\nPlease be carefull - do not set to -1, this will go wrong(!). ")
 
     parser.add_argument('--sim_cutoff_NER', type=float, default=0.35,
-                        help="To reduce the number of queries = entities, we compute similarity.cross-referencing scores (no time to implement that in parallel) and use a threshold (last one is kept). ")
+                        help="To reduce the number of queries = entities, we compute similarity.cross-referencing scores and use a threshold (last one is kept). ")
 
     parser.add_argument('--n_hits_EL', type=int, default=3,
                         help="Does nothing (NOT IMPLEMENTED)")
@@ -83,7 +83,7 @@ if __name__ == '__main__':
     pipeline = Pipeline()
     pipeline.add(name="clean-text", part=Clean(option=FLAGS.clean_text))
     pipeline.add(name="extract-entity",
-                 part=Extract(nlp_model=FLAGS.extract_model))
+                 part=Extract(nlp_model=FLAGS.extract_model,sim_cutoff_NER=FLAGS.sim_cutoff_NER))
     pipeline.add(name="search-entity", part=Search())
     # basically an empty class but we did put effor into it
     pipeline.add(name="disambiguate-text", part=Decision())
