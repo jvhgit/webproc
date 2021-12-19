@@ -34,9 +34,10 @@ class Search:
         \tNone
         """
         self.e = Elasticsearch()
-        self.async_e = AsyncElasticsearch()
+        #self.async_e = AsyncElasticsearch()
         self.return_n_results = n_results
         self.query_increment_size = query_increment_size
+        self.search_cache = {}
         pass
 
     async def _search(self, query):
@@ -130,7 +131,11 @@ class Search:
             #TODO: we need to find a way to make the quering more efficient (i.e. batches possible?)
             p = { "query" : { "query_string" : { "query" : ent }}}
             try:
-                response = self.e.search(index="wikidata_en", body=json.dumps(p), size = query_size)
+                if ent in self.search_cache.keys():
+                    response = self.search_cache[ent]
+                else:
+                    response = self.e.search(index="wikidata_en", body=json.dumps(p), size = query_size)
+                    self.search_cache[ent] = response
                 # response_data = [] 
                 if response:
                     for hit in response['hits']['hits']:
