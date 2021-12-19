@@ -16,8 +16,6 @@ import json
 import asyncio
 from elasticsearch import Elasticsearch, AsyncElasticsearch
 import time
-import elasticsearch
-import tqdm.asyncio
 import pandas as pd
 
 class Search:
@@ -34,7 +32,9 @@ class Search:
         \tNone
         """
         self.e = Elasticsearch()
-        #self.async_e = AsyncElasticsearch()
+        if not self.e.ping():
+            raise ValueError("Connection to Elasticsearch failed")
+        self.async_e = AsyncElasticsearch()
         self.return_n_results = n_results
         self.query_increment_size = query_increment_size
         self.search_cache = {}
@@ -126,17 +126,15 @@ class Search:
             if i %100 ==0:
                 sec = round(time.time() - start)
                 print(f"\t Searched {i}/{num_entities} entities (Elasticsearch) in {sec} seconds ")
-                # if i == 100: #during test runs
-                #     break
             #TODO: we need to find a way to make the quering more efficient (i.e. batches possible?)
-            p = { "query" : { "query_string" : { "query" : ent }}}
             try:
                 if ent in self.search_cache.keys():
                     response = self.search_cache[ent]
                 else:
+                    #p = { "query" : { "query_string" : { "query" : ent }}}
+                    p = {'query': { "multi_match" : { "query" : ent }}}
                     response = self.e.search(index="wikidata_en", body=json.dumps(p), size = query_size)
                     self.search_cache[ent] = response
-                # response_data = [] 
                 if response:
                     for hit in response['hits']['hits']:
                         temp_data = {

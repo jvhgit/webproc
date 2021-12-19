@@ -52,6 +52,7 @@ class Extract:
         entity = re.sub(r"\(/.+?\s", " ", entity)
         entity = re.sub(r"#|\*", " ", entity)
         entity = re.sub(r"\s{1,}", " ", entity)
+        #entity = re.sub('[^A-Za-z0-9 ]+', '', entity)
         return entity
 
     def _extract_entities(self, doc):

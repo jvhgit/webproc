@@ -69,12 +69,12 @@ if __name__ == '__main__':
                         help="The number of threads to use.\nPlease be carefull - do not set to -1, this will go wrong(!). ")
 
     parser.add_argument('--sim_cutoff_NER', type=float, default=0.35,
-                        help="To reduce the number of queries = entities, we compute similarity.cross-referencing scores and use a threshold (last one is kept). ")
+                        help="To reduce the number of queries = entities, we compute similarity.cross-referencing scores and use a threshold (first one is kept). ")
 
     parser.add_argument('--n_hits_EL', type=int, default=3,
                         help="Does nothing (NOT IMPLEMENTED)")
 
-    parser.add_argument('--save_to', type=str, default="results.txt",
+    parser.add_argument('--save_to', type=str, default="/app/assignment/results/results.txt",
                         help="File name where the output should be written to.")
 
     FLAGS, _ = parser.parse_known_args()  # unparsed = _
