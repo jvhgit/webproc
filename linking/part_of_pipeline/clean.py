@@ -15,6 +15,7 @@ import html2text
 from bs4 import BeautifulSoup
 import multiprocessing
 import pandas as pd
+import re
 
 class Clean:
     # class information
@@ -58,9 +59,11 @@ class Clean:
             if len(cleaned_text) > 1:
                 cleaned_text = cleaned_text[1]
             else:
-                cleaned_text = []
+                cleaned_text = ""
         else:
             cleaned_text = parsed
+
+        cleaned_text = cleaned_text.replace("("," ").replace(")"," ").replace("["," ").replace("]"," ")
 
         # break into lines and remove leading and trailing space on each
         lines = (line.strip() for line in cleaned_text.splitlines())

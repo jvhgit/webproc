@@ -28,7 +28,7 @@ class Extract:
                  sim_cutoff_NER=0.75, 
                  blacklist_ne_label = ["CARDINAL", "DATE", "TIME", "MONEY", "PERCENT", "QUANTITY", "ORDINAL"], 
                  blacklist_ne = [""," ", "GMT Server","GMT","R&usg", "RSS", "WordPress", "GMT Cache-Control", "Flash", "§"],
-                 blacklist_ne_contains = ["http"] #note: http websites could add value but in general are only websites which cannot be linked. to increase search speed, remove them
+                 blacklist_ne_contains = ["http",".png",".jpg",".com"] #note: http websites could add value but in general are only websites which cannot be linked. to increase search speed, remove them
                  ) -> None:
         """
         Initialisation function\n

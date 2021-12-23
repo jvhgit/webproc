@@ -1,7 +1,7 @@
 import trident
 import json
-
 import pandas as pd
+import re
 
 class Decision:
     # class information
@@ -63,11 +63,11 @@ class Decision:
         pass
 
     def _create_query(self, ent, label_wde):
-        stripped_ent = ent #.split("/")[-1][:-1]
+        stripped_ent = ent[1:-1]
         return "PREFIX wde: <http://www.wikidata.org/entity/> "\
         "PREFIX wdp: <http://www.wikidata.org/prop/direct/> "\
         "PREFIX wdpn: <http://www.wikidata.org/prop/direct-normalized/> "\
-        "select ?s where {" + stripped_ent + " wdp:P31 wde:" + label_wde + "}"# LIMIT 20"
+        "select ?s where {" + stripped_ent + " wdp:P31/wdp:P279* wde:" + label_wde + "}"# P31: instance of, P279: subclass of
 
     def _query_match(self, ent, label_wde):
         query = self._create_query(ent, label_wde)
@@ -117,7 +117,7 @@ class Decision:
         else:
             results =  wikilinks['warc_id'] + '\t' + wikilinks['label'] + '\t'+ wikilinks['hit_id'] + '\n'
 
-        return pd.DataFrame({"temp_output" : set(results)})
+        return pd.DataFrame({"temp_output" : set(results.values)})
 
     def decide(self, wikilinks):
         """
