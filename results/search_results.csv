@@ -1,0 +1,172 @@
+,label,score,descript,hit_id,warc_id,ent,ent_label
+0,,,,,<urn:uuid:5a67c755-09e8-41f8-b9f9-6e8fcf30f353>,Heritrix/3.1.1-SNAPSHOT-20120210.102032,ORG
+1,,,,,<urn:uuid:5a67c755-09e8-41f8-b9f9-6e8fcf30f353>,WARC File Format,ORG
+2,,,,,<urn:uuid:5a67c755-09e8-41f8-b9f9-6e8fcf30f353>,The Lemur Project's,ORG
+3,,,,,<urn:uuid:5a67c755-09e8-41f8-b9f9-6e8fcf30f353>,ClueWeb12,ORG
+4,,,,,<urn:uuid:0e507043-6b4f-4c29-91de-373852e74b26>,france,GPE
+5,,,,,<urn:uuid:0e507043-6b4f-4c29-91de-373852e74b26>,france,GPE
+6,,,,,<urn:uuid:0e507043-6b4f-4c29-91de-373852e74b26>,Pool 2012-02-10,PRODUCT
+7,,,,,<urn:uuid:0e507043-6b4f-4c29-91de-373852e74b26>,Twitter,PRODUCT
+8,,,,,<urn:uuid:0e507043-6b4f-4c29-91de-373852e74b26>,Ocular,PRODUCT
+9,,,,,<urn:uuid:0e507043-6b4f-4c29-91de-373852e74b26>, Powered,ORG
+10,,,,,<urn:uuid:3f40427b-b986-419e-b76f-40480020d933>,Le Canigou,WORK_OF_ART
+11,,,,,<urn:uuid:3f40427b-b986-419e-b76f-40480020d933>,dans,NORP
+12,,,,,<urn:uuid:3f40427b-b986-419e-b76f-40480020d933>,Le Canigou,WORK_OF_ART
+13,,,,,<urn:uuid:3f40427b-b986-419e-b76f-40480020d933>,dans,NORP
+14,,,,,<urn:uuid:3f40427b-b986-419e-b76f-40480020d933>,Le Canigou,FAC
+15,,,,,<urn:uuid:3f40427b-b986-419e-b76f-40480020d933>,dans,NORP
+16,,,,,<urn:uuid:3f40427b-b986-419e-b76f-40480020d933>,Twitter,PRODUCT
+17,,,,,<urn:uuid:3f40427b-b986-419e-b76f-40480020d933>,Ocular,PRODUCT
+18,,,,,<urn:uuid:3f40427b-b986-419e-b76f-40480020d933>, Powered,ORG
+19,,,,,<urn:uuid:76f38412-080d-4fcf-80ae-610a2e145385>,"photos/marie_bousquet/6851350995/ ""Le",ORG
+20,,,,,<urn:uuid:76f38412-080d-4fcf-80ae-610a2e145385>,Twitter,PRODUCT
+21,,,,,<urn:uuid:76f38412-080d-4fcf-80ae-610a2e145385>,Ocular,PRODUCT
+22,,,,,<urn:uuid:76f38412-080d-4fcf-80ae-610a2e145385>, Powered,ORG
+23,Tweetbot,17.930344,Twitter client,<http://www.wikidata.org/entity/Q248092>,<urn:uuid:1ec9359f-9879-484e-8bde-b84522e8b57c>,Twitter,PRODUCT
+24,#LGBTQofTwitter,17.930344,Twitter hashtag,<http://www.wikidata.org/entity/Q61861117>,<urn:uuid:1ec9359f-9879-484e-8bde-b84522e8b57c>,Twitter,PRODUCT
+25,#TransMenAreNotWomen,17.930344,Twitter hashtag,<http://www.wikidata.org/entity/Q64877513>,<urn:uuid:1ec9359f-9879-484e-8bde-b84522e8b57c>,Twitter,PRODUCT
+26,#SeeUsHearUs,17.930344,Twitter hashtag,<http://www.wikidata.org/entity/Q64605872>,<urn:uuid:1ec9359f-9879-484e-8bde-b84522e8b57c>,Twitter,PRODUCT
+27,corebird,17.930344,Twitter client,<http://www.wikidata.org/entity/Q59607479>,<urn:uuid:1ec9359f-9879-484e-8bde-b84522e8b57c>,Twitter,PRODUCT
+28,Twitterrific,17.930344,Twitter client,<http://www.wikidata.org/entity/Q2582028>,<urn:uuid:1ec9359f-9879-484e-8bde-b84522e8b57c>,Twitter,PRODUCT
+29,#RelationshipGoals,17.930344,Twitter hashtag,<http://www.wikidata.org/entity/Q63978443>,<urn:uuid:1ec9359f-9879-484e-8bde-b84522e8b57c>,Twitter,PRODUCT
+30,#HereWeAre,17.930344,Twitter hashtag,<http://www.wikidata.org/entity/Q63969618>,<urn:uuid:1ec9359f-9879-484e-8bde-b84522e8b57c>,Twitter,PRODUCT
+31,@dril,17.930344,Twitter user,<http://www.wikidata.org/entity/Q37965657>,<urn:uuid:1ec9359f-9879-484e-8bde-b84522e8b57c>,Twitter,PRODUCT
+32,Peter Wong,17.930344,Twitter Legend,<http://www.wikidata.org/entity/Q7177768>,<urn:uuid:1ec9359f-9879-484e-8bde-b84522e8b57c>,Twitter,PRODUCT
+33,Twitter,17.032896,micro-blogging Internet service,<http://www.wikidata.org/entity/Q918>,<urn:uuid:1ec9359f-9879-484e-8bde-b84522e8b57c>,Twitter,PRODUCT
+34,Twitter,17.032896,491st strip of the webcomic xkcd,<http://www.wikidata.org/entity/Q18614279>,<urn:uuid:1ec9359f-9879-484e-8bde-b84522e8b57c>,Twitter,PRODUCT
+35,,,,,<urn:uuid:1ec9359f-9879-484e-8bde-b84522e8b57c>,Twitter,PRODUCT
+36,Flutter,18.179165,ocular phenomenon,<http://www.wikidata.org/entity/Q3746882>,<urn:uuid:1ec9359f-9879-484e-8bde-b84522e8b57c>,Ocular,PRODUCT
+37,Ocular,17.543718,Wikipedia disambiguation page,<http://www.wikidata.org/entity/Q7077132>,<urn:uuid:1ec9359f-9879-484e-8bde-b84522e8b57c>,Ocular,PRODUCT
+38,Geeta Kashyap Vemuganti,16.325598,Indian ocular pathologist,<http://www.wikidata.org/entity/Q45882346>,<urn:uuid:1ec9359f-9879-484e-8bde-b84522e8b57c>,Ocular,PRODUCT
+39,keratometry,16.325598,ocular examination technique,<http://www.wikidata.org/entity/Q991265>,<urn:uuid:1ec9359f-9879-484e-8bde-b84522e8b57c>,Ocular,PRODUCT
+40,small incision cataract surgery,14.815041,type of ocular surgery,<http://www.wikidata.org/entity/Q56071852>,<urn:uuid:1ec9359f-9879-484e-8bde-b84522e8b57c>,Ocular,PRODUCT
+41,eyepiece,14.5549555,"type of lens attached to a variety of optical devices such as telescopes and microscopes; usually the lens that is closest to the eye when someone looks through the device, placed near the focal point of the objective to magnify the image",<http://www.wikidata.org/entity/Q193516>,<urn:uuid:1ec9359f-9879-484e-8bde-b84522e8b57c>,Ocular,PRODUCT
+42,Ocular Music Group,13.2112665,"Record Label, Distributor, Publisher.",<http://www.wikidata.org/entity/Q56385551>,<urn:uuid:1ec9359f-9879-484e-8bde-b84522e8b57c>,Ocular,PRODUCT
+43,cataract surgery,12.501575,ocular surgery performed to remove cataracts,<http://www.wikidata.org/entity/Q1818260>,<urn:uuid:1ec9359f-9879-484e-8bde-b84522e8b57c>,Ocular,PRODUCT
+44,ocular tonometry,12.501575,procedure to determine intra ocular pressure,<http://www.wikidata.org/entity/Q1078066>,<urn:uuid:1ec9359f-9879-484e-8bde-b84522e8b57c>,Ocular,PRODUCT
+45,ocular physiological phenomena,12.183603,processes and properties of the eye as a whole or of any of its parts,<http://www.wikidata.org/entity/Q66661662>,<urn:uuid:1ec9359f-9879-484e-8bde-b84522e8b57c>,Ocular,PRODUCT
+46,ocular toxoplasmosis,12.183603,human disease,<http://www.wikidata.org/entity/Q55011847>,<urn:uuid:1ec9359f-9879-484e-8bde-b84522e8b57c>,Ocular,PRODUCT
+47,exogenous ochronosis,12.183603,,<http://www.wikidata.org/entity/Q55790214>,<urn:uuid:1ec9359f-9879-484e-8bde-b84522e8b57c>,Ocular,PRODUCT
+48,eye movement,12.183603,Wikimedia duplicated page,<http://www.wikidata.org/entity/Q3349017>,<urn:uuid:1ec9359f-9879-484e-8bde-b84522e8b57c>,Ocular,PRODUCT
+49,adaptation,12.183603,response of the eye to light and dark,<http://www.wikidata.org/entity/Q352374>,<urn:uuid:1ec9359f-9879-484e-8bde-b84522e8b57c>,Ocular,PRODUCT
+50,Ocular dominance,12.183603,The tendency of the brain to prefer visual input from one eye to the other,<http://www.wikidata.org/entity/Q760286>,<urn:uuid:1ec9359f-9879-484e-8bde-b84522e8b57c>,Ocular,PRODUCT
+51,ocular onchocerciasis,12.183603,human disease,<http://www.wikidata.org/entity/Q55011305>,<urn:uuid:1ec9359f-9879-484e-8bde-b84522e8b57c>,Ocular,PRODUCT
+52,oculomotor apraxia,12.183603,"The absence or defect of controlled, voluntary, and purposeful eye movement",<http://www.wikidata.org/entity/Q2074059>,<urn:uuid:1ec9359f-9879-484e-8bde-b84522e8b57c>,Ocular,PRODUCT
+53,eye tumor,12.183603,any of the forms of eye neoplasm,<http://www.wikidata.org/entity/Q56013680>,<urn:uuid:1ec9359f-9879-484e-8bde-b84522e8b57c>,Ocular,PRODUCT
+54,Fixation,12.183603,eye movement,<http://www.wikidata.org/entity/Q201936>,<urn:uuid:1ec9359f-9879-484e-8bde-b84522e8b57c>,Ocular,PRODUCT
+55,Ecsenius oculus,11.913327,species of fish,<http://www.wikidata.org/entity/Q2279372>,<urn:uuid:1ec9359f-9879-484e-8bde-b84522e8b57c>,Ocular,PRODUCT
+56,Paladin Hercules,14.859103,powered parachute,<http://www.wikidata.org/entity/Q7126362>,<urn:uuid:1ec9359f-9879-484e-8bde-b84522e8b57c>, Powered,ORG
+57,Trip hammer,14.859103,powered hammer,<http://www.wikidata.org/entity/Q2121955>,<urn:uuid:1ec9359f-9879-484e-8bde-b84522e8b57c>, Powered,ORG
+58,Nitro engine,14.859103,engine powered,<http://www.wikidata.org/entity/Q7041447>,<urn:uuid:1ec9359f-9879-484e-8bde-b84522e8b57c>, Powered,ORG
+59,iBOT,14.859103,Powered wheelchair,<http://www.wikidata.org/entity/Q966781>,<urn:uuid:1ec9359f-9879-484e-8bde-b84522e8b57c>, Powered,ORG
+60,manual wheelchair,14.859103,human-powered,<http://www.wikidata.org/entity/Q28529760>,<urn:uuid:1ec9359f-9879-484e-8bde-b84522e8b57c>, Powered,ORG
+61,paramotor,14.859103,powered paraglider,<http://www.wikidata.org/entity/Q942549>,<urn:uuid:1ec9359f-9879-484e-8bde-b84522e8b57c>, Powered,ORG
+62,Sea-Bow International Sea-Bow,14.859103,powered parachute,<http://www.wikidata.org/entity/Q7439792>,<urn:uuid:1ec9359f-9879-484e-8bde-b84522e8b57c>, Powered,ORG
+63,Paladin Golden Eagle,14.859103,powered parachute,<http://www.wikidata.org/entity/Q7126358>,<urn:uuid:1ec9359f-9879-484e-8bde-b84522e8b57c>, Powered,ORG
+64,High Powered,13.854786,2011 single by Sphere,<http://www.wikidata.org/entity/Q10850833>,<urn:uuid:1ec9359f-9879-484e-8bde-b84522e8b57c>, Powered,ORG
+65,High Powered,13.854786,1945 film by William A. Berke,<http://www.wikidata.org/entity/Q5756231>,<urn:uuid:1ec9359f-9879-484e-8bde-b84522e8b57c>, Powered,ORG
+66,Powered toothbrushes,13.854786,scientific article published on 01 February 1998,<http://www.wikidata.org/entity/Q74459316>,<urn:uuid:1ec9359f-9879-484e-8bde-b84522e8b57c>, Powered,ORG
+67,Powered arms.,13.854786,scientific article published on April 1967,<http://www.wikidata.org/entity/Q42159247>,<urn:uuid:1ec9359f-9879-484e-8bde-b84522e8b57c>, Powered,ORG
+68,Powered skydiving,13.854786,,<http://www.wikidata.org/entity/Q16947409>,<urn:uuid:1ec9359f-9879-484e-8bde-b84522e8b57c>, Powered,ORG
+69,powered exoskeleton,13.854786,wearable machine meant to enhance a person's strength and mobility,<http://www.wikidata.org/entity/Q938523>,<urn:uuid:1ec9359f-9879-484e-8bde-b84522e8b57c>, Powered,ORG
+70,Powered USB,13.854786,,<http://www.wikidata.org/entity/Q7236685>,<urn:uuid:1ec9359f-9879-484e-8bde-b84522e8b57c>, Powered,ORG
+71,powered speakers,13.854786,loudspeaker that have built-in amplifiers,<http://www.wikidata.org/entity/Q422841>,<urn:uuid:1ec9359f-9879-484e-8bde-b84522e8b57c>, Powered,ORG
+72,Sonic Powered,13.854786,,<http://www.wikidata.org/entity/Q11315161>,<urn:uuid:1ec9359f-9879-484e-8bde-b84522e8b57c>, Powered,ORG
+73,Tomei Powered,13.854786,,<http://www.wikidata.org/entity/Q11526317>,<urn:uuid:1ec9359f-9879-484e-8bde-b84522e8b57c>, Powered,ORG
+74,powered paragliding,13.854786,form of ultralight aviation,<http://www.wikidata.org/entity/Q2074276>,<urn:uuid:1ec9359f-9879-484e-8bde-b84522e8b57c>, Powered,ORG
+75,G-Powered,13.854786,finnish band,<http://www.wikidata.org/entity/Q5511919>,<urn:uuid:1ec9359f-9879-484e-8bde-b84522e8b57c>, Powered,ORG
+76,Tourelle,22.742992,Wikipedia disambiguation page,<http://www.wikidata.org/entity/Q7829054>,<urn:uuid:f5a7b1be-d0e0-4f7a-8be1-58f42ab1ef63>,Tourelle,GPE
+77,Tourelle,22.742992,,<http://www.wikidata.org/entity/Q65072808>,<urn:uuid:f5a7b1be-d0e0-4f7a-8be1-58f42ab1ef63>,Tourelle,GPE
+78,Aiguilles Tourelle,21.024738,mountain in Switzerland,<http://www.wikidata.org/entity/Q22371195>,<urn:uuid:f5a7b1be-d0e0-4f7a-8be1-58f42ab1ef63>,Tourelle,GPE
+79,Marc Tourelle,21.024738,French politician,<http://www.wikidata.org/entity/Q62077833>,<urn:uuid:f5a7b1be-d0e0-4f7a-8be1-58f42ab1ef63>,Tourelle,GPE
+80,Lac Tourelle,21.024738,"lake in Saguenay\u2013Lac-Saint-Jean, Canada",<http://www.wikidata.org/entity/Q22507352>,<urn:uuid:f5a7b1be-d0e0-4f7a-8be1-58f42ab1ef63>,Tourelle,GPE
+81,Tourelle du Tamarin,19.547878,,<http://www.wikidata.org/entity/Q27761003>,<urn:uuid:f5a7b1be-d0e0-4f7a-8be1-58f42ab1ef63>,Tourelle,GPE
+82,La Petite Tourelle,19.547878,"island in Quebec, Canada",<http://www.wikidata.org/entity/Q22583952>,<urn:uuid:f5a7b1be-d0e0-4f7a-8be1-58f42ab1ef63>,Tourelle,GPE
+83,La Grande Tourelle,19.547878,"island in Quebec, Canada",<http://www.wikidata.org/entity/Q22654779>,<urn:uuid:f5a7b1be-d0e0-4f7a-8be1-58f42ab1ef63>,Tourelle,GPE
+84,"Tourelle, Rue de la Tixeranderie",19.323214,print in the National Gallery of Art (NGA 213529),<http://www.wikidata.org/entity/Q77260991>,<urn:uuid:f5a7b1be-d0e0-4f7a-8be1-58f42ab1ef63>,Tourelle,GPE
+85,Tourelle rue de coq Saint-Jean (1921.575),18.498993,artwork in the Cleveland Museum of Art's collection,<http://www.wikidata.org/entity/Q79508305>,<urn:uuid:f5a7b1be-d0e0-4f7a-8be1-58f42ab1ef63>,Tourelle,GPE
+86,Pointe de la Tourelle,18.264881,"peninsula in Quebec, Canada",<http://www.wikidata.org/entity/Q22432192>,<urn:uuid:f5a7b1be-d0e0-4f7a-8be1-58f42ab1ef63>,Tourelle,GPE
+87,route de la Tourelle,18.264881,"road in bois de Vincennes, Paris, France",<http://www.wikidata.org/entity/Q21098170>,<urn:uuid:f5a7b1be-d0e0-4f7a-8be1-58f42ab1ef63>,Tourelle,GPE
+88,Parc de la Tourelle,18.264881,Verviers,<http://www.wikidata.org/entity/Q51359990>,<urn:uuid:f5a7b1be-d0e0-4f7a-8be1-58f42ab1ef63>,Tourelle,GPE
+89,Tourelle de la Plate,18.264881,"lighthouse in Finist\u00E8re, France",<http://www.wikidata.org/entity/Q399098>,<urn:uuid:f5a7b1be-d0e0-4f7a-8be1-58f42ab1ef63>,Tourelle,GPE
+90,Ruisseau de la Grande Tourelle,17.139929,watercourse in Canada,<http://www.wikidata.org/entity/Q22495147>,<urn:uuid:f5a7b1be-d0e0-4f7a-8be1-58f42ab1ef63>,Tourelle,GPE
+91,Tourelle de la rue de la Tix\u00E9randerie (1959.373),17.044909,artwork in the Cleveland Museum of Art's collection,<http://www.wikidata.org/entity/Q80029517>,<urn:uuid:f5a7b1be-d0e0-4f7a-8be1-58f42ab1ef63>,Tourelle,GPE
+92,"Tourelle, Rue de l'\u00C9cole de M\u00E9decine, 22, Paris",15.802757,print in the National Gallery of Art (NGA 136198),<http://www.wikidata.org/entity/Q76337307>,<urn:uuid:f5a7b1be-d0e0-4f7a-8be1-58f42ab1ef63>,Tourelle,GPE
+93,Tourelle en Fontaine Rue d'Ecole de Medicines demolies en 1877 (1921.302),15.802757,artwork in the Cleveland Museum of Art's collection,<http://www.wikidata.org/entity/Q79505689>,<urn:uuid:f5a7b1be-d0e0-4f7a-8be1-58f42ab1ef63>,Tourelle,GPE
+94,"Etchings of Paris:  Tourelle, rue de l'Ecole de M\u00E9dicine (1968.258)",15.802757,artwork in the Cleveland Museum of Art's collection,<http://www.wikidata.org/entity/Q80044325>,<urn:uuid:f5a7b1be-d0e0-4f7a-8be1-58f42ab1ef63>,Tourelle,GPE
+95,Tourelle de 155 C mod\u00E8le 1908,15.260151,,<http://www.wikidata.org/entity/Q60851274>,<urn:uuid:f5a7b1be-d0e0-4f7a-8be1-58f42ab1ef63>,Tourelle,GPE
+96,,,,,<urn:uuid:f5a7b1be-d0e0-4f7a-8be1-58f42ab1ef63>,photos/marie_bousquet/6851353771/ ,ORG
+97,Tourelle,22.742992,Wikipedia disambiguation page,<http://www.wikidata.org/entity/Q7829054>,<urn:uuid:f5a7b1be-d0e0-4f7a-8be1-58f42ab1ef63>,Tourelle,GPE
+98,Tourelle,22.742992,,<http://www.wikidata.org/entity/Q65072808>,<urn:uuid:f5a7b1be-d0e0-4f7a-8be1-58f42ab1ef63>,Tourelle,GPE
+99,Aiguilles Tourelle,21.024738,mountain in Switzerland,<http://www.wikidata.org/entity/Q22371195>,<urn:uuid:f5a7b1be-d0e0-4f7a-8be1-58f42ab1ef63>,Tourelle,GPE
+100,Marc Tourelle,21.024738,French politician,<http://www.wikidata.org/entity/Q62077833>,<urn:uuid:f5a7b1be-d0e0-4f7a-8be1-58f42ab1ef63>,Tourelle,GPE
+101,Lac Tourelle,21.024738,"lake in Saguenay\u2013Lac-Saint-Jean, Canada",<http://www.wikidata.org/entity/Q22507352>,<urn:uuid:f5a7b1be-d0e0-4f7a-8be1-58f42ab1ef63>,Tourelle,GPE
+102,Tourelle du Tamarin,19.547878,,<http://www.wikidata.org/entity/Q27761003>,<urn:uuid:f5a7b1be-d0e0-4f7a-8be1-58f42ab1ef63>,Tourelle,GPE
+103,La Petite Tourelle,19.547878,"island in Quebec, Canada",<http://www.wikidata.org/entity/Q22583952>,<urn:uuid:f5a7b1be-d0e0-4f7a-8be1-58f42ab1ef63>,Tourelle,GPE
+104,La Grande Tourelle,19.547878,"island in Quebec, Canada",<http://www.wikidata.org/entity/Q22654779>,<urn:uuid:f5a7b1be-d0e0-4f7a-8be1-58f42ab1ef63>,Tourelle,GPE
+105,"Tourelle, Rue de la Tixeranderie",19.323214,print in the National Gallery of Art (NGA 213529),<http://www.wikidata.org/entity/Q77260991>,<urn:uuid:f5a7b1be-d0e0-4f7a-8be1-58f42ab1ef63>,Tourelle,GPE
+106,Tourelle rue de coq Saint-Jean (1921.575),18.498993,artwork in the Cleveland Museum of Art's collection,<http://www.wikidata.org/entity/Q79508305>,<urn:uuid:f5a7b1be-d0e0-4f7a-8be1-58f42ab1ef63>,Tourelle,GPE
+107,Pointe de la Tourelle,18.264881,"peninsula in Quebec, Canada",<http://www.wikidata.org/entity/Q22432192>,<urn:uuid:f5a7b1be-d0e0-4f7a-8be1-58f42ab1ef63>,Tourelle,GPE
+108,route de la Tourelle,18.264881,"road in bois de Vincennes, Paris, France",<http://www.wikidata.org/entity/Q21098170>,<urn:uuid:f5a7b1be-d0e0-4f7a-8be1-58f42ab1ef63>,Tourelle,GPE
+109,Parc de la Tourelle,18.264881,Verviers,<http://www.wikidata.org/entity/Q51359990>,<urn:uuid:f5a7b1be-d0e0-4f7a-8be1-58f42ab1ef63>,Tourelle,GPE
+110,Tourelle de la Plate,18.264881,"lighthouse in Finist\u00E8re, France",<http://www.wikidata.org/entity/Q399098>,<urn:uuid:f5a7b1be-d0e0-4f7a-8be1-58f42ab1ef63>,Tourelle,GPE
+111,Ruisseau de la Grande Tourelle,17.139929,watercourse in Canada,<http://www.wikidata.org/entity/Q22495147>,<urn:uuid:f5a7b1be-d0e0-4f7a-8be1-58f42ab1ef63>,Tourelle,GPE
+112,Tourelle de la rue de la Tix\u00E9randerie (1959.373),17.044909,artwork in the Cleveland Museum of Art's collection,<http://www.wikidata.org/entity/Q80029517>,<urn:uuid:f5a7b1be-d0e0-4f7a-8be1-58f42ab1ef63>,Tourelle,GPE
+113,"Tourelle, Rue de l'\u00C9cole de M\u00E9decine, 22, Paris",15.802757,print in the National Gallery of Art (NGA 136198),<http://www.wikidata.org/entity/Q76337307>,<urn:uuid:f5a7b1be-d0e0-4f7a-8be1-58f42ab1ef63>,Tourelle,GPE
+114,Tourelle en Fontaine Rue d'Ecole de Medicines demolies en 1877 (1921.302),15.802757,artwork in the Cleveland Museum of Art's collection,<http://www.wikidata.org/entity/Q79505689>,<urn:uuid:f5a7b1be-d0e0-4f7a-8be1-58f42ab1ef63>,Tourelle,GPE
+115,"Etchings of Paris:  Tourelle, rue de l'Ecole de M\u00E9dicine (1968.258)",15.802757,artwork in the Cleveland Museum of Art's collection,<http://www.wikidata.org/entity/Q80044325>,<urn:uuid:f5a7b1be-d0e0-4f7a-8be1-58f42ab1ef63>,Tourelle,GPE
+116,Tourelle de 155 C mod\u00E8le 1908,15.260151,,<http://www.wikidata.org/entity/Q60851274>,<urn:uuid:f5a7b1be-d0e0-4f7a-8be1-58f42ab1ef63>,Tourelle,GPE
+117,Tweetbot,17.930344,Twitter client,<http://www.wikidata.org/entity/Q248092>,<urn:uuid:f5a7b1be-d0e0-4f7a-8be1-58f42ab1ef63>,Twitter,PRODUCT
+118,#LGBTQofTwitter,17.930344,Twitter hashtag,<http://www.wikidata.org/entity/Q61861117>,<urn:uuid:f5a7b1be-d0e0-4f7a-8be1-58f42ab1ef63>,Twitter,PRODUCT
+119,#TransMenAreNotWomen,17.930344,Twitter hashtag,<http://www.wikidata.org/entity/Q64877513>,<urn:uuid:f5a7b1be-d0e0-4f7a-8be1-58f42ab1ef63>,Twitter,PRODUCT
+120,#SeeUsHearUs,17.930344,Twitter hashtag,<http://www.wikidata.org/entity/Q64605872>,<urn:uuid:f5a7b1be-d0e0-4f7a-8be1-58f42ab1ef63>,Twitter,PRODUCT
+121,corebird,17.930344,Twitter client,<http://www.wikidata.org/entity/Q59607479>,<urn:uuid:f5a7b1be-d0e0-4f7a-8be1-58f42ab1ef63>,Twitter,PRODUCT
+122,Twitterrific,17.930344,Twitter client,<http://www.wikidata.org/entity/Q2582028>,<urn:uuid:f5a7b1be-d0e0-4f7a-8be1-58f42ab1ef63>,Twitter,PRODUCT
+123,#RelationshipGoals,17.930344,Twitter hashtag,<http://www.wikidata.org/entity/Q63978443>,<urn:uuid:f5a7b1be-d0e0-4f7a-8be1-58f42ab1ef63>,Twitter,PRODUCT
+124,#HereWeAre,17.930344,Twitter hashtag,<http://www.wikidata.org/entity/Q63969618>,<urn:uuid:f5a7b1be-d0e0-4f7a-8be1-58f42ab1ef63>,Twitter,PRODUCT
+125,@dril,17.930344,Twitter user,<http://www.wikidata.org/entity/Q37965657>,<urn:uuid:f5a7b1be-d0e0-4f7a-8be1-58f42ab1ef63>,Twitter,PRODUCT
+126,Peter Wong,17.930344,Twitter Legend,<http://www.wikidata.org/entity/Q7177768>,<urn:uuid:f5a7b1be-d0e0-4f7a-8be1-58f42ab1ef63>,Twitter,PRODUCT
+127,Twitter,17.032896,micro-blogging Internet service,<http://www.wikidata.org/entity/Q918>,<urn:uuid:f5a7b1be-d0e0-4f7a-8be1-58f42ab1ef63>,Twitter,PRODUCT
+128,Twitter,17.032896,491st strip of the webcomic xkcd,<http://www.wikidata.org/entity/Q18614279>,<urn:uuid:f5a7b1be-d0e0-4f7a-8be1-58f42ab1ef63>,Twitter,PRODUCT
+129,,,,,<urn:uuid:f5a7b1be-d0e0-4f7a-8be1-58f42ab1ef63>,Twitter,PRODUCT
+130,Flutter,18.179165,ocular phenomenon,<http://www.wikidata.org/entity/Q3746882>,<urn:uuid:f5a7b1be-d0e0-4f7a-8be1-58f42ab1ef63>,Ocular,PRODUCT
+131,Ocular,17.543718,Wikipedia disambiguation page,<http://www.wikidata.org/entity/Q7077132>,<urn:uuid:f5a7b1be-d0e0-4f7a-8be1-58f42ab1ef63>,Ocular,PRODUCT
+132,Geeta Kashyap Vemuganti,16.325598,Indian ocular pathologist,<http://www.wikidata.org/entity/Q45882346>,<urn:uuid:f5a7b1be-d0e0-4f7a-8be1-58f42ab1ef63>,Ocular,PRODUCT
+133,keratometry,16.325598,ocular examination technique,<http://www.wikidata.org/entity/Q991265>,<urn:uuid:f5a7b1be-d0e0-4f7a-8be1-58f42ab1ef63>,Ocular,PRODUCT
+134,small incision cataract surgery,14.815041,type of ocular surgery,<http://www.wikidata.org/entity/Q56071852>,<urn:uuid:f5a7b1be-d0e0-4f7a-8be1-58f42ab1ef63>,Ocular,PRODUCT
+135,eyepiece,14.5549555,"type of lens attached to a variety of optical devices such as telescopes and microscopes; usually the lens that is closest to the eye when someone looks through the device, placed near the focal point of the objective to magnify the image",<http://www.wikidata.org/entity/Q193516>,<urn:uuid:f5a7b1be-d0e0-4f7a-8be1-58f42ab1ef63>,Ocular,PRODUCT
+136,Ocular Music Group,13.2112665,"Record Label, Distributor, Publisher.",<http://www.wikidata.org/entity/Q56385551>,<urn:uuid:f5a7b1be-d0e0-4f7a-8be1-58f42ab1ef63>,Ocular,PRODUCT
+137,cataract surgery,12.501575,ocular surgery performed to remove cataracts,<http://www.wikidata.org/entity/Q1818260>,<urn:uuid:f5a7b1be-d0e0-4f7a-8be1-58f42ab1ef63>,Ocular,PRODUCT
+138,ocular tonometry,12.501575,procedure to determine intra ocular pressure,<http://www.wikidata.org/entity/Q1078066>,<urn:uuid:f5a7b1be-d0e0-4f7a-8be1-58f42ab1ef63>,Ocular,PRODUCT
+139,ocular physiological phenomena,12.183603,processes and properties of the eye as a whole or of any of its parts,<http://www.wikidata.org/entity/Q66661662>,<urn:uuid:f5a7b1be-d0e0-4f7a-8be1-58f42ab1ef63>,Ocular,PRODUCT
+140,ocular toxoplasmosis,12.183603,human disease,<http://www.wikidata.org/entity/Q55011847>,<urn:uuid:f5a7b1be-d0e0-4f7a-8be1-58f42ab1ef63>,Ocular,PRODUCT
+141,exogenous ochronosis,12.183603,,<http://www.wikidata.org/entity/Q55790214>,<urn:uuid:f5a7b1be-d0e0-4f7a-8be1-58f42ab1ef63>,Ocular,PRODUCT
+142,eye movement,12.183603,Wikimedia duplicated page,<http://www.wikidata.org/entity/Q3349017>,<urn:uuid:f5a7b1be-d0e0-4f7a-8be1-58f42ab1ef63>,Ocular,PRODUCT
+143,adaptation,12.183603,response of the eye to light and dark,<http://www.wikidata.org/entity/Q352374>,<urn:uuid:f5a7b1be-d0e0-4f7a-8be1-58f42ab1ef63>,Ocular,PRODUCT
+144,Ocular dominance,12.183603,The tendency of the brain to prefer visual input from one eye to the other,<http://www.wikidata.org/entity/Q760286>,<urn:uuid:f5a7b1be-d0e0-4f7a-8be1-58f42ab1ef63>,Ocular,PRODUCT
+145,ocular onchocerciasis,12.183603,human disease,<http://www.wikidata.org/entity/Q55011305>,<urn:uuid:f5a7b1be-d0e0-4f7a-8be1-58f42ab1ef63>,Ocular,PRODUCT
+146,oculomotor apraxia,12.183603,"The absence or defect of controlled, voluntary, and purposeful eye movement",<http://www.wikidata.org/entity/Q2074059>,<urn:uuid:f5a7b1be-d0e0-4f7a-8be1-58f42ab1ef63>,Ocular,PRODUCT
+147,eye tumor,12.183603,any of the forms of eye neoplasm,<http://www.wikidata.org/entity/Q56013680>,<urn:uuid:f5a7b1be-d0e0-4f7a-8be1-58f42ab1ef63>,Ocular,PRODUCT
+148,Fixation,12.183603,eye movement,<http://www.wikidata.org/entity/Q201936>,<urn:uuid:f5a7b1be-d0e0-4f7a-8be1-58f42ab1ef63>,Ocular,PRODUCT
+149,Ecsenius oculus,11.913327,species of fish,<http://www.wikidata.org/entity/Q2279372>,<urn:uuid:f5a7b1be-d0e0-4f7a-8be1-58f42ab1ef63>,Ocular,PRODUCT
+150,Paladin Hercules,14.859103,powered parachute,<http://www.wikidata.org/entity/Q7126362>,<urn:uuid:f5a7b1be-d0e0-4f7a-8be1-58f42ab1ef63>, Powered,ORG
+151,Trip hammer,14.859103,powered hammer,<http://www.wikidata.org/entity/Q2121955>,<urn:uuid:f5a7b1be-d0e0-4f7a-8be1-58f42ab1ef63>, Powered,ORG
+152,Nitro engine,14.859103,engine powered,<http://www.wikidata.org/entity/Q7041447>,<urn:uuid:f5a7b1be-d0e0-4f7a-8be1-58f42ab1ef63>, Powered,ORG
+153,iBOT,14.859103,Powered wheelchair,<http://www.wikidata.org/entity/Q966781>,<urn:uuid:f5a7b1be-d0e0-4f7a-8be1-58f42ab1ef63>, Powered,ORG
+154,manual wheelchair,14.859103,human-powered,<http://www.wikidata.org/entity/Q28529760>,<urn:uuid:f5a7b1be-d0e0-4f7a-8be1-58f42ab1ef63>, Powered,ORG
+155,paramotor,14.859103,powered paraglider,<http://www.wikidata.org/entity/Q942549>,<urn:uuid:f5a7b1be-d0e0-4f7a-8be1-58f42ab1ef63>, Powered,ORG
+156,Sea-Bow International Sea-Bow,14.859103,powered parachute,<http://www.wikidata.org/entity/Q7439792>,<urn:uuid:f5a7b1be-d0e0-4f7a-8be1-58f42ab1ef63>, Powered,ORG
+157,Paladin Golden Eagle,14.859103,powered parachute,<http://www.wikidata.org/entity/Q7126358>,<urn:uuid:f5a7b1be-d0e0-4f7a-8be1-58f42ab1ef63>, Powered,ORG
+158,High Powered,13.854786,2011 single by Sphere,<http://www.wikidata.org/entity/Q10850833>,<urn:uuid:f5a7b1be-d0e0-4f7a-8be1-58f42ab1ef63>, Powered,ORG
+159,High Powered,13.854786,1945 film by William A. Berke,<http://www.wikidata.org/entity/Q5756231>,<urn:uuid:f5a7b1be-d0e0-4f7a-8be1-58f42ab1ef63>, Powered,ORG
+160,Powered toothbrushes,13.854786,scientific article published on 01 February 1998,<http://www.wikidata.org/entity/Q74459316>,<urn:uuid:f5a7b1be-d0e0-4f7a-8be1-58f42ab1ef63>, Powered,ORG
+161,Powered arms.,13.854786,scientific article published on April 1967,<http://www.wikidata.org/entity/Q42159247>,<urn:uuid:f5a7b1be-d0e0-4f7a-8be1-58f42ab1ef63>, Powered,ORG
+162,Powered skydiving,13.854786,,<http://www.wikidata.org/entity/Q16947409>,<urn:uuid:f5a7b1be-d0e0-4f7a-8be1-58f42ab1ef63>, Powered,ORG
+163,powered exoskeleton,13.854786,wearable machine meant to enhance a person's strength and mobility,<http://www.wikidata.org/entity/Q938523>,<urn:uuid:f5a7b1be-d0e0-4f7a-8be1-58f42ab1ef63>, Powered,ORG
+164,Powered USB,13.854786,,<http://www.wikidata.org/entity/Q7236685>,<urn:uuid:f5a7b1be-d0e0-4f7a-8be1-58f42ab1ef63>, Powered,ORG
+165,powered speakers,13.854786,loudspeaker that have built-in amplifiers,<http://www.wikidata.org/entity/Q422841>,<urn:uuid:f5a7b1be-d0e0-4f7a-8be1-58f42ab1ef63>, Powered,ORG
+166,Sonic Powered,13.854786,,<http://www.wikidata.org/entity/Q11315161>,<urn:uuid:f5a7b1be-d0e0-4f7a-8be1-58f42ab1ef63>, Powered,ORG
+167,Tomei Powered,13.854786,,<http://www.wikidata.org/entity/Q11526317>,<urn:uuid:f5a7b1be-d0e0-4f7a-8be1-58f42ab1ef63>, Powered,ORG
+168,powered paragliding,13.854786,form of ultralight aviation,<http://www.wikidata.org/entity/Q2074276>,<urn:uuid:f5a7b1be-d0e0-4f7a-8be1-58f42ab1ef63>, Powered,ORG
+169,G-Powered,13.854786,finnish band,<http://www.wikidata.org/entity/Q5511919>,<urn:uuid:f5a7b1be-d0e0-4f7a-8be1-58f42ab1ef63>, Powered,ORG
+170,,,,,<urn:uuid:566f3fc9-b5b8-466d-a274-e166124f03c9>,Social Media Engagement: Future,ORG

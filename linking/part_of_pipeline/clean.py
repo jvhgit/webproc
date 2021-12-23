@@ -14,6 +14,8 @@
 import html2text
 from bs4 import BeautifulSoup
 import multiprocessing
+import pandas as pd
+
 class Clean:
     # class information
     input_ = "str:html"
@@ -31,19 +33,54 @@ class Clean:
         self.option = option 
         pass
 
+    def _parsehtml2text(self, text):
+        return html2text.html2text(str(text))
+
+    def _parsebeautifulsoup(self, text):        
+        #Reads the html to text and removes certain style elements
+
+        bs = BeautifulSoup(text, features="html.parser")
+
+        # kill all script and style elements
+        for script in bs(["script", "style"]):
+            script.extract()    # remove
+
+        # get text
+        parsed = bs.get_text()
+
+        return parsed
+
+    def _clean(self, parsed):
+
+        #remove meta-data about http website
+        if parsed.startswith('HTTP/'):
+            cleaned_text = parsed.split('\n\n',1)
+            if len(cleaned_text) > 1:
+                cleaned_text = cleaned_text[1]
+            else:
+                cleaned_text = []
+        else:
+            cleaned_text = parsed
+
+        # break into lines and remove leading and trailing space on each
+        lines = (line.strip() for line in cleaned_text.splitlines())
+        # break multi-headlines into a line each
+        chunks = (phrase.strip() for line in lines for phrase in line.split("  "))
+        # drop blank lines
+        cleaned_text = '\n'.join(chunk for chunk in chunks if chunk)
+
+        return cleaned_text
+
+
     def clean(self, text):
-        """
-        Cleans html text using given configuration. \n
-        Input: \n
-        \t text: (str) html text of a given warc file \n
-        Output: \n
-        \t(mostly) cleaned text (in terms of html lingo)
-        """
-        if self.option == 1:    return html2text.html2text(str(text))
-        elif self.option == 2:  return BeautifulSoup(text, features="html.parser").get_text()
-        # elif #ption == 3:
+
+        if self.option == 1:    parsed_text = self._parsehtml2text(text)
+        elif self.option == 2:  parsed_text = self._parsebeautifulsoup(text)
+        # elif self.option == 3:
             #maybe make some custom parser with regex or some other package#
-        pass 
+        pass
+
+        return self._clean(parsed_text)
     
     def _forward(self, records):
         """
@@ -60,6 +97,14 @@ class Clean:
         with multiprocessing.Pool(records['n_threads']) as p:
                 temp = p.map(self.clean, records['html_text'] )
         print("<STATUS: DONE>\n")
+
+        if records['output_intermediates']:
+            pd.DataFrame(
+                {
+                    "html" : temp
+                }
+            ).to_csv(records['output_folder'] + 'clean_results.tsv', sep='\t')
+
         records['text'] = temp
 
         return records

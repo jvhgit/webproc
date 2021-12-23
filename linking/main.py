@@ -51,7 +51,7 @@ if __name__ == '__main__':
                         help="Directory of the xxxx.warc.gz file which will be used to for the entity linking.")
 
     parser.add_argument('--clean_text', type=int, default=1,
-                        help="The cleaning procedure which is used:\n\t1: html2text (default)\n\t2: BeautifulSoup:html.parser", choices=[1, 2])
+                        help="The cleaning procedure which is used:\n\t1: BeautifulSoup:html.parser (default) \n\t2: html2text", choices=[1, 2])
 
     parser.add_argument('--extract_model', type=str, default="en_core_web_sm",
                         help="The model which is used to extract:\n\ten_core_web_sm (default)\n\ten_core_web_lg ", choices=["en_core_web_sm", "en_core_web_lg"])
@@ -68,13 +68,19 @@ if __name__ == '__main__':
     parser.add_argument('--n_threads', type=int, default=4,
                         help="The number of threads to use.\nPlease be carefull - do not set to -1, this will go wrong(!). ")
 
-    parser.add_argument('--sim_cutoff_NER', type=float, default=0.35,
+    parser.add_argument('--sim_cutoff_NER', type=float, default=0.75,
                         help="To reduce the number of queries = entities, we compute similarity.cross-referencing scores and use a threshold (first one is kept). ")
 
     parser.add_argument('--n_hits_EL', type=int, default=3,
                         help="Does nothing (NOT IMPLEMENTED)")
 
-    parser.add_argument('--save_to', type=str, default="/app/assignment/results/results.txt",
+    parser.add_argument('--output_intermediates', type=bool, default=True,
+                        help="Indicates whether intermediates should be output")
+    
+    parser.add_argument('--output_folder', type=str, default="/app/assignment/results/",
+                        help="Indicates whether intermediates should be output")
+
+    parser.add_argument('--save_to', type=str, default="results.txt",
                         help="File name where the output should be written to.")
 
     FLAGS, _ = parser.parse_known_args()  # unparsed = _
@@ -85,7 +91,6 @@ if __name__ == '__main__':
     pipeline.add(name="extract-entity",
                  part=Extract(nlp_model=FLAGS.extract_model,sim_cutoff_NER=FLAGS.sim_cutoff_NER))
     pipeline.add(name="search-entity", part=Search())
-    # basically an empty class but we did put effor into it
     pipeline.add(name="disambiguate-text", part=Decision())
 
     # processing the warc files

@@ -1,34 +1,5 @@
-### AUTHORS ###
-## Clifton Roozendal
-## Floris ten Lohuis
-## Jens van Holland
-
-# Version: 1.0.0
-## Date: 26-11-2021
-# Course: Web Data Processing Systems
-
-
-### DESCRIPTION ###
-# Decision class, uses Trident to decide if correct wikilinks are found for the entities are found
-# TODO: add some other disambiguation functions e.g. with Trident
-
-#LITERATURE
-# http://ceur-ws.org/Vol-2773/paper-02.pd (paper for entity linking using wikidata)
-# import json
-# import trident
-# import collections
-# # import asyncio
-# import time
-
-# KBPATH = "assets/wikidata-20200203-truthy-uri-tridentdb"
-# QUERY_FORMAT = "PREFIX wd: {} "\
-#                "PREFIX schema: <http://schema.org/> "\
-#                "SELECT ?o "\
-#                "WHERE "\
-#                "\{ "\
-#                "wd:Q3 schema:description ?o. "\
-#                "FILTER ( lang(?o) = \"en\" ) "\
-#                "\} "
+import trident
+import json
 
 import pandas as pd
 
@@ -37,8 +8,44 @@ class Decision:
     input_ = "dict:amb_entities"
     output_ = "dict:disamb_entities"
 
+#Note: the following entities are available (where some have of course already been removed during extract)
+# PERSON:      People, including fictional.
+# NORP:        Nationalities or religious or political groups.
+# FAC:         Buildings, airports, highways, bridges, etc.
+# ORG:         Companies, agencies, institutions, etc.
+# GPE:         Countries, cities, states.
+# LOC:         Non-GPE locations, mountain ranges, bodies of water.
+# PRODUCT:     Objects, vehicles, foods, etc. (Not services.)
+# EVENT:       Named hurricanes, battles, wars, sports events, etc.
+# WORK_OF_ART: Titles of books, songs, etc.
+# LAW:         Named documents made into laws.
+# LANGUAGE:    Any named language.
+# DATE:        Absolute or relative dates or periods.
+# TIME:        Times smaller than a day.
+# PERCENT:     Percentage, including ”%“.
+# MONEY:       Monetary values, including unit.
+# QUANTITY:    Measurements, as of weight or distance.
+# ORDINAL:     “first”, “second”, etc.
+# CARDINAL:    Numerals that do not fall under another type.
 
-    def __init__(self, threshold = None, take_first = True, n_hits = 5) -> None:
+    def __init__(self, 
+                    threshold = None, 
+                    take_first = True, 
+                    n_hits = 5,
+                    ent_label_mapping = {
+                        "EVENT":["Q1656682"],
+                        "FAC":["Q41176","Q41176", "Q269949", "Q1248784"],
+                        "GPE":["Q5107","Q6256","Q7275","Q515"],
+                        "LANGUAGE":["Q34770","Q315"],
+                        "LAW":["Q7748"],
+                        "LOC":["Q17334923"],
+                        "NORP":[],
+                        "ORG":["Q43229"],
+                        "PERSON":["Q5"],
+                        "PRODUCT":["Q2424752","Q15401930"],
+                        "WORK_OF_ART":[]
+                    }
+                    ) -> None:
         """
         Initialisation function\n
         Input: \n
@@ -46,13 +53,71 @@ class Decision:
         Output: \n
         \tNone
         """
-        # self.trident_db = trident.Db(KBPATH)
+        KBPATH='assets/wikidata-20200203-truthy-uri-tridentdb'
+        self.trident_db = trident.Db(KBPATH)
         self.n_hits_entity = n_hits
         self.threshold = threshold
         self.take_first = take_first
+        self.ent_label_mapping = ent_label_mapping
+
         pass
 
+    def _create_query(self, ent, label_wde):
+        stripped_ent = ent #.split("/")[-1][:-1]
+        return "PREFIX wde: <http://www.wikidata.org/entity/> "\
+        "PREFIX wdp: <http://www.wikidata.org/prop/direct/> "\
+        "PREFIX wdpn: <http://www.wikidata.org/prop/direct-normalized/> "\
+        "select ?s where {" + stripped_ent + " wdp:P31 wde:" + label_wde + "}"# LIMIT 20"
 
+    def _query_match(self, ent, label_wde):
+        query = self._create_query(ent, label_wde)
+        results = self.trident_db.sparql(query)
+        json_results = json.loads(results)
+        return True if json_results["results"]["bindings"] else False
+
+    def _decide_for_entity(self, wikilinks):
+        if wikilinks.count == 1:
+            return wikilinks
+
+        # try to find an entity where the labels match
+        for _, wikilink in wikilinks.iterrows():
+            hit = wikilink['hit_id']
+            ent_label = wikilink['ent_label']
+            if ent_label in self.ent_label_mapping.keys():
+                for label_wde in self.ent_label_mapping[ent_label]:
+                    if self._query_match(hit, label_wde):
+                        return wikilink
+
+        # if no label found, return the first one (as this had the highest score in elastic search)
+        return wikilinks.iloc[:1]
+
+    def _decide_for_warcid(self, wikilinks):
+        if wikilinks.count == 1:
+            return wikilinks
+
+        results = pd.DataFrame(columns = wikilinks.columns)
+        for _, wikilinks_for_ent in wikilinks.groupby('ent'):
+            filtered_wikilink = self._decide_for_entity(wikilinks_for_ent)
+            results = results.append(filtered_wikilink)
+
+        return results
+
+    def _decide(self, wikilinks):
+
+        results = pd.DataFrame(columns = wikilinks.columns)
+        for _, wikilinks_for_warcid in wikilinks.groupby('warc_id'):
+            filtered_wikilinks = self._decide_for_warcid(wikilinks_for_warcid)
+            results = results.append(filtered_wikilinks)
+
+        return results
+
+    def _transform_format(self, wikilinks):
+        if wikilinks.empty:
+            results = []
+        else:
+            results =  wikilinks['warc_id'] + '\t' + wikilinks['label'] + '\t'+ wikilinks['hit_id'] + '\n'
+
+        return pd.DataFrame({"temp_output" : set(results)})
 
     def decide(self, wikilinks):
         """
@@ -62,11 +127,11 @@ class Decision:
         Output: \n
         \tresults of the queries (dict with {wikidatalink:entity} pairs)
         """
-
         
-        wikilinks['disambig_entities'] =  wikilinks['warc_id'] + '\t' + wikilinks['label'] + '\t'+ wikilinks['hit_id'] + '\n'
-        # print(wikilinks['disambig_entities'])
-        return wikilinks['disambig_entities']
+        results = self._decide(wikilinks)
+        results = self._transform_format(results)
+
+        return results
     
     def _forward(self, records):
         """
@@ -79,164 +144,16 @@ class Decision:
         # this is used by the pipeline
         # make sure this returns the acceptable output
         # it seems redudant but _forward is universal parse function in the pipeline
-        print("--> Disambiguating entities (NOT IMPLEMENTED) <--")
-        records['disambig_entities'] = self.decide(
-                                                records['wiki_links'] #dataframe
-                                            )
+        print("--> Disambiguating entities <--")
+        records['disambig_entities'] = self.decide(records['wiki_links'])
+
         print("<STATUS: DONE>\n")
+
+        if records['output_intermediates']:
+            pd.DataFrame(
+                {
+                    "decision_results" : records['disambig_entities']
+                }
+            ).to_csv(records['output_folder'] + '/decision_results.csv')
+
         return records
-   
-
-#### CODE BELOW DID NOT WORK BUT SHOWS EFFORT #### 
-    # def _query(self, wiki):
-    #     # print(QUERY_FORMAT)
-    #     print( wiki.split("/")[-1][:-1])
-    #     # print(QUERY_FORMAT.format(wiki))
-    #     print( self.trident_db.sparql( #query to database
-    #         # "PREFIX wd: "+ wiki + " PREFIX schema: <http://schema.org/> SELECT ?o WHERE { wd:Q3 schema:description ?o. FILTER ( lang(?o) = \"en\" ) } "
-    #         "PREFIX wd:<http://www.wikidata.org/entity/>"\
-    #         " PREFIX schema:<http://schema.org/>"\
-    #         "SELECT ?o"\
-    #         "WHERE { wd:Q558685 schema:description ?o. FILTER ( lang(?o) = \"en\" ) }"
-    #     ))
-
-    # def _convertToVector(self, text):
-    #     """
-    #     Converts query and/or text information to a vector (which can be compared) \n
-    #     Input: \n
-    #     \t amb_entities: (list) a list of entities\n
-    #     Output: \n
-    #     \tresults of the queries (dict with {wikidatalink:entity} pairs)
-    #     """
-        # if query_information != None:
-        #     #some code to represent the information 
-        #     if method == "1":
-        #         return None
-        #     elif method == '2':
-        #         return None
-
-        # elif text_information != None:
-        #     #some code to represent the information 
-        #     if method == "1":
-        #         return None
-        #     elif method == '2':
-        #         return None
-
-        # else:  print("Please give query or text information to vectorize (None given).")
-
-    # def _compare(self, entity_representation = None, text_representation = None, method = "1"  ):
-    #     """
-    #     Searches a list of given entities \n
-    #     Input: \n
-    #     \t amb_entities: (list) a list of entities\n
-    #     Output: \n
-    #     \tresults of the queries (dict with {wikidatalink:entity} pairs)
-    #     """
-    #     if method == "1": #comparting method 1 (cosine similarity?)
-    #         return None
-    #     elif method == "2": #comparing method 2 (.... similarity0)
-    #         return None
-    #     else: #no method is accepting al (i.e. omitting disambiguation)
-    #         return 1.0
-
-    # def decide_(self, amb_entities, id_, text):
-    #     representation_ents = [] #3-tuple (ent, wiki, vector)
-    #     representation_text = [] #vector
-        
-    #     for ent in amb_entities:
-
-    #         if len(ent.keys()) > 0: #check if any hits at all
-                
-    #             num_ent_hits = len(ent[list(ent.keys())[0]].keys()) #number of hits for entity
-    #             hits = ent[list(ent.keys())[0]]#all the hits of the entity
-
-    #             if (self.take_first)&(num_ent_hits == 1): #if only 1 match always return this match
-    #                 representation_ents.append((max(*list(hits.values())), list(hits.keys())[0], [None]))
-
-    #             elif num_ent_hits < 1: #if no hits go to next entity
-    #                 continue
-
-    #             else: #otherwise make representation for the ent-wiki
-    #                 for wiki in hits.keys():
-    #                     information = self._query(wiki = wiki)
-    #                     print(information)
-    #                     representation_ents.append(
-    #                         (  hits[wiki], wiki, self._convertToVector(query_information=information))
-    #                     )
-
-    # def decide(self, amb_entities, id_, texts):
-    #     """
-    #     Searches a list of given entities \n
-    #     Input: \n
-    #     \t amb_entities: (list) a list with tuples (text_id, entity, wikilink)\n
-    #     \t texts: (list) a list with tuples (text_id, text)\n
-    #     Output: \n
-    #     \tresults of the queries (dict with {wikidatalink:entity} pairs)
-    #     """
-
-    #     representation_ents = [] #3-tuple (ent, wiki, vector)
-    #     representation_text = [] #vector
-
-    #     # entity_frequency= dict(collections.Counter(list(amb_entities.values())))
-    #     #first represent the entity-wiki
-    #     # print(amb_entities)
-    #     for ent in amb_entities:
-
-    #         if len(ent.keys()) > 0: #check if any hits at all
-                
-    #             num_ent_hits = len(ent[list(ent.keys())[0]].keys()) #number of hits for entity
-    #             hits = ent[list(ent.keys())[0]]#all the hits of the entity
-
-    #             if (self.take_first)&(num_ent_hits == 1): #if only 1 match always return this match
-    #                 representation_ents.append((max(*list(hits.values())), list(hits.keys())[0], [None]))
-
-    #             elif num_ent_hits < 1: #if no hits go to next entity
-    #                 continue
-
-    #             else: #otherwise make representation for the ent-wiki
-    #                 for wiki in hits.keys():
-    #                     information = self._query(wiki = wiki)
-    #                     print(information)
-    #                     representation_ents.append(
-    #                         (  hits[wiki], wiki, self._convertToVector(query_information=information))
-    #                     )
-    #     # print(representation_ents)
-    #     #second represent the sentences (could also use other entities for this)
-    #     for id_, text in texts:
-    #         information = text #make information variable
-    #         representation_texts.append(
-    #             (id_, ent, wiki, self._convertToVector(query_information=information))
-    #         )
-
-    #     #make scores for each entity-wiki
-    #     #TODO make exception for 1 match entities
-    #     scores = [] #4-tuple (text_id, ent, wiki, score)
-    #     temp_id = ""
-    #     temp_representation = ""
-    #     for id_, ent, wiki, ent_vector in representation_ents:
-    #         if temp_id != id_:
-    #             text_vector =  representation_texts[representation_texts[:][0] == id_] #compute vector representation
-    #             temp_vector = text_vector #remember vector for next iteration (if same id is used)
-    #             temp_id = id_ #remember id for next iteration (if same id is used0)
-    #         else: 
-    #             text_vector = temp_vector #if vector already computed than take temp_vector value
-
-    #         score = self._compare(
-    #             entity_representation = ent_vector,
-    #             text_representation = text_vector
-    #         )
-    #         scores.append(
-    #             (id_, ent, wiki, score)
-    #         )
-        
-    #     #select results
-    #     results = [] 
-    #     for id_, text in texts:
-    #         temp = scores[scores[:][0] == id_] #does not work but place holder
-    #         temp =  sorted(temp, key =lambda element: (element[1], element[3]))#sort on scores
-    #         for ent in list(set(temp[:][1])):
-    #             results.append(
-    #                 temp[temp[:][1] == ent][:self.n_hits_entity]#select n hightest scores per entity match (does not work)
-    #             ) 
-    #     #returns list of tuple    
-    #     return results

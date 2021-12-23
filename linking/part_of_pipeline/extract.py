@@ -23,7 +23,13 @@ class Extract:
     input_ = "str:clean"
     output_ = "list:amb_entities"
 
-    def __init__(self, nlp_model = 'en_core_web_sm', sim_cutoff_NER=0.35, blacklist_ne_label = ["CARDINAL", "DATE", "TIME", "MONEY", "PERCENT", "QUANTITY", "ORDINAL"], blacklist_ne = [""," ", "GMT Server","GMT",] ) -> None:
+    def __init__(self, 
+                 nlp_model = 'en_core_web_sm',
+                 sim_cutoff_NER=0.75, 
+                 blacklist_ne_label = ["CARDINAL", "DATE", "TIME", "MONEY", "PERCENT", "QUANTITY", "ORDINAL"], 
+                 blacklist_ne = [""," ", "GMT Server","GMT","R&usg", "RSS", "WordPress", "GMT Cache-Control", "Flash", "§"],
+                 blacklist_ne_contains = ["http"] #note: http websites could add value but in general are only websites which cannot be linked. to increase search speed, remove them
+                 ) -> None:
         """
         Initialisation function\n
         Input: \n
@@ -37,6 +43,7 @@ class Extract:
         # self.nlp.get_pipe('ner').moves.prohibit_action(u'U-DATE')
         self.blacklist_ne_label = blacklist_ne_label
         self.blacklist_ne = blacklist_ne
+        self.blacklist_ne_contains = blacklist_ne_contains
 
         pass
     
@@ -52,6 +59,7 @@ class Extract:
         entity = re.sub(r"\(/.+?\s", " ", entity)
         entity = re.sub(r"#|\*", " ", entity)
         entity = re.sub(r"\s{1,}", " ", entity)
+        entity = re.sub("§","", entity)
         #entity = re.sub('[^A-Za-z0-9 ]+', '', entity)
         return entity
 
@@ -65,12 +73,19 @@ class Extract:
         \tCleaned list of entities
         """
         ents_doc = []
+        labels_doc = []
         for ent in doc.ents:
-            if ent.label_ not in self.blacklist_ne_label:
+            label = ent.label_
+            if label not in self.blacklist_ne_label:
                 ent_str = self._clean_entity(str(ent))
-                if ent_str not in self.blacklist_ne and ent_str not in ents_doc and len(difflib.get_close_matches(ent_str, ents_doc, cutoff=self.sim_cutoff_NER)) == 0:
+                if ent_str not in self.blacklist_ne and not any(substring in ent_str for substring in self.blacklist_ne_contains):
+                    if ent_str not in ents_doc:
+                        close_matches = difflib.get_close_matches(ent_str, ents_doc, cutoff=self.sim_cutoff_NER)
+                        if len(close_matches) > 0:
+                            ent_str = close_matches[0]
                     ents_doc.append(ent_str)
-        return ents_doc
+                    labels_doc.append(label)
+        return ents_doc, labels_doc
 
     # def _extract_entities_single(self, string):
     #     ents_doc = []
@@ -103,11 +118,15 @@ class Extract:
         i = 0
         num_docs = len(corpus)
         ents = []
+        labels = []
         for doc in docs:
             i+=1
             if i %100 ==0:
                 print(f"\t Extracted entities for {i}/{num_docs} documents")
-            ents.append(self._extract_entities(doc))
+
+            ents_doc, labels_doc = self._extract_entities(doc)
+            ents.append(ents_doc)
+            labels.append(labels_doc)
 
         sec = round(time.time() - start)
         print(f"\t NER completed in {sec} seconds ")
@@ -135,12 +154,14 @@ class Extract:
         data = pd.DataFrame(
             {
                 "ents" : ents, 
+                "ent_labels" : labels,
                 "ids":ids
             }
         )
-
+        
         #unpack the lists in the pandas columns
         data = data.set_index(['ids']).apply(pd.Series.explode).reset_index()
+        data = data.dropna()
 
         return data
  
@@ -154,8 +175,7 @@ class Extract:
         """
         # this is used by the pipeline
         # make sure this returns the acceptable output
-        #  i
-        # *t seems redudant but _forward is universal parse functions in the pipeline
+        #  it seems redudant but _forward is universal parse functions in the pipeline
         print("--> Extracting entities from text <--")
         extracted = self.extract(
             corpus = records['text'], 
@@ -163,7 +183,8 @@ class Extract:
             batch_size = records['batch_size_NER'],
             n_threads=records['n_threads'])
 
-        extracted.to_csv('/app/assignment/results/extracted_results.csv')
+        if records['output_intermediates']:
+            extracted.to_csv(records['output_folder'] + '/extract_results.csv')
 
         records['amb_entities'] = extracted
 

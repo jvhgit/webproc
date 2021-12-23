@@ -1,0 +1,34 @@
+,ids,ents,ent_labels
+1,<urn:uuid:5a67c755-09e8-41f8-b9f9-6e8fcf30f353>,Heritrix/3.1.1-SNAPSHOT-20120210.102032,ORG
+2,<urn:uuid:5a67c755-09e8-41f8-b9f9-6e8fcf30f353>,WARC File Format,ORG
+3,<urn:uuid:5a67c755-09e8-41f8-b9f9-6e8fcf30f353>,The Lemur Project's,ORG
+4,<urn:uuid:5a67c755-09e8-41f8-b9f9-6e8fcf30f353>,ClueWeb12,ORG
+5,<urn:uuid:0e507043-6b4f-4c29-91de-373852e74b26>,france,GPE
+6,<urn:uuid:0e507043-6b4f-4c29-91de-373852e74b26>,france,GPE
+7,<urn:uuid:0e507043-6b4f-4c29-91de-373852e74b26>,Pool 2012-02-10,PRODUCT
+8,<urn:uuid:0e507043-6b4f-4c29-91de-373852e74b26>,Twitter,PRODUCT
+9,<urn:uuid:0e507043-6b4f-4c29-91de-373852e74b26>,Ocular,PRODUCT
+10,<urn:uuid:0e507043-6b4f-4c29-91de-373852e74b26>, Powered,ORG
+11,<urn:uuid:3f40427b-b986-419e-b76f-40480020d933>,Le Canigou,WORK_OF_ART
+12,<urn:uuid:3f40427b-b986-419e-b76f-40480020d933>,dans,NORP
+13,<urn:uuid:3f40427b-b986-419e-b76f-40480020d933>,Le Canigou,WORK_OF_ART
+14,<urn:uuid:3f40427b-b986-419e-b76f-40480020d933>,dans,NORP
+15,<urn:uuid:3f40427b-b986-419e-b76f-40480020d933>,Le Canigou,FAC
+16,<urn:uuid:3f40427b-b986-419e-b76f-40480020d933>,dans,NORP
+17,<urn:uuid:3f40427b-b986-419e-b76f-40480020d933>,Twitter,PRODUCT
+18,<urn:uuid:3f40427b-b986-419e-b76f-40480020d933>,Ocular,PRODUCT
+19,<urn:uuid:3f40427b-b986-419e-b76f-40480020d933>, Powered,ORG
+20,<urn:uuid:76f38412-080d-4fcf-80ae-610a2e145385>,"photos/marie_bousquet/6851350995/ ""Le",ORG
+21,<urn:uuid:76f38412-080d-4fcf-80ae-610a2e145385>,Twitter,PRODUCT
+22,<urn:uuid:76f38412-080d-4fcf-80ae-610a2e145385>,Ocular,PRODUCT
+23,<urn:uuid:76f38412-080d-4fcf-80ae-610a2e145385>, Powered,ORG
+24,<urn:uuid:1ec9359f-9879-484e-8bde-b84522e8b57c>,Twitter,PRODUCT
+25,<urn:uuid:1ec9359f-9879-484e-8bde-b84522e8b57c>,Ocular,PRODUCT
+26,<urn:uuid:1ec9359f-9879-484e-8bde-b84522e8b57c>, Powered,ORG
+27,<urn:uuid:f5a7b1be-d0e0-4f7a-8be1-58f42ab1ef63>,Tourelle,GPE
+28,<urn:uuid:f5a7b1be-d0e0-4f7a-8be1-58f42ab1ef63>,photos/marie_bousquet/6851353771/ ,ORG
+29,<urn:uuid:f5a7b1be-d0e0-4f7a-8be1-58f42ab1ef63>,Tourelle,GPE
+30,<urn:uuid:f5a7b1be-d0e0-4f7a-8be1-58f42ab1ef63>,Twitter,PRODUCT
+31,<urn:uuid:f5a7b1be-d0e0-4f7a-8be1-58f42ab1ef63>,Ocular,PRODUCT
+32,<urn:uuid:f5a7b1be-d0e0-4f7a-8be1-58f42ab1ef63>, Powered,ORG
+34,<urn:uuid:566f3fc9-b5b8-466d-a274-e166124f03c9>,Social Media Engagement: Future,ORG

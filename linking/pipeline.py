@@ -135,10 +135,15 @@ class Pipeline:
                 "batch_size_NER": args.batch_size_NER,
                 "n_threads" : args.n_threads,
                 "sim_cutoff_NER": args.sim_cutoff_NER,
-                "n_hits_EL": args.n_hits_EL
+                "n_hits_EL": args.n_hits_EL,
+                "output_intermediates": args.output_intermediates,
+                "output_folder": args.output_folder
             }
-
+            i=0
             for id_, text in self._split_records(fo):
+                i+=1
+                if i == 10:
+                    break
                 records['id'].append(id_)
                 records['html_text'].append(text.split("\n\n",1)[-1]) #usually the meta data ends after \n\n (this reduces some time)
             print("<STATUS: DONE>\n")
@@ -146,7 +151,7 @@ class Pipeline:
             self.parse(records)
             
     
-        self._write_to_txt(save_to = args.save_to)
+        self._write_to_txt(save_to = args.output_folder + args.save_to)
         self.reset()
 
     def add(self, name = None, part = None):
