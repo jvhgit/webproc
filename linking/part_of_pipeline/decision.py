@@ -131,9 +131,9 @@ class Decision:
             results = []
         else:
             results =  wikilinks['warc_id'] + '\t' + wikilinks['label'] + '\t'+ wikilinks['hit_id'] + '\n'
-            results = set(results.values.tolist())
+            results = list(set(results.values.tolist()))
 
-        return pd.DataFrame({"temp_output" : results})
+        return results
 
     def decide(self, wikilinks):
         """
@@ -166,10 +166,6 @@ class Decision:
         print("<STATUS: DONE>\n")
 
         if records['output_intermediates']:
-            pd.DataFrame(
-                {
-                    "decision_results" : records['disambig_entities']
-                }
-            ).to_csv(records['output_folder'] + '/decision_results.csv')
+            pd.DataFrame({"temp_output" : records['disambig_entities'] }).to_csv(records['output_folder'] + '/decision_results.csv')
 
         return records

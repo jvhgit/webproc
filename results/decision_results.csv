@@ -1,35 +1,111 @@
-,decision_results
-0,"<urn:uuid:f5a7b1be-d0e0-4f7a-8be1-58f42ab1ef63>	Tourelle	<http://www.wikidata.org/entity/Q7829054>
+,temp_output
+0,"<urn:uuid:1ec9359f-9879-484e-8bde-b84522e8b57c>	XT	<http://www.wikidata.org/entity/Q59780463>
 "
-1,"<urn:uuid:0e507043-6b4f-4c29-91de-373852e74b26>	Flutter	<http://www.wikidata.org/entity/Q3746882>
+1,"<urn:uuid:3f40427b-b986-419e-b76f-40480020d933>	Tunisia	<http://www.wikidata.org/entity/Q948>
 "
-2,"<urn:uuid:76f38412-080d-4fcf-80ae-610a2e145385>	Paladin Hercules	<http://www.wikidata.org/entity/Q7126362>
+2,"<urn:uuid:0e507043-6b4f-4c29-91de-373852e74b26>	Embassies [WP]	<http://www.wikidata.org/entity/Q76343858>
 "
-3,"<urn:uuid:3f40427b-b986-419e-b76f-40480020d933>	Paladin Hercules	<http://www.wikidata.org/entity/Q7126362>
+3,"<urn:uuid:3f40427b-b986-419e-b76f-40480020d933>	Dans dans	<http://www.wikidata.org/entity/Q11964731>
 "
-4,"<urn:uuid:76f38412-080d-4fcf-80ae-610a2e145385>	Tweetbot	<http://www.wikidata.org/entity/Q248092>
+4,"<urn:uuid:f5a7b1be-d0e0-4f7a-8be1-58f42ab1ef63>	Tourelle	<http://www.wikidata.org/entity/Q7829054>
 "
-5,"<urn:uuid:f5a7b1be-d0e0-4f7a-8be1-58f42ab1ef63>	Tweetbot	<http://www.wikidata.org/entity/Q248092>
+5,"<urn:uuid:1ec9359f-9879-484e-8bde-b84522e8b57c>	Tunisia	<http://www.wikidata.org/entity/Q948>
 "
-6,"<urn:uuid:1ec9359f-9879-484e-8bde-b84522e8b57c>	Tweetbot	<http://www.wikidata.org/entity/Q248092>
+6,"<urn:uuid:3f40427b-b986-419e-b76f-40480020d933>	Paladin Hercules	<http://www.wikidata.org/entity/Q7126362>
 "
-7,"<urn:uuid:3f40427b-b986-419e-b76f-40480020d933>	Flutter	<http://www.wikidata.org/entity/Q3746882>
+7,"<urn:uuid:1ec9359f-9879-484e-8bde-b84522e8b57c>	Embassies [WP]	<http://www.wikidata.org/entity/Q76343858>
 "
-8,"<urn:uuid:1ec9359f-9879-484e-8bde-b84522e8b57c>	Paladin Hercules	<http://www.wikidata.org/entity/Q7126362>
+8,"<urn:uuid:f5a7b1be-d0e0-4f7a-8be1-58f42ab1ef63>	Paladin Hercules	<http://www.wikidata.org/entity/Q7126362>
 "
-9,"<urn:uuid:1ec9359f-9879-484e-8bde-b84522e8b57c>	Flutter	<http://www.wikidata.org/entity/Q3746882>
+9,"<urn:uuid:1ec9359f-9879-484e-8bde-b84522e8b57c>	Luke	<http://www.wikidata.org/entity/Q64961931>
 "
-10,"<urn:uuid:3f40427b-b986-419e-b76f-40480020d933>	Tweetbot	<http://www.wikidata.org/entity/Q248092>
+10,"<urn:uuid:76f38412-080d-4fcf-80ae-610a2e145385>	Tweetbot	<http://www.wikidata.org/entity/Q248092>
 "
-11,"<urn:uuid:76f38412-080d-4fcf-80ae-610a2e145385>	Flutter	<http://www.wikidata.org/entity/Q3746882>
+11,"<urn:uuid:f5a7b1be-d0e0-4f7a-8be1-58f42ab1ef63>	Helge Tanck	<http://www.wikidata.org/entity/Q1602402>
 "
-12,"<urn:uuid:f5a7b1be-d0e0-4f7a-8be1-58f42ab1ef63>	Paladin Hercules	<http://www.wikidata.org/entity/Q7126362>
+12,"<urn:uuid:76f38412-080d-4fcf-80ae-610a2e145385>	Morton Morton House	<http://www.wikidata.org/entity/Q6914922>
 "
-13,"<urn:uuid:3f40427b-b986-419e-b76f-40480020d933>	Le Canigou	<http://www.wikidata.org/entity/Q77477352>
+13,"<urn:uuid:0e507043-6b4f-4c29-91de-373852e74b26>	Luke	<http://www.wikidata.org/entity/Q64961931>
 "
-14,"<urn:uuid:3f40427b-b986-419e-b76f-40480020d933>	Dans dans	<http://www.wikidata.org/entity/Q11964731>
+14,"<urn:uuid:76f38412-080d-4fcf-80ae-610a2e145385>	Tunisia	<http://www.wikidata.org/entity/Q948>
 "
-15,"<urn:uuid:0e507043-6b4f-4c29-91de-373852e74b26>	FRANCE ; INVASION, FRANCE (NAID 15420)	<http://www.wikidata.org/entity/Q67687649>
+15,"<urn:uuid:f5a7b1be-d0e0-4f7a-8be1-58f42ab1ef63>	La voyez-vous la com\u00E8te? ... La-haut ...	<http://www.wikidata.org/entity/Q77013867>
 "
-16,"<urn:uuid:f5a7b1be-d0e0-4f7a-8be1-58f42ab1ef63>	Flutter	<http://www.wikidata.org/entity/Q3746882>
+16,"<urn:uuid:0e507043-6b4f-4c29-91de-373852e74b26>	Helge Tanck	<http://www.wikidata.org/entity/Q1602402>
+"
+17,"<urn:uuid:566f3fc9-b5b8-466d-a274-e166124f03c9>	Seo Responds	<http://www.wikidata.org/entity/Q61773713>
+"
+18,"<urn:uuid:5a67c755-09e8-41f8-b9f9-6e8fcf30f353>	WARC Format 1.0 specification	<http://www.wikidata.org/entity/Q84037677>
+"
+19,"<urn:uuid:566f3fc9-b5b8-466d-a274-e166124f03c9>	Jigsaw	<http://www.wikidata.org/entity/Q6192389>
+"
+20,"<urn:uuid:3f40427b-b986-419e-b76f-40480020d933>	XT	<http://www.wikidata.org/entity/Q59780463>
+"
+21,"<urn:uuid:5a67c755-09e8-41f8-b9f9-6e8fcf30f353>	Mah-Jongg	<http://www.wikidata.org/entity/Q6732605>
+"
+22,"<urn:uuid:566f3fc9-b5b8-466d-a274-e166124f03c9>	Robert Skoczykloda	<http://www.wikidata.org/entity/Q77301334>
+"
+23,"<urn:uuid:3f40427b-b986-419e-b76f-40480020d933>	Canigou	<http://www.wikidata.org/entity/Q74068168>
+"
+24,"<urn:uuid:3f40427b-b986-419e-b76f-40480020d933>	Morton Morton House	<http://www.wikidata.org/entity/Q6914922>
+"
+25,"<urn:uuid:f5a7b1be-d0e0-4f7a-8be1-58f42ab1ef63>	XT	<http://www.wikidata.org/entity/Q59780463>
+"
+26,"<urn:uuid:0e507043-6b4f-4c29-91de-373852e74b26>	XT	<http://www.wikidata.org/entity/Q59780463>
+"
+27,"<urn:uuid:f5a7b1be-d0e0-4f7a-8be1-58f42ab1ef63>	Embassies [WP]	<http://www.wikidata.org/entity/Q76343858>
+"
+28,"<urn:uuid:3f40427b-b986-419e-b76f-40480020d933>	Luke	<http://www.wikidata.org/entity/Q64961931>
+"
+29,"<urn:uuid:76f38412-080d-4fcf-80ae-610a2e145385>	XT	<http://www.wikidata.org/entity/Q59780463>
+"
+30,"<urn:uuid:3f40427b-b986-419e-b76f-40480020d933>	Helge Tanck	<http://www.wikidata.org/entity/Q1602402>
+"
+31,"<urn:uuid:3f40427b-b986-419e-b76f-40480020d933>	Embassies [WP]	<http://www.wikidata.org/entity/Q76343858>
+"
+32,"<urn:uuid:f5a7b1be-d0e0-4f7a-8be1-58f42ab1ef63>	Tunisia	<http://www.wikidata.org/entity/Q948>
+"
+33,"<urn:uuid:0e507043-6b4f-4c29-91de-373852e74b26>	La voyez-vous la com\u00E8te? ... La-haut ...	<http://www.wikidata.org/entity/Q77013867>
+"
+34,"<urn:uuid:1ec9359f-9879-484e-8bde-b84522e8b57c>	Paladin Hercules	<http://www.wikidata.org/entity/Q7126362>
+"
+35,"<urn:uuid:3f40427b-b986-419e-b76f-40480020d933>	La voyez-vous la com\u00E8te? ... La-haut ...	<http://www.wikidata.org/entity/Q77013867>
+"
+36,"<urn:uuid:3f40427b-b986-419e-b76f-40480020d933>	Tweetbot	<http://www.wikidata.org/entity/Q248092>
+"
+37,"<urn:uuid:76f38412-080d-4fcf-80ae-610a2e145385>	Helge Tanck	<http://www.wikidata.org/entity/Q1602402>
+"
+38,"<urn:uuid:0e507043-6b4f-4c29-91de-373852e74b26>	FRANCE ; INVASION, FRANCE (NAID 15420)	<http://www.wikidata.org/entity/Q67687649>
+"
+39,"<urn:uuid:1ec9359f-9879-484e-8bde-b84522e8b57c>	Tweetbot	<http://www.wikidata.org/entity/Q248092>
+"
+40,"<urn:uuid:0e507043-6b4f-4c29-91de-373852e74b26>	Morton Morton House	<http://www.wikidata.org/entity/Q6914922>
+"
+41,"<urn:uuid:f5a7b1be-d0e0-4f7a-8be1-58f42ab1ef63>	Luke	<http://www.wikidata.org/entity/Q64961931>
+"
+42,"<urn:uuid:0e507043-6b4f-4c29-91de-373852e74b26>	Tweetbot	<http://www.wikidata.org/entity/Q248092>
+"
+43,"<urn:uuid:1ec9359f-9879-484e-8bde-b84522e8b57c>	Helge Tanck	<http://www.wikidata.org/entity/Q1602402>
+"
+44,"<urn:uuid:f5a7b1be-d0e0-4f7a-8be1-58f42ab1ef63>	Tweetbot	<http://www.wikidata.org/entity/Q248092>
+"
+45,"<urn:uuid:0e507043-6b4f-4c29-91de-373852e74b26>	02:10	<http://www.wikidata.org/entity/Q55522596>
+"
+46,"<urn:uuid:1ec9359f-9879-484e-8bde-b84522e8b57c>	La voyez-vous la com\u00E8te? ... La-haut ...	<http://www.wikidata.org/entity/Q77013867>
+"
+47,"<urn:uuid:f5a7b1be-d0e0-4f7a-8be1-58f42ab1ef63>	Morton Morton House	<http://www.wikidata.org/entity/Q6914922>
+"
+48,"<urn:uuid:0e507043-6b4f-4c29-91de-373852e74b26>	Paladin Hercules	<http://www.wikidata.org/entity/Q7126362>
+"
+49,"<urn:uuid:0e507043-6b4f-4c29-91de-373852e74b26>	Tunisia	<http://www.wikidata.org/entity/Q948>
+"
+50,"<urn:uuid:1ec9359f-9879-484e-8bde-b84522e8b57c>	Morton Morton House	<http://www.wikidata.org/entity/Q6914922>
+"
+51,"<urn:uuid:76f38412-080d-4fcf-80ae-610a2e145385>	Paladin Hercules	<http://www.wikidata.org/entity/Q7126362>
+"
+52,"<urn:uuid:76f38412-080d-4fcf-80ae-610a2e145385>	Luke	<http://www.wikidata.org/entity/Q64961931>
+"
+53,"<urn:uuid:76f38412-080d-4fcf-80ae-610a2e145385>	Embassies [WP]	<http://www.wikidata.org/entity/Q76343858>
+"
+54,"<urn:uuid:76f38412-080d-4fcf-80ae-610a2e145385>	La voyez-vous la com\u00E8te? ... La-haut ...	<http://www.wikidata.org/entity/Q77013867>
 "

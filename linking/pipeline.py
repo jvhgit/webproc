@@ -59,7 +59,7 @@ class Pipeline:
         \tNone
         """
         textfile = open(save_to, "w")
-        for element in self.temp_output.values: 
+        for element in self.temp_output: 
             textfile.write(element)
         textfile.close()
         print(f"Results saved at: {save_to}")
@@ -143,7 +143,7 @@ class Pipeline:
             i=0
             for id_, text in self._split_records(fo):
                 i+=1
-                if i == 10:
+                if i == 100:
                     break
                 records['id'].append(id_)
                 records['html_text'].append(text.split("\n\n",1)[-1]) #usually the meta data ends after \n\n (this reduces some time)
