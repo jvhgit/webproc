@@ -1,10 +1,10 @@
 ### AUTHORS ###
-## Clifton Roozendal
-## Floris ten Lohuis
-## Jens van Holland
+# Clifton Roozendal
+# Floris ten Lohuis
+# Jens van Holland
 
-## Version: 1.0.0
-## Date: 26-11-2021
+## Version: 2.0.0
+## Date: 24-12-2021
 ## Course: Web Data Processing Systems
 
 ### DESCRIPTION ###
@@ -137,13 +137,14 @@ class Pipeline:
                 "sim_cutoff_NER": args.sim_cutoff_NER,
                 "n_hits_EL": args.n_hits_EL,
                 "output_intermediates": args.output_intermediates,
-                "output_folder": args.output_folder
+                "output_folder": args.output_folder,
+                "extract_multithreaded": args.extract_multithreaded
             }
             i=0
             for id_, text in self._split_records(fo):
                 i+=1
-                #if i == 10:
-                #    break
+                if i == 10:
+                    break
                 records['id'].append(id_)
                 records['html_text'].append(text.split("\n\n",1)[-1]) #usually the meta data ends after \n\n (this reduces some time)
             print("<STATUS: DONE>\n")

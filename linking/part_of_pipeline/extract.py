@@ -1,10 +1,10 @@
 ### AUTHORS ###
-## Clifton Roozendal
-## Floris ten Lohuis
-## Jens van Holland
+# Clifton Roozendal
+# Floris ten Lohuis
+# Jens van Holland
 
-## Version: 1.1.0
-## Date: 19-12-2021
+## Version: 2.0.0
+## Date: 24-12-2021
 ## Course: Web Data Processing Systems
 
 ### DESCRIPTION ###
@@ -87,15 +87,42 @@ class Extract:
                     labels_doc.append(label)
         return ents_doc, labels_doc
 
-    # def _extract_entities_single(self, string):
-    #     ents_doc = []
-    #     doc = self.nlp(string)
-    #     for ent in doc.ents:
-    #         if ent.label_ not in self.blacklist_ne_label:
-    #             ent_str = self._clean_entity(str(ent))
-    #             if ent_str not in self.blacklist_ne and ent_str not in ents_doc and len(difflib.get_close_matches(ent_str, ents_doc, cutoff=self.sim_cutoff_NER)) == 0:
-    #                 ents_doc.append(ent_str)
-    #     return ents_doc
+    def _extract_entities_single(self, string):
+        ents_doc = []
+        labels_doc = []
+
+        doc = self.nlp(string)
+        for ent in doc.ents:
+            label = ent.label_
+            if label not in self.blacklist_ne_label:
+                ent_str = self._clean_entity(str(ent))
+                if ent_str not in self.blacklist_ne and not any(substring in ent_str for substring in self.blacklist_ne_contains):
+                    if ent_str not in ents_doc:
+                        close_matches = difflib.get_close_matches(ent_str, ents_doc, cutoff=self.sim_cutoff_NER)
+                        if len(close_matches) > 0:
+                            ent_str = close_matches[0]
+                    ents_doc.append(ent_str)
+                    labels_doc.append(label)
+        return ents_doc, labels_doc
+
+    def extract_multi(self, corpus, ids, n_threads = 1):
+
+        start = time.time()
+        with multiprocessing.Pool(n_threads) as p:
+            ents, labels = p.map(self._extract_entities_single, corpus)
+        sec = round(time.time() - start)
+        print(f"\t NER multi-threaded completed in {sec} seconds ")
+
+        sec = round(time.time() - start)
+        print(f"\t NER completed in {sec} seconds ")
+
+        data = pd.DataFrame(
+            {
+                "ents" : ents, 
+                "ent_labels" : labels,
+                "ids":ids
+            }
+        )
 
 
     def extract(self, corpus, ids, batch_size =8, n_threads = 1):
@@ -140,16 +167,6 @@ class Extract:
         # sec = round(time.time() - start)
         # print(f"\t NER multi-threaded completed in {sec} seconds ")
 
-        # #multi threaded 2
-        # start = time.time()
-        # with multiprocessing.Pool(n_threads) as p:
-        #     ents = p.map(self._extract_entities_single, corpus)
-        # sec = round(time.time() - start)
-        # print(f"\t NER multi-threaded completed in {sec} seconds ")
-
-        # sec = round(time.time() - start)
-        # print(f"\t NER completed in {sec} seconds ")
-
         # make dataframe with found entities and entities types    
         data = pd.DataFrame(
             {
@@ -177,11 +194,18 @@ class Extract:
         # make sure this returns the acceptable output
         #  it seems redudant but _forward is universal parse functions in the pipeline
         print("--> Extracting entities from text <--")
-        extracted = self.extract(
-            corpus = records['text'], 
-            ids = records['id'], 
-            batch_size = records['batch_size_NER'],
-            n_threads=records['n_threads'])
+
+        if records['extract_multithreaded']:
+            extracted = self.extract_multi(
+                corpus = records['text'], 
+                ids = records['id'], 
+                n_threads=records['n_threads'])
+        else:
+            extracted = self.extract(
+                corpus = records['text'], 
+                ids = records['id'], 
+                batch_size = records['batch_size_NER'],
+                n_threads=records['n_threads'])
 
         if records['output_intermediates']:
             extracted.to_csv(records['output_folder'] + '/extract_results.csv')

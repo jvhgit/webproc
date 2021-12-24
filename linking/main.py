@@ -1,11 +1,10 @@
 ### AUTHORS ###
 # Clifton Roozendal
-# Eduard Bosch
 # Floris ten Lohuis
 # Jens van Holland
 
-# Version: 1.0.0
-## Date: 16-11-2021
+## Version: 2.0.0
+## Date: 24-12-2021
 # Course: Web Data Processing Systems
 
 ### DESCRIPTION ###
@@ -55,6 +54,9 @@ if __name__ == '__main__':
 
     parser.add_argument('--extract_model', type=str, default="en_core_web_sm",
                         help="The model which is used to extract:\n\ten_core_web_sm (default)\n\ten_core_web_lg ", choices=["en_core_web_sm", "en_core_web_lg"])
+
+    parser.add_argument('--extract_multithreaded', type=bool, default=False,
+                        help="Should extract be run multithreaded (multi-threaded not much faster than using NER pipeline)")
 
     parser.add_argument('--query_size_ES', type=int, default=20,
                         help="The max number of hits a query can return.")

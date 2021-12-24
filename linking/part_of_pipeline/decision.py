@@ -1,3 +1,16 @@
+### AUTHORS ###
+# Clifton Roozendal
+# Floris ten Lohuis
+# Jens van Holland
+
+## Course: Web Data Processing Systems
+
+### DESCRIPTION ###
+#Decision class, uses trident to disambiguate search results
+
+## Version: 2.0.0
+## Date: 24-12-2021
+
 import trident
 import json
 import pandas as pd
@@ -6,7 +19,7 @@ import re
 class Decision:
     # class information
     input_ = "dict:amb_entities"
-    output_ = "dict:disamb_entities"
+    output_ = "list:disamb_entities"
 
 #Note: the following entities are available (where some have of course already been removed during extract)
 # PERSON:      People, including fictional.
@@ -20,30 +33,27 @@ class Decision:
 # WORK_OF_ART: Titles of books, songs, etc.
 # LAW:         Named documents made into laws.
 # LANGUAGE:    Any named language.
-# DATE:        Absolute or relative dates or periods.
-# TIME:        Times smaller than a day.
-# PERCENT:     Percentage, including ”%“.
-# MONEY:       Monetary values, including unit.
-# QUANTITY:    Measurements, as of weight or distance.
-# ORDINAL:     “first”, “second”, etc.
-# CARDINAL:    Numerals that do not fall under another type.
+# DATE:        Absolute or relative dates or periods. -REMOVED
+# TIME:        Times smaller than a day. -REMOVED
+# PERCENT:     Percentage, including ”%“. -REMOVED
+# MONEY:       Monetary values, including unit. -REMOVED
+# QUANTITY:    Measurements, as of weight or distance. -REMOVED
+# ORDINAL:     “first”, “second”, etc. -REMOVED
+# CARDINAL:    Numerals that do not fall under another type. -REMOVED
 
     def __init__(self, 
-                    threshold = None, 
-                    take_first = True, 
-                    n_hits = 5,
                     ent_label_mapping = {
-                        "EVENT":["Q1656682"],
-                        "FAC":["Q41176","Q41176", "Q269949", "Q1248784"],
-                        "GPE":["Q5107","Q6256","Q7275","Q515"],
+                        "EVENT":["Q1656682","Q22964785"],
+                        "FAC":["Q41176","Q1248784", "Q269949","Q12280","Q25297630","Q34442"],
+                        "GPE":["Q5107","Q6256","Q7275","Q515","Q35657","Q3957"],
                         "LANGUAGE":["Q34770","Q315"],
                         "LAW":["Q7748"],
-                        "LOC":["Q17334923"],
-                        "NORP":[],
-                        "ORG":["Q43229"],
-                        "PERSON":["Q5"],
-                        "PRODUCT":["Q2424752","Q15401930"],
-                        "WORK_OF_ART":[]
+                        "LOC":["Q8502","Q9430","Q23397","Q4022"],
+                        "NORP":["Q231002","Q7278","Q2742167"],
+                        "ORG":["Q43229","Q783794","Q178706"],
+                        "PERSON":["Q5","Q95074","Q97498056"],
+                        "PRODUCT":["Q42889","Q15401930","Q2095","Q25403900"],
+                        "WORK_OF_ART":["Q838948"]
                     }
                     ) -> None:
         """
@@ -55,9 +65,6 @@ class Decision:
         """
         KBPATH='assets/wikidata-20200203-truthy-uri-tridentdb'
         self.trident_db = trident.Db(KBPATH)
-        self.n_hits_entity = n_hits
-        self.threshold = threshold
-        self.take_first = take_first
         self.ent_label_mapping = ent_label_mapping
 
         pass
@@ -116,8 +123,9 @@ class Decision:
             results = []
         else:
             results =  wikilinks['warc_id'] + '\t' + wikilinks['label'] + '\t'+ wikilinks['hit_id'] + '\n'
+            results.values.tolist()
 
-        return pd.DataFrame({"temp_output" : set(results.values)})
+        return pd.DataFrame({"temp_output" : set(results)})
 
     def decide(self, wikilinks):
         """
@@ -125,7 +133,7 @@ class Decision:
         Input: \n
         \t amb_entities: (list) a list of entities\n
         Output: \n
-        \tresults of the queries (dict with {wikidatalink:entity} pairs)
+        \tresults of the disambiguated entities (list)
         """
         
         results = self._decide(wikilinks)
@@ -139,7 +147,7 @@ class Decision:
         Input: \n
         \t amb_entities: (list) a list of entities\n
         Output: \n
-        \tresults of the queries (dict with {wikidatalink:entity} pairs)
+        \tresults of the disambiguated entities (list)
         """
         # this is used by the pipeline
         # make sure this returns the acceptable output

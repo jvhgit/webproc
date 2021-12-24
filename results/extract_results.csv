@@ -6,29 +6,59 @@
 5,<urn:uuid:0e507043-6b4f-4c29-91de-373852e74b26>,france,GPE
 6,<urn:uuid:0e507043-6b4f-4c29-91de-373852e74b26>,france,GPE
 7,<urn:uuid:0e507043-6b4f-4c29-91de-373852e74b26>,Pool 2012-02-10,PRODUCT
-8,<urn:uuid:0e507043-6b4f-4c29-91de-373852e74b26>,Twitter,PRODUCT
-9,<urn:uuid:0e507043-6b4f-4c29-91de-373852e74b26>,Ocular,PRODUCT
-10,<urn:uuid:0e507043-6b4f-4c29-91de-373852e74b26>, Powered,ORG
-11,<urn:uuid:3f40427b-b986-419e-b76f-40480020d933>,Le Canigou,WORK_OF_ART
-12,<urn:uuid:3f40427b-b986-419e-b76f-40480020d933>,dans,NORP
-13,<urn:uuid:3f40427b-b986-419e-b76f-40480020d933>,Le Canigou,WORK_OF_ART
-14,<urn:uuid:3f40427b-b986-419e-b76f-40480020d933>,dans,NORP
-15,<urn:uuid:3f40427b-b986-419e-b76f-40480020d933>,Le Canigou,FAC
-16,<urn:uuid:3f40427b-b986-419e-b76f-40480020d933>,dans,NORP
-17,<urn:uuid:3f40427b-b986-419e-b76f-40480020d933>,Twitter,PRODUCT
-18,<urn:uuid:3f40427b-b986-419e-b76f-40480020d933>,Ocular,PRODUCT
-19,<urn:uuid:3f40427b-b986-419e-b76f-40480020d933>, Powered,ORG
-20,<urn:uuid:76f38412-080d-4fcf-80ae-610a2e145385>,"photos/marie_bousquet/6851350995/ ""Le",ORG
-21,<urn:uuid:76f38412-080d-4fcf-80ae-610a2e145385>,Twitter,PRODUCT
-22,<urn:uuid:76f38412-080d-4fcf-80ae-610a2e145385>,Ocular,PRODUCT
-23,<urn:uuid:76f38412-080d-4fcf-80ae-610a2e145385>, Powered,ORG
-24,<urn:uuid:1ec9359f-9879-484e-8bde-b84522e8b57c>,Twitter,PRODUCT
-25,<urn:uuid:1ec9359f-9879-484e-8bde-b84522e8b57c>,Ocular,PRODUCT
-26,<urn:uuid:1ec9359f-9879-484e-8bde-b84522e8b57c>, Powered,ORG
-27,<urn:uuid:f5a7b1be-d0e0-4f7a-8be1-58f42ab1ef63>,Tourelle,GPE
-28,<urn:uuid:f5a7b1be-d0e0-4f7a-8be1-58f42ab1ef63>,photos/marie_bousquet/6851353771/ ,ORG
-29,<urn:uuid:f5a7b1be-d0e0-4f7a-8be1-58f42ab1ef63>,Tourelle,GPE
-30,<urn:uuid:f5a7b1be-d0e0-4f7a-8be1-58f42ab1ef63>,Twitter,PRODUCT
-31,<urn:uuid:f5a7b1be-d0e0-4f7a-8be1-58f42ab1ef63>,Ocular,PRODUCT
-32,<urn:uuid:f5a7b1be-d0e0-4f7a-8be1-58f42ab1ef63>, Powered,ORG
-34,<urn:uuid:566f3fc9-b5b8-466d-a274-e166124f03c9>,Social Media Engagement: Future,ORG
+8,<urn:uuid:0e507043-6b4f-4c29-91de-373852e74b26>,la ,WORK_OF_ART
+9,<urn:uuid:0e507043-6b4f-4c29-91de-373852e74b26>,Tunisia,GPE
+10,<urn:uuid:0e507043-6b4f-4c29-91de-373852e74b26>,xt ,PERSON
+11,<urn:uuid:0e507043-6b4f-4c29-91de-373852e74b26>,WP Cumulus Flash,WORK_OF_ART
+12,<urn:uuid:0e507043-6b4f-4c29-91de-373852e74b26>,Roy Tanck,PERSON
+13,<urn:uuid:0e507043-6b4f-4c29-91de-373852e74b26>,Luke,PERSON
+14,<urn:uuid:0e507043-6b4f-4c29-91de-373852e74b26>,Morton,PERSON
+15,<urn:uuid:0e507043-6b4f-4c29-91de-373852e74b26>,Twitter,PRODUCT
+16,<urn:uuid:0e507043-6b4f-4c29-91de-373852e74b26>, Powered,PERSON
+17,<urn:uuid:3f40427b-b986-419e-b76f-40480020d933>,Le Canigou,ORG
+18,<urn:uuid:3f40427b-b986-419e-b76f-40480020d933>,dans,NORP
+19,<urn:uuid:3f40427b-b986-419e-b76f-40480020d933>,Le Canigou,WORK_OF_ART
+20,<urn:uuid:3f40427b-b986-419e-b76f-40480020d933>,dans,NORP
+21,<urn:uuid:3f40427b-b986-419e-b76f-40480020d933>,Le Canigou,FAC
+22,<urn:uuid:3f40427b-b986-419e-b76f-40480020d933>,dans,NORP
+23,<urn:uuid:3f40427b-b986-419e-b76f-40480020d933>,la ,WORK_OF_ART
+24,<urn:uuid:3f40427b-b986-419e-b76f-40480020d933>,Tunisia,GPE
+25,<urn:uuid:3f40427b-b986-419e-b76f-40480020d933>,xt ,PERSON
+26,<urn:uuid:3f40427b-b986-419e-b76f-40480020d933>,WP Cumulus Flash,WORK_OF_ART
+27,<urn:uuid:3f40427b-b986-419e-b76f-40480020d933>,Roy Tanck,PERSON
+28,<urn:uuid:3f40427b-b986-419e-b76f-40480020d933>,Luke,PERSON
+29,<urn:uuid:3f40427b-b986-419e-b76f-40480020d933>,Morton,PERSON
+30,<urn:uuid:3f40427b-b986-419e-b76f-40480020d933>,Twitter,PRODUCT
+31,<urn:uuid:3f40427b-b986-419e-b76f-40480020d933>, Powered,PERSON
+32,<urn:uuid:76f38412-080d-4fcf-80ae-610a2e145385>,la ,WORK_OF_ART
+33,<urn:uuid:76f38412-080d-4fcf-80ae-610a2e145385>,Tunisia,GPE
+34,<urn:uuid:76f38412-080d-4fcf-80ae-610a2e145385>,xt ,PERSON
+35,<urn:uuid:76f38412-080d-4fcf-80ae-610a2e145385>,WP Cumulus Flash,WORK_OF_ART
+36,<urn:uuid:76f38412-080d-4fcf-80ae-610a2e145385>,Roy Tanck,PERSON
+37,<urn:uuid:76f38412-080d-4fcf-80ae-610a2e145385>,Luke,PERSON
+38,<urn:uuid:76f38412-080d-4fcf-80ae-610a2e145385>,Morton,PERSON
+39,<urn:uuid:76f38412-080d-4fcf-80ae-610a2e145385>,Twitter,PRODUCT
+40,<urn:uuid:76f38412-080d-4fcf-80ae-610a2e145385>, Powered,PERSON
+41,<urn:uuid:1ec9359f-9879-484e-8bde-b84522e8b57c>,la ,WORK_OF_ART
+42,<urn:uuid:1ec9359f-9879-484e-8bde-b84522e8b57c>,Tunisia,GPE
+43,<urn:uuid:1ec9359f-9879-484e-8bde-b84522e8b57c>,xt ,PERSON
+44,<urn:uuid:1ec9359f-9879-484e-8bde-b84522e8b57c>,WP Cumulus Flash,WORK_OF_ART
+45,<urn:uuid:1ec9359f-9879-484e-8bde-b84522e8b57c>,Roy Tanck,PERSON
+46,<urn:uuid:1ec9359f-9879-484e-8bde-b84522e8b57c>,Luke,PERSON
+47,<urn:uuid:1ec9359f-9879-484e-8bde-b84522e8b57c>,Morton,PERSON
+48,<urn:uuid:1ec9359f-9879-484e-8bde-b84522e8b57c>,Twitter,PRODUCT
+49,<urn:uuid:1ec9359f-9879-484e-8bde-b84522e8b57c>, Powered,PERSON
+50,<urn:uuid:f5a7b1be-d0e0-4f7a-8be1-58f42ab1ef63>,Tourelle,GPE
+51,<urn:uuid:f5a7b1be-d0e0-4f7a-8be1-58f42ab1ef63>,Tourelle,GPE
+52,<urn:uuid:f5a7b1be-d0e0-4f7a-8be1-58f42ab1ef63>,la ,WORK_OF_ART
+53,<urn:uuid:f5a7b1be-d0e0-4f7a-8be1-58f42ab1ef63>,Tunisia,GPE
+54,<urn:uuid:f5a7b1be-d0e0-4f7a-8be1-58f42ab1ef63>,xt ,PERSON
+55,<urn:uuid:f5a7b1be-d0e0-4f7a-8be1-58f42ab1ef63>,WP Cumulus Flash,WORK_OF_ART
+56,<urn:uuid:f5a7b1be-d0e0-4f7a-8be1-58f42ab1ef63>,Roy Tanck,PERSON
+57,<urn:uuid:f5a7b1be-d0e0-4f7a-8be1-58f42ab1ef63>,Luke,PERSON
+58,<urn:uuid:f5a7b1be-d0e0-4f7a-8be1-58f42ab1ef63>,Morton,PERSON
+59,<urn:uuid:f5a7b1be-d0e0-4f7a-8be1-58f42ab1ef63>,Twitter,PRODUCT
+60,<urn:uuid:f5a7b1be-d0e0-4f7a-8be1-58f42ab1ef63>, Powered,PERSON
+62,<urn:uuid:566f3fc9-b5b8-466d-a274-e166124f03c9>,Online Business,ORG
+63,<urn:uuid:566f3fc9-b5b8-466d-a274-e166124f03c9>,Internet Marketing - Make Money Online,PERSON
+64,<urn:uuid:566f3fc9-b5b8-466d-a274-e166124f03c9>,SEO - Getting,ORG

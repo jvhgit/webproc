@@ -1,10 +1,10 @@
 ### AUTHORS ###
-## Clifton Roozendal
-## Floris ten Lohuis
-## Jens van Holland
+# Clifton Roozendal
+# Floris ten Lohuis
+# Jens van Holland
 
-## Version: 1.0.0
-## Date: 26-11-2021
+## Version: 2.0.0
+## Date: 24-12-2021
 ## Course: Web Data Processing Systems
 
 ### DESCRIPTION ###

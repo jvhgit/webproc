@@ -35,7 +35,7 @@ class Scorer:
     def _read(self, file):
         data = {}
         for line in open(file):
-            record, string, entity = line.strip().split('\t', 2)
+            record, string, entity = line.strip().split('\t')
             data[(record, string)] = entity
         n_predicted = len(data)
         print('rows: %s' % n_predicted)
