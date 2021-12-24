@@ -69,14 +69,20 @@ class Decision:
 
         pass
 
-    def _create_query(self, ent, label_wde):
+    def _create_query(self, ent, label_wde, wdp):
         return "PREFIX wde: <http://www.wikidata.org/entity/> "\
         "PREFIX wdp: <http://www.wikidata.org/prop/direct/> "\
         "PREFIX wdpn: <http://www.wikidata.org/prop/direct-normalized/> "\
-        "select ?s where {" + ent + " wdp:P31/wdp:P279* wde:" + label_wde + "}"# P31: instance of, P279: subclass of
+        "select ?s where {" + ent + " wdp:" + wdp + " wde:" + label_wde + "}"# P31: instance of, P279: subclass of
 
-    def _query_match(self, ent, label_wde):
-        query = self._create_query(ent, label_wde)
+    def _query_instance_of(self, ent, label_wde):
+        query = self._create_query(ent, label_wde, "P31")
+        results = self.trident_db.sparql(query)
+        json_results = json.loads(results)
+        return True if json_results["results"]["bindings"] else False
+
+    def _query_subclass_of(self, ent, label_wde):
+        query = self._create_query(ent, label_wde, "P279")
         results = self.trident_db.sparql(query)
         json_results = json.loads(results)
         return True if json_results["results"]["bindings"] else False
@@ -91,8 +97,11 @@ class Decision:
             ent_label = wikilink['ent_label']
             if ent_label in self.ent_label_mapping.keys():
                 for label_wde in self.ent_label_mapping[ent_label]:
-                    if self._query_match(hit, label_wde):
+                    if self._query_instance_of(hit, label_wde):
                         return wikilink
+                    if self._query_subclass_of(hit, label_wde):
+                        return wikilink
+                    
 
         # if no label found, return the first one (as this had the highest score in elastic search)
         return wikilinks.iloc[:1]
