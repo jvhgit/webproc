@@ -122,9 +122,9 @@ class Decision:
             results = []
         else:
             results =  wikilinks['warc_id'] + '\t' + wikilinks['label'] + '\t'+ wikilinks['hit_id'] + '\n'
-            results.values.tolist()
+            result = set(results.values.tolist())
 
-        return pd.DataFrame({"temp_output" : set(results)})
+        return pd.DataFrame({"temp_output" : results})
 
     def decide(self, wikilinks):
         """
